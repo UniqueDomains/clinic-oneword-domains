@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CLINIC one-word domains still available to buy.
 
-This dataset contains 4,527 .CLINIC one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,525 .CLINIC one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CLINIC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=clinic-oneword-domains&utm_content=description.top) (4,528) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.CLINIC one word domai
 | aaron.clinic      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.clinic  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.clinic      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.clinic  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.clinic  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.clinic    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.clinic     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.clinic   | available | 54       | 1%     | 8      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.CLINIC one word domai
 | abaxial.clinic    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.clinic   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.clinic  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.clinic  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.clinic  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.clinic | available | 56       | 1%     | 10     |           |         |         |
 | abducens.clinic   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.clinic   | available | 68       | 1%     | 8      |           |         |         |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.CLINIC one word domai
 | aberdonian.clinic | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.clinic   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.clinic    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.clinic  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.clinic  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.clinic    | available | 106      | 5%     | 7      |           |         |         |
 | abient.clinic     | available | 54       | 1%     | 6      |           |         |         |
 | ability.clinic    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CLINIC one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
