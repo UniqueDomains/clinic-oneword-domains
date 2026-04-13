@@ -67,17 +67,17 @@ print(df.head())
 | snap.clinic    | available | $19.99    | $84.99        | 90             | 46     | 4      | name.com                                                  |
 | trinity.clinic | resell    | $19.99    | $84.99        | 72             | 30     | 7      | Dynadot Inc                                               |
 | game.clinic    | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com                                                  |
-| forge.clinic   | available | $19.99    | $84.99        | 62             | 45     | 5      | name.com                                                  |
+| forge.clinic   | available | $19.99    | $84.99        | 62             | 44     | 5      | name.com                                                  |
 | now.clinic     | resell    | —         | —             | 78             | 66     | 3      | Spaceship, Inc.                                           |
 | air.clinic     | premium   | $520      | $520          | 84             | 49     | 3      | namecheap                                                 |
 | wizard.clinic  | available | $19.99    | $84.99        | 118            | 43     | 6      | name.com                                                  |
-| free.clinic    | resell    | —         | —             | 88             | 59     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| sex.clinic     | resell    | —         | —             | 80             | 59     | 3      | GoDaddy.com, LLC                                          |
 | big.clinic     | premium   | $250      | $250          | 88             | 47     | 3      | name.com                                                  |
 | track.clinic   | available | $19.99    | $84.99        | 94             | 42     | 5      | name.com                                                  |
-| sex.clinic     | resell    | —         | —             | 80             | 59     | 3      | GoDaddy.com, LLC                                          |
+| the.clinic     | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc                                               |
 | law.clinic     | premium   | $1,040    | $1,040        | 82             | 46     | 3      | namecheap                                                 |
 | agile.clinic   | available | $19.99    | $84.99        | 92             | 41     | 5      | name.com                                                  |
-| the.clinic     | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc                                               |
+| free.clinic    | resell    | —         | —             | 88             | 57     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | hotel.clinic   | premium   | $128.70   | $128.70       | 70             | 45     | 5      | namecheap                                                 |
 | pop.clinic     | available | $19.99    | $84.99        | 82             | 41     | 3      | name.com                                                  |
 | good.clinic    | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 36                                         |
