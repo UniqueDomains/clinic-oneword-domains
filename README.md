@@ -1,22 +1,22 @@
-# Available .CLINIC One-Word Domains (9,119)
+# Available .CLINIC One-Word Domains (11,907)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C120%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C119%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C907%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .clinic one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .clinic one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,907 domains** on the canonical page below.
 
-**Public extract:** 9,120 rows · **Live catalog:** 9,119 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,907 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/clinic`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CLINIC one-word domai
 
 ### Files
 
-- `clinic.csv` — public CSV extract (9,120 rows)
-- `clinic.json` — public JSON extract (9,120 rows)
+- `clinic.csv` — public CSV extract (1,000 rows)
+- `clinic.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| snap.clinic    | available | $19.99    | $84.99        | 90             | 46     | 4      | name.com                                                  |
-| trinity.clinic | resell    | $19.99    | $84.99        | 72             | 30     | 7      | Dynadot Inc                                               |
-| game.clinic    | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com                                                  |
-| forge.clinic   | available | $19.99    | $84.99        | 62             | 44     | 5      | name.com                                                  |
-| now.clinic     | resell    | —         | —             | 78             | 66     | 3      | Spaceship, Inc.                                           |
-| air.clinic     | premium   | $520      | $520          | 84             | 49     | 3      | namecheap                                                 |
-| wizard.clinic  | available | $19.99    | $84.99        | 118            | 43     | 6      | name.com                                                  |
-| sex.clinic     | resell    | —         | —             | 80             | 59     | 3      | GoDaddy.com, LLC                                          |
-| big.clinic     | premium   | $250      | $250          | 88             | 47     | 3      | name.com                                                  |
-| track.clinic   | available | $19.99    | $84.99        | 94             | 42     | 5      | name.com                                                  |
-| the.clinic     | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc                                               |
-| law.clinic     | premium   | $1,040    | $1,040        | 82             | 46     | 3      | namecheap                                                 |
-| agile.clinic   | available | $19.99    | $84.99        | 92             | 41     | 5      | name.com                                                  |
-| free.clinic    | resell    | —         | —             | 88             | 57     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| hotel.clinic   | premium   | $128.70   | $128.70       | 70             | 45     | 5      | namecheap                                                 |
-| pop.clinic     | available | $19.99    | $84.99        | 82             | 41     | 3      | name.com                                                  |
-| good.clinic    | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 36                                         |
-| mix.clinic     | premium   | $250      | $250          | 66             | 45     | 3      | name.com                                                  |
-| stock.clinic   | available | $82.98    | —             | 68             | 40     | 5      | namecheap                                                 |
-| buy.clinic     | resell    | —         | —             | 106            | 53     | 3      | Sav.com, LLC - 25                                         |
+| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
+| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| Ryan.clinic               | available | $82.98    | —             | 60             | 44     | 4      | namecheap                |
+| cars.clinic               | resell    | —         | —             | 66             | 47     | 4      | GoDaddy.com, LLC         |
+| skills.clinic             | premium   | $123.75   | —             | 58             | 47     | 6      | name.com                 |
+| matcha.clinic             | available | $19.99    | —             | 86             | 39     | 6      | name.com                 |
+| Women.clinic              | resell    | —         | —             | 77             | 29     | 5      | GoDaddy.com, LLC         |
+| events.clinic             | premium   | $82.50    | —             | 68             | 37     | 6      | name.com                 |
+| lets.clinic               | available | $19.99    | —             | 77             | 39     | 4      | name.com                 |
+| breastaugmentation.clinic | resell    | —         | —             | 66             | 5      | 19     | Vautron Rechenzentrum AG |
+| homes.clinic              | premium   | $250      | —             | 86             | 34     | 5      | name.com                 |
+| justin.clinic             | available | $19.99    | —             | 58             | 38     | 7      | name.com                 |
+| tickets.clinic            | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo                 |
+| stories.clinic            | available | $19.99    | —             | 58             | 36     | 7      | name.com                 |
+| etc.clinic                | premium   | $82.50    | —             | 58             | 34     | 3      | name.com                 |
+| rewards.clinic            | available | $19.99    | —             | 62             | 30     | 7      | name.com                 |
+| partners.clinic           | premium   | $123.75   | —             | 61             | 32     | 8      | name.com                 |
+| spaces.clinic             | available | $19.99    | —             | 54             | 30     | 6      | name.com                 |
+| trends.clinic             | premium   | $250      | —             | 60             | 32     | 6      | name.com                 |
+| videos.clinic             | available | $19.99    | —             | 52             | 30     | 6      | name.com                 |
+| toys.clinic               | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo                 |
+| heroes.clinic             | available | $19.99    | —             | 68             | 29     | 6      | name.com                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,120-row public sample | 9,119 live domains                               |
+| 1,000-row public sample | 11,907 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
