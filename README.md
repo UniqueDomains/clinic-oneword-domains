@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .clinic one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,069 domains · **Median ask:** $28.81 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/clinic`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | cars.clinic               | resell    | —         | —             | 66             | 47     | 4      | GoDaddy.com, LLC         |
 | skills.clinic             | premium   | $123.75   | —             | 58             | 47     | 6      | name.com                 |
 | matcha.clinic             | available | $19.99    | —             | 86             | 39     | 6      | name.com                 |
-| Women.clinic              | resell    | —         | —             | 77             | 29     | 5      | GoDaddy.com, LLC         |
+| Women.clinic              | resell    | —         | —             | 77             | 31     | 5      | GoDaddy.com, LLC         |
 | events.clinic             | premium   | $82.50    | —             | 68             | 37     | 6      | name.com                 |
 | lets.clinic               | available | $19.99    | —             | 77             | 39     | 4      | name.com                 |
 | breastaugmentation.clinic | resell    | —         | —             | 66             | 5      | 19     | Vautron Rechenzentrum AG |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
