@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .clinic one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,007 domains · **Median ask:** $21.55 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/clinic`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,10 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| bad.clinic     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
+| room.clinic    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo          |
 | Eid.clinic     | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | buy.clinic     | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC - 25 |
-| bad.clinic     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
 | pop.clinic     | available | $19.99    | $84.99        | high           | medium | 3      | name.com          |
 | time.clinic    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 42 |
 | bob.clinic     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
@@ -83,7 +84,6 @@ print(df.head())
 | allergy.clinic | resell    | —         | —             | high           | low    | 7      | Porkbun LLC       |
 | gay.clinic     | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
 | camo.clinic    | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| healthy.clinic | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
