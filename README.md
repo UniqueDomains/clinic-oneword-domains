@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .clinic one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,231 domains · **Median ask:** $19.84 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/clinic`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| gay.clinic     | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| pardon.clinic  | available | $19.99    | —             | high           | low    | 6      | name.com         |
+| most.clinic    | available | $19.99    | —             | high           | low    | 4      | name.com         |
 | eid.clinic     | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | block.clinic   | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc      |
-| bad.clinic     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| bad.clinic     | premium   | $85.80    | $85.80        | medium         | low    | 3      | namecheap        |
 | pop.clinic     | available | $19.99    | $84.99        | high           | medium | 3      | name.com         |
 | smith.clinic   | resell    | —         | —             | medium         | medium | 5      | Porkbun LLC      |
-| bob.clinic     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| bob.clinic     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
 | suv.clinic     | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | pocket.clinic  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
 | btw.clinic     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| xxv.clinic     | available | $19.99    | $84.99        | medium         | low    | 3      | name.com         |
+| xxv.clinic     | available | $20.99    | $64.99        | low            | low    | 3      | namesilo         |
 | allergy.clinic | resell    | —         | —             | high           | low    | 7      | Porkbun LLC      |
 | cap.clinic     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | atop.clinic    | available | $19.99    | —             | medium         | low    | 4      | name.com         |
 | healthy.clinic | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
 | dad.clinic     | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
 | calf.clinic    | available | $19.99    | —             | high           | low    | 4      | name.com         |
-| gay.clinic     | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | camo.clinic    | available | $19.99    | —             | high           | low    | 4      | name.com         |
-| had.clinic     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| cent.clinic    | available | $11.98    | $82.98        | medium         | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
