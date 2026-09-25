@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-3e060730-ba39-4315-bad4-52e3c11e8c05,price.clinic,available,19.99,,medium,low,5,name.com,,,
-cb1f21ff-9c6d-4b46-8499-2b29a3656afa,cent.clinic,available,11.98,82.98,medium,low,4,namecheap,,,08/09/2026 08:07
+3e060730-ba39-4315-bad4-52e3c11e8c05,price.clinic,available,19.99,,high,low,5,name.com,,,
+cb1f21ff-9c6d-4b46-8499-2b29a3656afa,cent.clinic,available,11.98,82.98,high,low,4,namecheap,,,08/09/2026 08:07
 dc599334-8c52-4335-bc12-77239f7e1f2a,save.clinic,premium,118.8,118.8,high,low,4,namesilo,,,
-996031ec-e01e-4f87-9c4b-2e649b48bf5e,wellbehaved.clinic,available,19.99,,low,low,12,name.com,,,
-c68be590-8852-4bef-badc-6522d3799566,wheezing.clinic,available,11.98,82.98,low,low,8,namecheap,,,07/08/2026 09:25
+c68be590-8852-4bef-badc-6522d3799566,wheezing.clinic,available,11.98,82.98,medium,low,8,namecheap,,,07/08/2026 09:25
 fc48b68e-a5b5-44fd-b250-247f513c67d6,facet.clinic,available,19.99,,high,low,5,name.com,,,
-55a12aeb-e478-4117-bf7e-6b851a73821a,artesian.clinic,available,11.98,82.98,low,low,8,namecheap,,,06/08/2026 22:39
-ef4cac90-18e3-4503-834c-0e1452184741,childporn.clinic,available,19.99,,medium,low,10,name.com,,,
-54823082-f8c8-4d9c-bd57-7768b70fb238,amaurotic.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-6b9b7ed6-bb68-48e3-a869-915b59f2a494,plumpfor.clinic,available,11.98,82.98,low,low,9,namecheap,,,08/08/2026 05:22
-9ee479a2-0e01-4a5c-8bd2-fde18c6380a8,tin.clinic,premium,78.54,78.54,medium,low,3,namesilo,,,
-f200b3af-5d2a-4900-805d-d9cd93929bef,alleged.clinic,available,11.98,82.98,low,low,7,namecheap,,,22/09/2026 01:19
-8da13a62-94bb-47dd-913c-8514c051dd82,westbranch.clinic,available,19.99,,low,low,11,name.com,,,
-dc4218e7-0eea-4b67-be47-5521aa3c25fb,billion.clinic,available,11.98,82.98,medium,low,7,namecheap,,,22/09/2026 20:43
+55a12aeb-e478-4117-bf7e-6b851a73821a,artesian.clinic,available,11.98,82.98,high,low,8,namecheap,,,06/08/2026 22:39
+9ee479a2-0e01-4a5c-8bd2-fde18c6380a8,tin.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
 d011bdb9-a06e-445d-9be3-9fe2f4f07b0f,oversight.clinic,available,19.99,,high,low,9,name.com,,,
-34adeed8-b31d-4cf5-b966-3f668686edab,fran.clinic,available,19.99,,medium,low,4,name.com,,,
-649f48ab-9b9d-4465-9594-94354cc53c73,aleatory.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-8c125f9f-1b88-4b43-83d2-f9c642b6fb50,wakeup.clinic,available,11.98,82.98,medium,low,7,namecheap,,,07/08/2026 23:56
-d12e86ef-5ad8-469e-bc89-82e8ce364342,ascendable.clinic,available,11.98,82.98,low,low,10,namecheap,,,07/08/2026 00:35
-c577ca35-fcdb-45a0-9065-84120699520a,octet.clinic,available,11.98,82.98,low,low,5,namecheap,,,
-5220a816-dad3-471d-995c-ac617e11d137,tentbed.clinic,available,19.99,,high,low,8,name.com,,,
-41b9a1b2-7a12-4e26-9e03-df4b4deb4845,ontheedgeof.clinic,available,19.99,,medium,low,14,name.com,,,
-18d3a5f7-d099-4448-bffe-b6c2b03893a1,hunkydory.clinic,available,20.99,64.99,medium,low,10,namesilo,,,22/09/2026 01:09
-6de55fdc-cb99-41e3-acd9-87d9355848cf,bacteremic.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 07:01
-08ce7710-eeb8-46e4-b4d9-2143b4cca2f8,bad.clinic,premium,85.8,85.8,medium,low,3,namecheap,,,22/09/2026 16:05
-cdadeb25-8fcb-46c0-bc9c-1359278df614,butif.clinic,available,19.99,,medium,low,6,name.com,,,
-45a5d5c8-f7da-47d6-aa2b-92aa918cde4f,civiltime.clinic,available,19.99,,medium,low,10,name.com,,,
-532d1331-81c5-446c-a01e-2ad297165f92,enviable.clinic,available,19.99,,high,low,8,name.com,,,
+34adeed8-b31d-4cf5-b966-3f668686edab,fran.clinic,available,19.99,,high,low,4,name.com,,,
+649f48ab-9b9d-4465-9594-94354cc53c73,aleatory.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+d12e86ef-5ad8-469e-bc89-82e8ce364342,ascendable.clinic,available,11.98,82.98,medium,low,10,namecheap,,,07/08/2026 00:35
+c577ca35-fcdb-45a0-9065-84120699520a,octet.clinic,available,11.98,82.98,high,low,5,namecheap,,,
+484aefd1-4401-4f95-806a-5ef311f62884,bali.clinic,resell,,,high,medium,4,Porkbun LLC,27/03/2021 09:41,27/03/2027 09:41,24/09/2026 06:59
 108ebfaa-2167-46fc-b812-a129050273b1,stepson.clinic,available,19.99,,high,low,7,name.com,,,
 de12e3e0-7250-4fad-afee-545ec52dc129,atrip.clinic,available,11.98,82.98,low,low,5,namecheap,,,07/08/2026 14:33
-fc4566c1-3d3e-4f16-bd44-8d86386073aa,withering.clinic,available,,,low,low,9,,,,
-7aaaed59-2274-42a8-9b1a-4959529d3b4b,finalyearproject.clinic,available,19.99,,high,low,18,name.com,,,
-56dadfcc-5946-4392-8b2b-9042afe4bf4f,gay.clinic,premium,242,242,medium,low,3,namesilo,,,23/09/2026 09:22
-64215ef9-659d-46bf-896d-89eb92a1e87f,equal.clinic,available,11.98,82.98,medium,low,5,namecheap,,,21/09/2026 18:27
-90825e20-526f-4d62-8966-4e3954eff986,suffer.clinic,available,19.99,,medium,low,6,name.com,,,
-411923c5-bcd8-4484-ad5e-19b2672b34ee,businesstrip.clinic,available,19.99,,high,low,13,name.com,,,
-eb028cbf-44ec-42dc-9fe9-76d492eb21c8,pearlwhite.clinic,available,19.99,,low,low,11,name.com,,,
+fc4566c1-3d3e-4f16-bd44-8d86386073aa,withering.clinic,available,,,medium,low,9,,,,
+90825e20-526f-4d62-8966-4e3954eff986,suffer.clinic,available,19.99,,high,low,6,name.com,,,
 52150c42-1bde-4eab-868a-a55dbbb46ed6,barbeque.clinic,available,19.99,,high,low,8,name.com,,,
-c5109b0a-f739-4103-aeac-48d134b31184,seriously.clinic,available,19.99,,medium,low,9,name.com,,,
-7d915e6f-87ab-4f83-b705-339f05f23d79,forgiving.clinic,available,20.99,64.99,medium,low,9,namesilo,,,21/09/2026 14:52
+c5109b0a-f739-4103-aeac-48d134b31184,seriously.clinic,available,19.99,,high,low,9,name.com,,,
 6c511ec5-74a6-4005-96e5-7ddebcd5a529,ebay.clinic,available,,,high,low,4,,,,
-81dc2340-08ae-4709-b007-c5c5659a09f0,aeonian.clinic,available,11.98,82.98,low,low,7,namecheap,,,
+81dc2340-08ae-4709-b007-c5c5659a09f0,aeonian.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
 fbb68de9-9e59-435c-9f93-857fc03d33c2,invitation.clinic,available,19.99,,high,low,10,name.com,,,
-33400177-c42f-4e6a-a472-f658eaab20ad,broadband.clinic,available,20.99,64.99,medium,low,9,namesilo,,,23/09/2026 09:40
-c3f39ff0-7e87-48e7-87ae-0bec3623f196,bendystraw.clinic,available,19.99,,high,low,11,name.com,,,
-05312e10-ab39-404b-a6c3-b1080c67ed63,commercial.clinic,available,20.99,64.99,medium,low,10,namesilo,,,23/09/2026 07:53
 d9445ba2-4673-404a-a65e-87c4cc5c1786,birthday.clinic,available,19.99,,high,low,8,name.com,,,
-bef965b7-d3b0-44eb-bd90-1d7578f0d41e,fourth.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-dc00b972-f8db-4ddc-bbe1-b39f946a3012,disappointed.clinic,available,19.99,,medium,low,12,name.com,,,
-4fb5060f-ee52-4f25-a652-8506bce885f6,manual.clinic,available,19.99,,medium,low,6,name.com,,,
-9ef8f546-09ba-468b-a675-5fc0d47e6324,readfor.clinic,available,19.99,,low,low,8,name.com,,,
-57ba667a-0331-42ce-996e-3dd74a92a49b,exercisebike.clinic,available,19.99,,high,low,13,name.com,,,
-8142004c-7f60-4664-8e74-e75523af7192,bouncing.clinic,available,20.99,64.99,medium,low,8,namesilo,,,23/09/2026 01:19
-80174db4-b088-4406-9741-59b6dafd426c,hockeyplayer.clinic,available,19.99,,high,low,13,name.com,,,
-df1a793c-d113-4320-801a-9b7d80eb2ed3,cafe.clinic,premium,260,260,medium,low,4,namecheap,,,19/09/2026 13:35
+bef965b7-d3b0-44eb-bd90-1d7578f0d41e,fourth.clinic,available,11.98,82.98,high,low,6,namecheap,,,
+dc00b972-f8db-4ddc-bbe1-b39f946a3012,disappointed.clinic,available,19.99,,high,low,12,name.com,,,
+4fb5060f-ee52-4f25-a652-8506bce885f6,manual.clinic,available,19.99,,high,low,6,name.com,,,
 281de525-9971-423d-81cb-353b260f16b5,largely.clinic,available,19.99,,medium,low,7,name.com,,,
 87dcf38d-7b6a-420d-a824-630ae52e4596,demonstration.clinic,available,19.99,,high,low,13,name.com,,,
-066355ce-29c3-4aa5-a54e-5438efb28693,lynxeyed.clinic,available,11.98,82.98,low,low,9,namecheap,,,06/08/2026 18:48
-a1c3d5a8-c2c1-4b7b-818c-4a2a6830f503,dotmatrixprinter.clinic,available,19.99,,medium,low,18,name.com,,,
-4a69fd8e-8a72-4de0-bb0b-a45a7d9a1200,retracted.clinic,available,19.99,,medium,low,9,name.com,,,
-aa92c836-4ec7-4dc2-b4db-f1ac57805b8d,hellothere.clinic,available,19.99,,high,low,11,name.com,,,
-82723ae4-8a90-4e9c-aeeb-3d746c2e27c6,bristled.clinic,available,11.98,82.98,low,low,8,namecheap,,,08/08/2026 17:13
-b600c045-6299-4c6c-b7c3-badece9432c9,everything.clinic,available,19.99,,medium,medium,10,name.com,,,
-ffa33526-3f93-43cd-9968-3cd1d15040de,into.clinic,available,19.99,,medium,low,4,name.com,,,
-b75a4f7c-e0b6-46fd-857c-76bfbd854c6f,frenchmustard.clinic,available,19.99,,high,low,14,name.com,,,
-d21d52be-9732-464b-9e8b-bebf8c84671b,options.clinic,available,20.99,64.99,low,low,7,namesilo,,,19/09/2026 14:29
+4a69fd8e-8a72-4de0-bb0b-a45a7d9a1200,retracted.clinic,available,19.99,,high,low,9,name.com,,,
+b600c045-6299-4c6c-b7c3-badece9432c9,everything.clinic,available,19.99,,high,medium,10,name.com,,,
+ffa33526-3f93-43cd-9968-3cd1d15040de,into.clinic,available,19.99,,high,low,4,name.com,,,
 b109ea51-3c4a-442a-a844-89a639c097b0,parent.clinic,available,19.99,,high,low,6,name.com,,,
-672e88c0-0fcd-465f-b901-bab029826e48,laudable.clinic,available,11.98,82.98,low,low,8,namecheap,,,06/08/2026 07:01
+672e88c0-0fcd-465f-b901-bab029826e48,laudable.clinic,available,11.98,82.98,high,low,8,namecheap,,,06/08/2026 07:01
 bbcea251-24ad-45a8-8305-91388a7b6620,bonus.clinic,available,19.99,,high,low,5,name.com,,,
-89021cfb-818d-4aa3-abd2-c654def40f3d,developed.clinic,available,19.99,84.99,high,low,9,name.com,,,
-107de029-fe18-4582-ada1-2ea0ccf270de,grocery.clinic,available,11.98,82.98,medium,low,7,namecheap,,,08/09/2026 13:48
-120b1cc4-506e-4c3b-9c4b-d1b7317cfa50,grueling.clinic,available,11.98,82.98,low,low,8,namecheap,,,06/08/2026 16:45
-32d557bf-66c6-438c-b845-2c5ba40e7ac9,lettherebelight.clinic,available,19.99,,medium,low,18,name.com,,,
-b1b75440-759d-4813-804d-69258dbfa0d3,aerial.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
-cf5c2471-b9c1-42df-b042-2087a2f267d7,magiccube.clinic,available,19.99,,medium,low,10,name.com,,,
-0ba71e77-4d33-4d6c-8b37-315c6c87828c,tilldate.clinic,available,19.99,,low,low,9,name.com,,,
-8f896c20-c6c5-498a-a2dd-66ee89f733c9,rearend.clinic,available,11.98,82.98,low,low,8,namecheap,,,09/08/2026 11:23
+107de029-fe18-4582-ada1-2ea0ccf270de,grocery.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/09/2026 13:48
+120b1cc4-506e-4c3b-9c4b-d1b7317cfa50,grueling.clinic,available,11.98,82.98,high,low,8,namecheap,,,06/08/2026 16:45
+b1b75440-759d-4813-804d-69258dbfa0d3,aerial.clinic,available,11.98,82.98,high,low,6,namecheap,,,
 7f71b192-8caa-4f84-aadb-98134e4084f1,czechoslovakia.clinic,available,19.99,,medium,low,14,name.com,,,
-2e770419-4d77-4dda-8bc8-0f49d05f0fe4,beauteous.clinic,available,11.98,82.98,low,low,9,namecheap,,,09/08/2026 05:58
-52b40ed3-6ad9-43ed-9075-cc0f13b1a59d,beaked.clinic,available,11.98,82.98,low,low,6,namecheap,,,09/08/2026 03:50
+2e770419-4d77-4dda-8bc8-0f49d05f0fe4,beauteous.clinic,available,11.98,82.98,medium,low,9,namecheap,,,09/08/2026 05:58
+52b40ed3-6ad9-43ed-9075-cc0f13b1a59d,beaked.clinic,available,11.98,82.98,medium,low,6,namecheap,,,09/08/2026 03:50
 f9be9d40-98ae-4da1-bb6a-e4035dc9912e,pandora.clinic,available,,,high,low,7,,,,
-2a6b8a92-ca58-4714-9008-a48f3f333429,amitotic.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-bbd5c80b-aedd-45ea-a49f-21b5cef87de1,generalformula.clinic,available,19.99,,high,low,15,name.com,,,
-ecfdda20-dfc1-4775-9d0d-181562f5a3b8,styptic.clinic,available,11.98,82.98,low,low,7,namecheap,,,07/08/2026 10:00
+ecfdda20-dfc1-4775-9d0d-181562f5a3b8,styptic.clinic,available,11.98,82.98,medium,low,7,namecheap,,,07/08/2026 10:00
 826187d1-4080-41c9-938f-922279be781f,california.clinic,premium,242,242,high,low,10,namesilo,,,
 94dd9447-bdf5-4e03-964d-02f59fd87f46,relations.clinic,available,19.99,,high,low,9,name.com,,,
-ce426124-53f9-4062-8c13-0d30337bd9c6,armless.clinic,available,11.98,82.98,low,low,7,namecheap,,,06/08/2026 19:54
-8ba55d96-90ed-4e8c-acb9-bb1af546487f,cassette.clinic,available,19.99,,medium,low,8,name.com,,,
+ce426124-53f9-4062-8c13-0d30337bd9c6,armless.clinic,available,11.98,82.98,high,low,7,namecheap,,,06/08/2026 19:54
+8ba55d96-90ed-4e8c-acb9-bb1af546487f,cassette.clinic,available,19.99,,high,low,8,name.com,,,
 fc481d57-e48c-4f03-bc71-218a019a4034,diversify.clinic,available,19.99,,high,low,9,name.com,,,
-ed4c0982-f665-4d0f-b61a-f91dbdc2fdc0,xcii.clinic,available,11.98,82.98,low,low,4,namecheap,,,
+ed4c0982-f665-4d0f-b61a-f91dbdc2fdc0,xcii.clinic,available,11.98,82.98,medium,low,4,namecheap,,,
 6d3a54c6-f100-4f9a-955c-5d2456baeeeb,tile.clinic,available,19.99,,high,low,4,name.com,,,
-924d200f-4fd3-4a67-817b-a484d8b079d1,object.clinic,available,11.98,82.98,medium,low,6,namecheap,,,19/09/2026 05:21
-359efd20-0e3a-4048-bb29-2c0cddac0ece,happyhour.clinic,available,19.99,,high,low,10,name.com,,,
 f2747683-412b-481b-9851-9ab3d75d4947,categorically.clinic,available,19.99,,medium,low,13,name.com,,,
-65ecf9b6-3aa2-407a-95b8-1d95fac602ad,dress.clinic,available,19.99,84.99,high,low,5,name.com,,,
-6c71df7f-85b1-45dc-bfb9-cbfdf0bfbae8,atop.clinic,available,19.99,,medium,low,4,name.com,,,
-ce0d62ab-9fa6-4f45-9f87-7b05747ecbd9,godking.clinic,available,19.99,,high,low,8,name.com,,,
-15ee495c-fa9c-45e8-8ec4-9ffdd27b7770,votingage.clinic,available,19.99,,low,low,10,name.com,,,
-a1646556-6448-473f-b11e-5a36efebf811,gotoilet.clinic,available,19.99,,medium,low,9,name.com,,,
-1f8f54f8-c478-4eae-829f-a78e561afc99,adhominem.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-b09d52c9-9580-4456-8f11-ff146242d6cb,geometry.clinic,available,19.99,,medium,low,8,name.com,,,
-1e96df1d-4126-4213-b4c6-550a9efd72e5,lookunderrocks.clinic,available,19.99,,medium,low,16,name.com,,,
+6c71df7f-85b1-45dc-bfb9-cbfdf0bfbae8,atop.clinic,available,19.99,,high,low,4,name.com,,,
+b09d52c9-9580-4456-8f11-ff146242d6cb,geometry.clinic,available,19.99,,high,low,8,name.com,,,
 f7aa657d-d69d-4dd3-a12a-6deffad4eed4,modest.clinic,available,19.99,,high,low,6,name.com,,,
 ddd70ee3-bb49-4ecf-bb9c-64b3fc35ba13,analyze.clinic,available,19.99,,high,low,7,name.com,,,
-32aa7125-059b-44dc-9c05-08a9bd9e2513,carry.clinic,available,19.99,,medium,low,5,name.com,,,
-47e6e5ab-9ce0-425d-ad97-22dac55669ee,adenoidal.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-386ddfa5-01dc-4ee3-b6c3-cceea1569fdf,antepenult.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-03cbe425-ff82-4dbd-859d-f5908050b82c,beatified.clinic,available,11.98,82.98,low,low,9,namecheap,,,09/08/2026 05:53
+32aa7125-059b-44dc-9c05-08a9bd9e2513,carry.clinic,available,19.99,,high,low,5,name.com,,,
+03cbe425-ff82-4dbd-859d-f5908050b82c,beatified.clinic,available,11.98,82.98,medium,low,9,namecheap,,,09/08/2026 05:53
 63f95b1e-e7d3-4f98-86d5-78c674539760,description.clinic,available,19.99,,high,low,11,name.com,,,
-2190c8b9-68a5-42cc-b35f-f695c39bc6e4,pricelist.clinic,available,19.99,,medium,low,10,name.com,,,
-8b0adf20-275d-46b3-8f05-8d5c796b4546,bowed.clinic,available,11.98,82.98,low,low,5,namecheap,,,06/08/2026 14:55
+8b0adf20-275d-46b3-8f05-8d5c796b4546,bowed.clinic,available,11.98,82.98,high,low,5,namecheap,,,06/08/2026 14:55
 03328dc1-8f78-45f6-a006-84ce5038ddf4,cooperation.clinic,available,19.99,,high,low,11,name.com,,,
-ab26d0b9-08f0-487f-8af1-c7da6c8423d8,tobeginwith.clinic,available,19.99,,low,low,13,name.com,,,
-3f3af22d-fd99-492b-b160-5552fc76a48e,assignable.clinic,available,11.98,82.98,low,low,10,namecheap,,,07/08/2026 06:19
-1d9398ba-48cb-47f0-be60-828f091b39f5,bestwishes.clinic,available,19.99,,high,low,11,name.com,,,
+3f3af22d-fd99-492b-b160-5552fc76a48e,assignable.clinic,available,11.98,82.98,medium,low,10,namecheap,,,07/08/2026 06:19
 5d54e57a-7db9-4ce0-b776-72381d863793,laziness.clinic,available,19.99,,medium,low,8,name.com,,,
-34f5f7c3-ac39-4f1d-a0ae-7bd7f1858969,unquestionably.clinic,available,19.99,,medium,low,14,name.com,,,
-64d5e2d6-4432-48a5-be70-3e85aa712c7c,harm.clinic,available,11.98,82.98,medium,low,4,namecheap,,,08/09/2026 07:44
+64d5e2d6-4432-48a5-be70-3e85aa712c7c,harm.clinic,available,11.98,82.98,high,low,4,namecheap,,,08/09/2026 07:44
 41365142-1926-4289-8533-1f084e4dda66,volvo.clinic,available,19.99,,high,low,5,name.com,,,
-07b5f407-de1f-48dd-b621-e724c5842192,accursed.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-574f92b9-ee17-4c34-aca8-41640ad75b22,facetious.clinic,available,11.98,82.98,low,low,9,namecheap,,,08/08/2026 14:39
-40915753-61c6-4c1c-8079-018c4847f094,givesomeoneabreak.clinic,available,19.99,,high,low,20,name.com,,,
-7588ae4a-f60d-4751-8e0b-16a0e1df1356,autogamous.clinic,available,11.98,82.98,low,low,10,namecheap,,,07/08/2026 20:05
-d1408fa6-160b-43de-8dd8-453e437d3b63,playacting.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-d15096bf-6b9b-4f87-a7b3-fab37bb21bbd,block.clinic,resell,,,medium,low,5,Dynadot Inc,04/06/2022 13:15,04/06/2026 13:15,
+07b5f407-de1f-48dd-b621-e724c5842192,accursed.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+574f92b9-ee17-4c34-aca8-41640ad75b22,facetious.clinic,available,11.98,82.98,medium,low,9,namecheap,,,08/08/2026 14:39
+d1408fa6-160b-43de-8dd8-453e437d3b63,playacting.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+d15096bf-6b9b-4f87-a7b3-fab37bb21bbd,block.clinic,resell,,,high,low,5,Dynadot Inc,04/06/2022 13:15,04/06/2026 13:15,
 ac41dfd9-6a0f-48c0-be0f-0d27f963b182,panes.clinic,available,19.99,,medium,low,5,name.com,,,
-aeea0adf-fa58-4ae2-a6c4-1f55a30e8617,halt.clinic,available,20.99,64.99,low,low,4,namesilo,,,24/09/2026 01:49
-eb0dfc13-afb9-44df-b30b-38373f4aaeed,silverprint.clinic,available,19.99,,low,low,12,name.com,,,
 532ef842-1bc5-4dfd-8dea-d8f6b91dac34,spirit.clinic,available,19.99,,high,low,6,name.com,,,
-ded238f0-1c01-4718-8262-5de0ac882264,communal.clinic,available,11.98,82.98,low,low,8,namecheap,,,23/09/2026 16:10
-f71fe685-19fd-4756-98b0-19ca813f1bca,old.clinic,premium,250,,high,low,3,name.com,,,
-1a73764e-d5d8-4da9-a407-3a08dd0c3038,banal.clinic,available,19.99,84.99,low,low,5,name.com,,,22/09/2026 16:37
-9d618588-fe08-485e-8c82-e2bba9a2d049,turtleneckcollar.clinic,available,19.99,,high,low,17,name.com,,,
-af465a03-a3a7-4aea-8a2a-65739c6a59ea,fleshly.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-b5d7afe5-1ee1-4dfb-ac85-1c4bd2aab8f1,redmeat.clinic,available,19.99,,low,low,8,name.com,,,
-88397388-7f73-4aa7-b147-0c635748c0c6,performing.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-fe15a357-e0b5-4832-9a16-2b5ce3447757,barytone.clinic,available,11.98,82.98,low,low,8,namecheap,,,08/08/2026 19:41
-cc49550a-689f-4e6a-a373-32d076de54c4,beetle.clinic,available,11.98,82.98,low,low,6,namecheap,,,09/08/2026 08:17
-2c866174-9dad-45b1-b4c3-22879d23c5a2,absorbed.clinic,available,20.99,64.99,medium,low,8,namesilo,,,21/09/2026 14:58
-1f7e4dbe-a7ac-446a-8687-a3e698e19185,investmentbanking.clinic,available,19.99,,high,low,18,name.com,,,
-e1f10941-8ea7-4d31-a741-172bc7bc7f49,aplitic.clinic,available,11.98,82.98,low,low,7,namecheap,,,06/08/2026 00:35
-e21fbd30-1a4c-4ab7-a0b7-a817f4a5ca0c,airborne.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-8de8801e-ddab-4e4a-b9c5-834e5db4737b,presssecretary.clinic,available,19.99,,high,low,15,name.com,,,
+af465a03-a3a7-4aea-8a2a-65739c6a59ea,fleshly.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+88397388-7f73-4aa7-b147-0c635748c0c6,performing.clinic,available,11.98,82.98,high,low,10,namecheap,,,
+cc49550a-689f-4e6a-a373-32d076de54c4,beetle.clinic,available,11.98,82.98,high,low,6,namecheap,,,09/08/2026 08:17
+e1f10941-8ea7-4d31-a741-172bc7bc7f49,aplitic.clinic,available,11.98,82.98,medium,low,7,namecheap,,,06/08/2026 00:35
+e21fbd30-1a4c-4ab7-a0b7-a817f4a5ca0c,airborne.clinic,available,11.98,82.98,high,low,8,namecheap,,,
 73016e24-3cf2-4358-8697-14d6de80bf4b,playfield.clinic,available,19.99,,high,low,9,name.com,,,
-a22d3143-a1b0-4be6-a8f8-3d5cbc94e6b1,located.clinic,available,19.99,,medium,low,7,name.com,,,
-8b9924f0-7ec3-4593-86e2-2093da185eb1,setloose.clinic,available,19.99,,low,low,9,name.com,,,
+a22d3143-a1b0-4be6-a8f8-3d5cbc94e6b1,located.clinic,available,19.99,,high,low,7,name.com,,,
 ea1c9d41-d587-42f9-b9c9-3ad3f09108d0,butterfly.clinic,available,19.99,,high,low,9,name.com,,,
-3e9259b4-f181-41c8-8627-3d41941bed69,stopped.clinic,available,19.99,,medium,low,7,name.com,,,
+3e9259b4-f181-41c8-8627-3d41941bed69,stopped.clinic,available,19.99,,high,low,7,name.com,,,
 018c33c3-d5d8-408f-8892-eeb520c67234,respected.clinic,available,19.99,,high,low,9,name.com,,,
 2216f7bc-28b8-4a05-8b2f-dc7ed9c56145,roiled.clinic,available,,,medium,low,6,,,,
-31b9df8e-ed21-4b6a-a386-19cfd6e9d055,eyry.clinic,available,11.98,82.98,low,low,4,namecheap,,,
-05815b6c-5be5-463b-94b4-1a9fc06d8e96,spicy.clinic,available,19.99,,high,low,5,name.com,,,
-03afe8ee-bfd2-427d-8b57-5e97916a1d11,bacterioid.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 07:17
-78e0da50-1adb-4203-9561-a5f1efddb64a,prejudice.clinic,available,11.98,82.98,low,low,9,namecheap,,,22/09/2026 20:16
-307f124e-f093-4285-af32-f9e2d48bbfae,victim.clinic,available,19.99,,medium,low,6,name.com,,,
-c2e1ad8e-3506-4288-8953-18a753e57f6f,comeout.clinic,available,19.99,,high,low,8,name.com,,,
-d1b6bc46-87d2-4430-8aef-1a5ade00eee0,matrixgroup.clinic,available,19.99,,medium,low,12,name.com,,,
-5dab951e-3370-4ca2-9f5f-05e4315b0c29,aslongas.clinic,available,19.99,,medium,low,10,name.com,,,
+31b9df8e-ed21-4b6a-a386-19cfd6e9d055,eyry.clinic,available,11.98,82.98,high,low,4,namecheap,,,
+307f124e-f093-4285-af32-f9e2d48bbfae,victim.clinic,available,19.99,,high,low,6,name.com,,,
 7de27e1c-8a7a-459e-8413-19eb79315067,lol.clinic,premium,242,242,high,low,3,namesilo,,,
-905b2be3-9071-4da4-a619-860d0231ee9a,arciform.clinic,available,11.98,82.98,low,low,8,namecheap,,,06/08/2026 14:44
 fb9af5bc-f2c3-43c8-9a6d-1d7f9015a98b,toy.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
-0af791c7-cf60-4f3f-a77d-7b572fbc2716,pyjamaparty.clinic,available,19.99,,high,low,12,name.com,,,
 5bb84812-6a4b-4ebd-b576-7acdeb39fd51,talk.clinic,premium,118.8,118.8,high,low,4,namesilo,,,
-ef23c21e-125a-4bd8-9c03-f1f7fb3ca568,asterisked.clinic,available,11.98,82.98,low,low,10,namecheap,,,07/08/2026 08:47
 8a0ff770-dda2-4c95-bb6c-fcbb0bbf6e30,loved.clinic,available,19.99,,high,low,5,name.com,,,
-efbd1a79-b38e-414b-b099-0b689a4f4871,anaemic.clinic,available,11.98,82.98,low,low,7,namecheap,,,
 ccc24d3e-ba33-4a64-9ac2-9e3dcfd703c5,kilogram.clinic,available,19.99,,high,low,8,name.com,,,
-79a0dcd2-9099-48e5-bd83-ca6c83b810be,profitmargin.clinic,available,19.99,,high,low,13,name.com,,,
 32db50e6-4402-45ec-9629-f8153e2071af,susan.clinic,available,19.99,,high,low,5,name.com,,,
-0631d3ba-d1cd-4936-8977-ba0b51d91775,angelic.clinic,available,20.99,64.99,medium,low,7,namesilo,,,22/09/2026 04:25
-0204ff83-db0e-4ce6-9fc4-48b364f2d2ea,education.clinic,premium,118.8,118.8,medium,low,9,namesilo,,,23/09/2026 04:28
-1aabe879-e239-4731-a6fe-937492b0958d,tasks.clinic,available,19.99,,medium,low,5,name.com,,,
-28b859c2-0011-42dc-8461-49681ddff3b9,sportsbar.clinic,available,19.99,,high,low,10,name.com,,,
-a3595a8c-1db7-474b-9217-85da3328db8b,surfaces.clinic,available,19.99,,low,low,8,name.com,,,
-772ae0a4-9cea-436d-8685-fa6672fc1282,thousandth.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+1aabe879-e239-4731-a6fe-937492b0958d,tasks.clinic,available,19.99,,high,low,5,name.com,,,
+a3595a8c-1db7-474b-9217-85da3328db8b,surfaces.clinic,available,19.99,,medium,low,8,name.com,,,
+772ae0a4-9cea-436d-8685-fa6672fc1282,thousandth.clinic,available,11.98,82.98,high,low,10,namecheap,,,
 12c439d5-e834-4df3-a363-690eab618441,vegan.clinic,available,,,high,low,5,,,,
-bab3b022-33b4-423d-85d1-7971f56c63c0,cherry.clinic,available,20.99,64.99,medium,low,6,namesilo,,,22/09/2026 22:25
-d85a12cc-02ac-42da-814a-f3a4612b18d0,jellybaby.clinic,available,19.99,,high,low,10,name.com,,,
-8446d895-5656-498d-8a6a-01f64b6a9837,surely.clinic,available,19.99,,high,low,6,name.com,,,
 b91fd2af-26e1-4703-a70e-b4e911eb0d24,intrigue.clinic,available,19.99,,high,low,8,name.com,,,
 fcaf9581-a67b-4bf9-8afd-decf6d6e7cb3,catch.clinic,available,19.99,,high,low,5,name.com,,,
-e32555a1-bbf2-40e8-be1a-0fd6e8fa24ca,aborticide.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-ddf76ff5-3bf5-4c50-9c32-5ef54d381b5b,beadyeyed.clinic,available,11.98,82.98,low,low,10,namecheap,,,09/08/2026 03:44
-5a9eba5b-d991-4466-ae36-51bb667daf40,ascendant.clinic,available,11.98,82.98,low,low,9,namecheap,,,
+5a9eba5b-d991-4466-ae36-51bb667daf40,ascendant.clinic,available,11.98,82.98,high,low,9,namecheap,,,
 9026fc26-8e02-4994-88e4-fbb7ae63af97,concern.clinic,available,19.99,,high,low,7,name.com,,,
 54d3f587-731a-4b67-a7da-79e3ff96df6f,keeping.clinic,available,19.99,,high,low,7,name.com,,,
 cae50ad5-2d18-4e47-983a-4f9e3974daec,grinning.clinic,available,19.99,,high,low,8,name.com,,,
-724fc0f9-cda3-4b6a-8e3a-910d52f068c1,eremitical.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-588d6fd2-e9fd-42bb-b33a-78d30e366f93,latinalphabet.clinic,available,19.99,,high,low,14,name.com,,,
-ffe97b3e-903a-4718-8cc0-15f8d5b9715e,bantam.clinic,available,11.98,82.98,low,low,6,namecheap,,,08/08/2026 14:01
-2516a55f-638d-41c0-8966-dc88640603f1,irritated.clinic,available,11.98,82.98,low,low,9,namecheap,,,
+ffe97b3e-903a-4718-8cc0-15f8d5b9715e,bantam.clinic,available,11.98,82.98,high,low,6,namecheap,,,08/08/2026 14:01
+2516a55f-638d-41c0-8966-dc88640603f1,irritated.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
 97b66123-293f-414e-883c-689d1d072257,ratter.clinic,available,11.98,82.98,low,low,6,namecheap,,,06/08/2026 04:00
 d64cf76c-ff98-4f7e-82a6-e9ddeaa6aa55,defense.clinic,available,19.99,,high,low,7,name.com,,,
-7950810a-228e-41ea-a6f4-26ef41426c20,conveyable.clinic,available,11.98,82.98,low,low,10,namecheap,,,07/08/2026 06:24
-21dbe447-b8bd-4fd3-a72f-2701ecf2ab03,interviewee.clinic,available,19.99,,medium,low,11,name.com,,,
-788027aa-be3a-44db-944a-e669e5cc81d6,howtheturntables.clinic,available,19.99,,medium,low,18,name.com,,,
+21dbe447-b8bd-4fd3-a72f-2701ecf2ab03,interviewee.clinic,available,19.99,,high,low,11,name.com,,,
 1ebc3381-09ae-4222-bf5d-939e46f2441d,continuously.clinic,available,19.99,,medium,low,12,name.com,,,
-0794a7b6-7206-4ded-ac4d-fb3a27d6b32c,produced.clinic,available,20.99,64.99,low,low,8,namesilo,,,19/09/2026 16:32
-2f0edee6-4296-4d94-b4ba-318a68e24fc1,germanpizza.clinic,available,19.99,,high,low,12,name.com,,,
-ba6a0fcb-2562-47ff-adca-05aa905df6cf,alltime.clinic,available,20.99,64.99,medium,low,8,namesilo,,,22/09/2026 00:54
-ae7bad54-9c27-49ad-bed4-7b6fd7cd2dde,starter.clinic,available,19.99,,high,low,7,name.com,,,
-7fd4a22e-4a58-46cf-b48f-4fb269fe65b7,grubby.clinic,available,11.98,82.98,low,low,6,namecheap,,,09/08/2026 09:31
+7fd4a22e-4a58-46cf-b48f-4fb269fe65b7,grubby.clinic,available,11.98,82.98,medium,low,6,namecheap,,,09/08/2026 09:31
 7134cd97-d937-4bca-94e0-5cb6d5ccc91e,request.clinic,available,19.99,,high,low,7,name.com,,,
-f1b294f7-7129-4499-8f95-12b24fe548e7,genial.clinic,available,20.99,64.99,medium,low,6,namesilo,,,21/09/2026 21:42
 113cdc18-2b74-4305-9651-c1c4531b8dea,weave.clinic,available,19.99,,high,low,5,name.com,,,
-afbbc5fc-2b6a-4284-9a33-612239944ec8,approach.clinic,available,11.98,82.98,low,low,8,namecheap,,,06/08/2026 08:44
-1c40e05d-826a-4efc-9bee-d9943b68f28b,onec.clinic,available,11.98,82.98,low,low,5,namecheap,,,
-1699b0ff-2411-406b-b9d6-75e70989836e,hearable.clinic,available,11.98,82.98,low,low,8,namecheap,,,07/08/2026 16:35
-edf2a9e4-b9e0-4a4b-b174-62ceb05d779b,apodal.clinic,available,11.98,82.98,low,low,6,namecheap,,,06/08/2026 01:16
+afbbc5fc-2b6a-4284-9a33-612239944ec8,approach.clinic,available,11.98,82.98,high,low,8,namecheap,,,06/08/2026 08:44
+1699b0ff-2411-406b-b9d6-75e70989836e,hearable.clinic,available,11.98,82.98,medium,low,8,namecheap,,,07/08/2026 16:35
 650e0760-d1f9-4c42-b3a5-e6038b08d7cb,location.clinic,available,19.99,,high,low,8,name.com,,,
-e0514440-d8ed-48e0-b649-e93743df8e65,altaic.clinic,available,11.98,82.98,low,low,6,namecheap,,,
+e0514440-d8ed-48e0-b649-e93743df8e65,altaic.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
 c76277f3-e260-4ee5-8bb9-6a0541b5a673,browse.clinic,available,19.99,,high,low,6,name.com,,,
-2404401c-8490-4dcc-a731-17f5a82858b5,alleviated.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-f5605293-e21f-4e91-ac0c-77ca104ddf1a,trio.clinic,available,20.99,64.99,medium,low,4,namesilo,,,21/09/2026 13:05
-1af379c7-94ae-4f50-be09-7cff3d94b011,soundout.clinic,available,19.99,,medium,low,9,name.com,,,
-9e991406-9f35-4c5a-a656-fbcdd65dc005,domesticworker.clinic,available,19.99,,high,low,15,name.com,,,
-d3ef3f2b-4a66-4e17-9242-dc0f215a0d0c,afghan.clinic,available,11.98,82.98,low,low,6,namecheap,,,
+d3ef3f2b-4a66-4e17-9242-dc0f215a0d0c,afghan.clinic,available,11.98,82.98,high,low,6,namecheap,,,
 28ef05f9-2349-42e5-83f4-f270ce52f0ca,creek.clinic,available,19.99,,high,low,5,name.com,,,
 e24d353f-8b55-40a0-b140-bd1b00f9c6f6,canada.clinic,available,,,high,low,6,,,,
-6eb837cf-cbe6-432c-8b5d-76541bd5f615,sensual.clinic,available,20.99,64.99,low,low,7,namesilo,,,22/09/2026 04:34
 337092d0-4ec6-4700-8253-4fceef7956d2,suv.clinic,available,19.99,,high,low,3,name.com,,,
-c609bd15-98ca-4022-8b7b-b76a533e8110,tradeunion.clinic,available,19.99,,low,low,11,name.com,,,
 aec330ad-a4f9-435b-a488-a5391623de27,diplomat.clinic,available,19.99,,high,low,8,name.com,,,
 2f5e7ceb-9f36-4660-80fd-7d1e63ee3c07,supportive.clinic,available,19.99,,high,low,10,name.com,,,
-1a9fb283-07bf-4433-b79a-4dc41ff9014b,throwabout.clinic,available,19.99,,low,low,11,name.com,,,
-4c7c7838-970d-4d48-bcfe-8d8593a04355,gobad.clinic,available,19.99,,high,low,6,name.com,,,
-fe28f681-c209-4fc1-86df-75f18ee8e692,senescent.clinic,available,11.98,82.98,low,low,9,namecheap,,,
+fe28f681-c209-4fc1-86df-75f18ee8e692,senescent.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
 f041502c-f6f9-432f-89c9-8aa8ae1c2c89,pitfall.clinic,available,19.99,,medium,low,7,name.com,,,
 5753a0fe-c8c1-48d6-9532-55935ea34078,bbc.clinic,available,,,high,low,3,,,,
-39778978-008e-4002-9e9f-4b66929b85f4,jewbaiter.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-769eeb9a-ee7d-4ac6-8dc1-e53f67414e26,concertroom.clinic,available,19.99,,medium,low,12,name.com,,,
-416c6c4c-f374-479f-9122-2ea1f243a6fd,vindicated.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/09/2026 05:23
+416c6c4c-f374-479f-9122-2ea1f243a6fd,vindicated.clinic,available,11.98,82.98,high,low,10,namecheap,,,08/09/2026 05:23
 388ddbaa-e412-4a31-b6d0-0b235be397ed,actress.clinic,available,19.99,,high,low,7,name.com,,,
-39d6588b-3246-4574-b730-5f5319c03607,thinktwice.clinic,available,19.99,,medium,low,11,name.com,,,
 8175ad3f-e302-4311-a74c-512aa64f5878,hunger.clinic,available,19.99,,high,low,6,name.com,,,
 2af2f5d3-0a66-40b8-8c79-213d9eb33692,vary.clinic,available,19.99,,high,low,4,name.com,,,
-e00f732b-122e-4d36-9a86-1335f6c07c70,closequarters.clinic,available,19.99,,medium,low,14,name.com,,,
-f775981a-d719-429f-8b1a-908fc2484e6a,freshaspaint.clinic,available,19.99,,medium,low,14,name.com,,,
-3cb7b83f-5f2b-4efc-b20f-574f109f1e5f,zulutime.clinic,available,19.99,,low,low,9,name.com,,,
-20b98e43-a1f6-4cec-a45a-d86b1c87eac0,section.clinic,available,11.98,82.98,medium,low,7,namecheap,,,08/09/2026 06:07
+20b98e43-a1f6-4cec-a45a-d86b1c87eac0,section.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/09/2026 06:07
 7d2213d5-7291-446c-aa86-1bb80e00093d,darken.clinic,available,19.99,,high,low,6,name.com,,,
 543d8f8b-9dd4-4885-8ee5-f068f100b0d9,tomato.clinic,available,19.99,,high,low,6,name.com,,,
-14701384-82a3-418a-b3d6-9d334ba2d4b5,detroit.clinic,premium,242,242,medium,low,7,namesilo,,,
-bd5f18c6-6b18-442e-a376-a66a7506a33f,parkingspot.clinic,available,19.99,,high,low,12,name.com,,,
-975e7b3b-e8ab-4b7b-a5c9-763965dc927d,turn.clinic,available,19.99,,high,low,4,name.com,,,
+14701384-82a3-418a-b3d6-9d334ba2d4b5,detroit.clinic,premium,242,242,high,low,7,namesilo,,,
 449bf89e-e756-422f-8ae9-bb9baee26349,alpine.clinic,available,,,high,low,6,,,,
 a8660159-1b5c-4ae9-89c3-5fcbdf454d88,describe.clinic,available,19.99,,high,low,8,name.com,,,
 0f26ae40-c529-4dc1-90f9-a4a864a9d7ce,wear.clinic,available,19.99,,high,low,4,name.com,,,
-9a4b9cb3-0ecf-4875-8fb8-623582b3ae98,creepy.clinic,available,20.99,64.99,low,low,6,namesilo,,,24/09/2026 01:42
-dfab8267-f696-4d1e-819d-73ebf7aa08ec,lookatme.clinic,available,19.99,,medium,low,10,name.com,,,
 358a7f5e-727d-4acd-a7a9-365ae87c3236,outlet.clinic,available,19.99,,high,low,6,name.com,,,
 4c2f6895-51aa-4265-af3c-78f390c4cd27,sauna.clinic,available,,,high,low,5,,,,
 40bc7281-fe11-43b8-9630-fc8d6daf56ae,explorer.clinic,available,19.99,,high,low,8,name.com,,,
-301c6f63-77e5-4e7c-bce7-d50e1eba6458,strawberryred.clinic,available,19.99,,low,low,14,name.com,,,
-1183d395-9e68-4552-8026-3a569a6bc423,described.clinic,available,19.99,84.99,medium,low,9,name.com,,,
-975274ca-f5b4-4355-8e49-20b9695fa6c4,noquarter.clinic,available,19.99,,low,low,10,name.com,,,
 4278fe60-ec99-4733-a178-465bf03a8002,spend.clinic,available,19.99,,high,low,5,name.com,,,
-6e12ae46-951e-49cf-a649-b2ce3a627784,anaclitic.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-b56be59b-888f-4d2d-b829-6f319d720e7d,animating.clinic,available,20.99,64.99,medium,low,9,namesilo,,,22/09/2026 05:08
-fb453c13-ec1c-428c-8b94-d31a14ffcc42,offcolor.clinic,available,11.98,82.98,low,low,9,namecheap,,,09/08/2026 02:10
+6e12ae46-951e-49cf-a649-b2ce3a627784,anaclitic.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
 730b813d-6bc9-4201-85e7-30caf928ff30,facilitating.clinic,available,19.99,,medium,low,12,name.com,,,
-b926bf03-9db8-40e7-87e9-b3ecbf89620c,whatabout.clinic,available,19.99,,low,low,10,name.com,,,
-c0c47a03-9d69-463f-ac52-67365d40408e,nourishing.clinic,available,11.98,82.98,medium,low,10,namecheap,,,19/09/2026 17:50
-5b93857a-b5da-48e2-8dce-4e9aa0720f51,southamerican.clinic,available,19.99,,low,low,14,name.com,,,
 e1e0e3f6-eeb8-4abb-93af-b7f293ce61d9,consultant.clinic,available,19.99,,high,low,10,name.com,,,
-bb5e48e7-e1de-4aa5-b1a4-5c97a49cbfd4,apostolic.clinic,available,11.98,82.98,low,low,9,namecheap,,,06/08/2026 04:04
-a7412cc5-55f9-4131-93b3-67d408f85958,shooting.clinic,available,19.99,,medium,low,8,name.com,,,
+bb5e48e7-e1de-4aa5-b1a4-5c97a49cbfd4,apostolic.clinic,available,11.98,82.98,high,low,9,namecheap,,,06/08/2026 04:04
+a7412cc5-55f9-4131-93b3-67d408f85958,shooting.clinic,available,19.99,,high,low,8,name.com,,,
 4bffba04-832f-4ff8-a97a-440cbe4c5f97,getting.clinic,available,19.99,,high,low,7,name.com,,,
-a342b0c7-c569-441f-aa77-424a463e7dcc,howthefuck.clinic,available,19.99,,medium,low,12,name.com,,,
-6fff3670-44a0-42c8-9e5e-88f592687af4,travelled.clinic,available,19.99,,medium,low,9,name.com,,,
-9faf5dcb-4ba8-4c48-b4df-f0e68f5b6d3b,spellingword.clinic,available,19.99,,medium,low,13,name.com,,,
-2312360b-0c82-4b9e-b6ef-02956e863663,ham.clinic,premium,78.54,78.54,medium,low,3,namesilo,,,
-552a558d-c329-41d3-9792-1bb2f878f87e,newbie.clinic,available,19.99,,medium,low,6,name.com,,,
-6e512f57-dc24-4b49-b044-01176090ce7a,baritone.clinic,available,11.98,82.98,low,low,8,namecheap,,,08/08/2026 19:36
+6fff3670-44a0-42c8-9e5e-88f592687af4,travelled.clinic,available,19.99,,high,low,9,name.com,,,
+2312360b-0c82-4b9e-b6ef-02956e863663,ham.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
+6e512f57-dc24-4b49-b044-01176090ce7a,baritone.clinic,available,11.98,82.98,medium,low,8,namecheap,,,08/08/2026 19:36
 d1d7eee6-586d-4955-be8d-5a90182ababc,allergy.clinic,resell,,,high,low,7,Porkbun LLC,10/11/2017 23:48,10/11/2026 23:48,
-bc43fc55-edaa-4b5c-9e87-dabcaf3f55cd,apolitical.clinic,available,11.98,82.98,low,low,10,namecheap,,,06/08/2026 02:02
-117b4af2-8fe9-4143-825b-c7cf6163b0a6,hanger.clinic,available,19.99,,medium,low,6,name.com,,,
-92ceb982-00c6-474f-a028-97566de9107f,totality.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-f2519a90-912d-469c-a41b-67d5267e1e57,notguilty.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-c1a420d6-8e69-4421-9020-3c748ea50c60,digitally.clinic,available,19.99,,medium,low,9,name.com,,,
-b4266650-01f4-4298-a1bb-1b7ff7e15695,whatwasthat.clinic,available,19.99,,low,low,13,name.com,,,
-3cb8f623-56e5-4838-8f7b-21ebe07ec15a,saintlike.clinic,available,11.98,82.98,low,low,9,namecheap,,,
+bc43fc55-edaa-4b5c-9e87-dabcaf3f55cd,apolitical.clinic,available,11.98,82.98,high,low,10,namecheap,,,06/08/2026 02:02
+117b4af2-8fe9-4143-825b-c7cf6163b0a6,hanger.clinic,available,19.99,,high,low,6,name.com,,,
+92ceb982-00c6-474f-a028-97566de9107f,totality.clinic,available,11.98,82.98,high,low,8,namecheap,,,
+c1a420d6-8e69-4421-9020-3c748ea50c60,digitally.clinic,available,19.99,,high,low,9,name.com,,,
 69332e31-cbf3-4477-b4ad-d3dc46f52218,driver.clinic,available,19.99,,high,low,6,name.com,,,
 887b073f-f012-4d9e-bfde-ca98f2ff1d3d,explore.clinic,available,19.99,,high,medium,7,name.com,,,
-a0fff343-eed4-4a6b-9b33-1d81f1e4c021,mitigatory.clinic,available,11.98,82.98,low,low,10,namecheap,,,
 a63439c8-35af-4edf-80be-4f099852e5d4,marines.clinic,available,19.99,,high,low,7,name.com,,,
-ff7b643a-0453-4f1a-b42d-d3bf88d6da7f,thirteenth.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-087309d7-c878-4755-9db8-42d1748f7917,province.clinic,available,19.99,,medium,low,8,name.com,,,
+ff7b643a-0453-4f1a-b42d-d3bf88d6da7f,thirteenth.clinic,available,11.98,82.98,high,low,10,namecheap,,,
+087309d7-c878-4755-9db8-42d1748f7917,province.clinic,available,19.99,,high,low,8,name.com,,,
 d3c02ef9-9b25-45cc-a349-e82b069b0169,skype.clinic,available,,,high,low,5,,,,
-6de732df-9143-4ef3-b394-1456a11b2c70,middleage.clinic,available,19.99,,medium,low,10,name.com,,,
-3146b9e1-2b95-4f31-ba41-88a24c546fe7,middleclass.clinic,available,19.99,,medium,low,12,name.com,,,
 d9a616ea-cd7f-40d3-b485-186e72cf3418,nearly.clinic,available,19.99,,high,low,6,name.com,,,
-6b6897b8-acd4-4c33-8f8e-509ba98d70e4,ataxic.clinic,available,11.98,82.98,low,low,6,namecheap,,,07/08/2026 12:32
+6b6897b8-acd4-4c33-8f8e-509ba98d70e4,ataxic.clinic,available,11.98,82.98,medium,low,6,namecheap,,,07/08/2026 12:32
 b33dcceb-204f-42ea-88f7-3ff7fc2c8696,boat.clinic,premium,78.54,78.54,high,low,4,namesilo,,,
 1b66368c-575c-446f-b7a1-03a85de68ed4,maidens.clinic,available,19.99,,high,low,7,name.com,,,
-1095fa31-24c2-4383-8d5a-0858e7fa0ce1,tornadowarning.clinic,available,19.99,,medium,low,15,name.com,,,
 9bfbc631-2e6d-42d5-9d46-b280d19cf0a1,map.clinic,premium,128.7,128.7,high,medium,3,namecheap,,,
-80d3bb0a-e824-477c-ad6d-c3c357be4efd,auspicious.clinic,available,20.99,64.99,medium,low,10,namesilo,,,22/09/2026 13:12
-554125c3-9928-4287-a8d0-c45ca903ca2f,crossroads.clinic,available,,,medium,low,10,,,,
-fa90576f-4702-4e52-a558-e7dd2dd90a94,receipts.clinic,available,19.99,,medium,low,8,name.com,,,
-e65d1bc4-91d6-49c1-aeeb-6dd6e0c80749,aminic.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-c6cca300-4b07-4393-8b58-0af1151b3eb9,elaborate.clinic,available,19.99,84.99,high,low,9,name.com,,,
-8d43d3dd-d5b2-457e-a96c-d7688aabdedd,return.clinic,available,20.99,64.99,medium,low,6,namesilo,,,19/09/2026 03:27
-8428dc0c-339d-48cd-a3d7-77c7433550d0,barebacked.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 18:44
-2e338a3f-7801-4040-a053-4f41e0fb5a69,nail.clinic,premium,242,242,low,low,4,namesilo,,,21/09/2026 16:04
+554125c3-9928-4287-a8d0-c45ca903ca2f,crossroads.clinic,available,,,high,low,10,,,,
+fa90576f-4702-4e52-a558-e7dd2dd90a94,receipts.clinic,available,19.99,,high,low,8,name.com,,,
+8428dc0c-339d-48cd-a3d7-77c7433550d0,barebacked.clinic,available,11.98,82.98,medium,low,10,namecheap,,,08/08/2026 18:44
 e245bb0f-acd8-411c-8eb2-d73688450ef9,inconsistent.clinic,available,19.99,,medium,low,12,name.com,,,
 b290efb5-61fb-4228-9576-727b0064a09f,psychic.clinic,available,19.99,,high,low,7,name.com,,,
-ee080ed0-8f3e-4c4b-9acf-d348269abb90,fallshort.clinic,available,19.99,,medium,low,10,name.com,,,
-939961b4-0f8c-4ddd-b106-da36cf807175,gardencentre.clinic,available,19.99,,high,low,13,name.com,,,
-de4096ec-07b3-4032-b8ee-67d13ae0d739,auriform.clinic,available,11.98,82.98,low,low,8,namecheap,,,07/08/2026 17:57
 71397a75-21b5-4594-be9f-ff9fe15ceb3b,rhianna.clinic,available,19.99,,high,low,7,name.com,,,
-43b1bb50-e548-49ae-96c6-818c840b147e,astatic.clinic,available,11.98,82.98,low,low,7,namecheap,,,07/08/2026 08:36
-f9565ea1-4181-4396-97fc-28f0f9cf996c,barehanded.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 19:10
+43b1bb50-e548-49ae-96c6-818c840b147e,astatic.clinic,available,11.98,82.98,medium,low,7,namecheap,,,07/08/2026 08:36
 f86f7e79-2838-4fe8-b881-db2acbeaa98f,advert.clinic,available,19.99,,high,low,6,name.com,,,
 2ffb8b41-c4a9-4c86-8f43-989a1ceb1947,retain.clinic,available,19.99,,high,low,6,name.com,,,
-80189e9e-c2b8-42d2-995d-c798defde7fa,talkof.clinic,available,19.99,,low,low,7,name.com,,,
 64eee406-e845-4999-b7f2-d09c1d236eba,condo.clinic,available,19.99,,high,low,5,name.com,,,
-60a29da6-c294-43b8-ae0e-aeccad01f9fe,anthropic.clinic,available,,,medium,low,9,,,,
-cd749dfc-b450-40c8-b494-9810d86190c8,littleblackdress.clinic,available,19.99,,high,low,18,name.com,,,
-5a7f7f7d-50fe-4c90-81d1-c0c26724e46c,acrogenous.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+60a29da6-c294-43b8-ae0e-aeccad01f9fe,anthropic.clinic,available,,,high,low,9,,,,
 d9f79973-8898-4529-a8e9-34f02ca822e5,pin.clinic,premium,123.75,,high,low,3,name.com,,,
-7070113d-4742-416b-927e-9fda26768c16,wakingup.clinic,available,19.99,,high,low,9,name.com,,,
 c963a1a0-053f-4a05-a5fa-eb6ca14ab88a,sexual.clinic,premium,854,854,high,low,6,namesilo,,,
-f4c98db5-eb73-4cc4-801c-9a7f19815b19,cleverly.clinic,available,19.99,,medium,low,8,name.com,,,
-53ed4c36-b5ab-4562-9a52-3130548b4392,logo.clinic,available,11.98,82.98,medium,low,4,namecheap,,,23/09/2026 08:54
-b6e9f9f5-4680-4415-8aa2-8854cbed102a,routine.clinic,available,19.99,,high,low,7,name.com,,,
+f4c98db5-eb73-4cc4-801c-9a7f19815b19,cleverly.clinic,available,19.99,,high,low,8,name.com,,,
 f8f5ab21-3d88-460a-834b-a23feb85a7a4,leadership.clinic,premium,118.8,118.8,high,low,10,namesilo,,,
 eedc0e2f-24d1-4fbc-892d-63fa25d2b04e,jupiter.clinic,available,19.99,,high,low,7,name.com,,,
 a112e199-2cde-4410-93ab-f78ce8b87c21,because.clinic,available,19.99,,high,low,7,name.com,,,
-40fcdb4f-042b-4ef7-a283-c0bf82b8dcae,whacky.clinic,available,11.98,82.98,low,low,6,namecheap,,,06/08/2026 21:32
-1ae9d0c8-fe25-4d4d-9790-e758a5b4b3d6,summertire.clinic,available,19.99,,high,low,11,name.com,,,
-80dcf75f-2c5a-42cc-9029-1048f94ce91f,sellbydate.clinic,available,19.99,,medium,low,12,name.com,,,
-55673ba7-f74d-4268-bdca-4cd2479a6bbe,antheral.clinic,available,11.98,82.98,low,low,8,namecheap,,,
+40fcdb4f-042b-4ef7-a283-c0bf82b8dcae,whacky.clinic,available,11.98,82.98,medium,low,6,namecheap,,,06/08/2026 21:32
 3381b29e-23b8-48e8-bd4a-6be53bbaf57e,unstoppable.clinic,available,19.99,,high,low,11,name.com,,,
-a5e1ba2c-9bfa-4cc0-ad51-0c912118f893,bearded.clinic,available,11.98,82.98,low,low,7,namecheap,,,08/08/2026 16:05
-e9d1ce99-226f-4962-b8c8-2d1821b7f17e,howlong.clinic,available,19.99,,medium,low,8,name.com,,,
-36d296e9-a248-4a37-91c2-d61f046624c6,maintained.clinic,available,19.99,,medium,low,10,name.com,,,
-6e27bb63-9192-4254-b574-4357a028e1c6,liii.clinic,available,11.98,82.98,low,low,4,namecheap,,,
-47f2beed-44ec-4687-a4d5-476d8fee410d,youthink.clinic,available,19.99,,low,low,9,name.com,,,
-36f7ed23-5429-4698-9fe7-a0491a09df3d,arteriolar.clinic,available,11.98,82.98,low,low,10,namecheap,,,06/08/2026 22:34
-b175018c-c17b-4da9-aec2-bbca19339e4f,directed.clinic,available,19.99,84.99,high,low,8,name.com,,,
-b165bf27-750f-4f83-a8a8-83287bf1ce3a,anasarcous.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+a5e1ba2c-9bfa-4cc0-ad51-0c912118f893,bearded.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/08/2026 16:05
+36d296e9-a248-4a37-91c2-d61f046624c6,maintained.clinic,available,19.99,,high,low,10,name.com,,,
+6e27bb63-9192-4254-b574-4357a028e1c6,liii.clinic,available,11.98,82.98,medium,low,4,namecheap,,,
 d0e9fc06-846c-46d1-9723-403103cab68b,solvable.clinic,available,19.99,,high,low,8,name.com,,,
-823cbc9e-49d9-4f3e-873a-1130f1238570,havesex.clinic,available,19.99,,high,low,8,name.com,,,
-8d419ef9-3289-4912-9a65-9edc4c15121b,annoying.clinic,available,20.99,64.99,low,low,8,namesilo,,,22/09/2026 05:19
-bcd31cdc-b1a3-403c-a1b7-be849afb5d85,wheelabout.clinic,available,19.99,,low,low,11,name.com,,,
-0cfb438d-6f7b-4864-b8df-4426197c274a,acceptant.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-d41932b3-3ebe-4ee2-a014-929a6366276c,kansas.clinic,premium,118.8,118.8,medium,low,6,namesilo,,,
-702ee8ea-3245-4678-98a1-c7bd782bf30a,newyork.clinic,premium,500,,medium,medium,8,name.com,,,
-64953b6a-8a2b-4023-8517-eaa3231c7e99,archducal.clinic,available,11.98,82.98,low,low,9,namecheap,,,06/08/2026 15:27
-0202a261-d2a0-4d55-8d8a-50e074aa819d,admired.clinic,available,11.98,82.98,low,low,7,namecheap,,,21/09/2026 18:53
-24453799-0443-42e7-bdb3-462ea9b48fce,exalt.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
+d41932b3-3ebe-4ee2-a014-929a6366276c,kansas.clinic,premium,118.8,118.8,high,low,6,namesilo,,,
+24453799-0443-42e7-bdb3-462ea9b48fce,exalt.clinic,available,11.98,82.98,high,low,5,namecheap,,,
 0be7c606-acff-4d5d-8f99-a2923de38b61,protest.clinic,available,19.99,,high,low,7,name.com,,,
 6e86d189-288a-41c1-9cd9-4a82f90f98a4,orca.clinic,available,19.99,,high,medium,4,name.com,,,
 c59b5d02-947a-43ed-af45-5b6c57ca53dd,perfected.clinic,available,19.99,,high,low,9,name.com,,,
 1b4a9882-7358-4655-8d37-5750c826d603,lecture.clinic,available,19.99,,high,low,7,name.com,,,
-c730e51e-0495-4ad2-9b5e-f74c5a81398b,agamous.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-95aa05eb-1ed1-4398-8811-2d8d870a8906,forth.clinic,available,20.99,64.99,low,low,5,namesilo,,,22/09/2026 14:59
-b686934c-2170-4516-8560-16c2934eb370,whatever.clinic,available,20.99,64.99,medium,low,8,namesilo,,,22/09/2026 06:56
 a0248bf4-3ba1-43ec-addd-b670494f1b4e,began.clinic,available,19.99,,medium,low,5,name.com,,,
-cce8c582-9a53-4d07-8cea-e229646ecf3d,superstar.clinic,available,11.98,82.98,medium,low,9,namecheap,,,21/09/2026 17:56
-82d01757-6896-4c7e-b1a9-88cc802a6b28,appointment.clinic,available,20.99,64.99,medium,low,11,namesilo,,,24/09/2026 03:38
-1efe7f1a-5b52-4d41-a0aa-1eb8ee657633,jimthorpe.clinic,available,19.99,,high,low,10,name.com,,,
 a19e0258-18bc-45f2-bd19-7ade59c9febd,watch.clinic,premium,242,242,high,low,5,namesilo,,,
-517fb3a1-821a-4ee9-b5fe-3087dae4d0e2,airsick.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-0dd56525-7c0f-4b37-b8cf-1133067834af,anionic.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-8a979ee4-2ef1-4519-8872-ea55fe59e460,limiting.clinic,available,11.98,82.98,low,low,8,namecheap,,,23/09/2026 19:42
+0dd56525-7c0f-4b37-b8cf-1133067834af,anionic.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
 d96ba1d8-72fe-44f3-8c9c-72e2272bf60f,vibrate.clinic,available,19.99,,high,low,7,name.com,,,
-6e94e9c2-0ef1-4d53-a872-e3528ce0accb,humourous.clinic,available,19.99,,high,low,9,name.com,,,
-708e5da5-691b-4373-b85c-3a6369da79ef,harddrive.clinic,available,19.99,,high,low,10,name.com,,,
 905ce713-f809-412f-8f3d-3c35fca2ddf3,bubble.clinic,available,19.99,,high,low,6,name.com,,,
-b304b8c9-c083-4dfc-91dc-bf9c2d2c7d63,saddletree.clinic,available,19.99,,low,low,11,name.com,,,
-438776b5-547c-4819-bd61-3b7235bdb585,keeptime.clinic,available,19.99,,high,low,9,name.com,,,
-21669127-52e3-439e-966c-b606bcbb13ef,amethyst.clinic,available,20.99,64.99,low,low,8,namesilo,,,22/09/2026 04:15
 a8120e8e-0183-4728-9831-d8752b652a6b,sneeze.clinic,available,19.99,,high,low,6,name.com,,,
-2c82e01c-4d4a-4f65-827a-f442ef5dac90,reversed.clinic,available,19.99,,medium,low,8,name.com,,,
+2c82e01c-4d4a-4f65-827a-f442ef5dac90,reversed.clinic,available,19.99,,high,low,8,name.com,,,
 d5fb6374-a27c-4bf4-a254-0530cca5e740,surprised.clinic,available,19.99,,high,low,9,name.com,,,
-365def7c-3bba-448b-ade1-dfbc610ae8ce,allowfor.clinic,available,19.99,,high,low,9,name.com,,,
-b41dacce-6f16-4e2b-bdef-160e154d51b7,incometax.clinic,available,19.99,,medium,low,10,name.com,,,
-48888b29-9485-4bfd-842b-8dac3ddb6586,gosing.clinic,available,19.99,,high,low,7,name.com,,,
-6aa0f82c-d7c3-48bd-b25a-a488234f230c,compatible.clinic,available,20.99,64.99,medium,low,10,namesilo,,,23/09/2026 16:57
 96248b99-138e-48b3-905b-e9cd44c19040,legislative.clinic,available,19.99,,high,low,11,name.com,,,
 704f1a3c-e0a6-463e-aae5-320f3c85124b,diploma.clinic,available,19.99,,high,low,7,name.com,,,
-4d9763e6-f344-4949-8283-942f14bb3670,fortieth.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-1e0ea35a-4046-426e-9c70-53c25bc6f3f1,torturous.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-9e869393-23d0-4254-8d7e-3a1956a1c947,bothered.clinic,available,20.99,64.99,low,low,8,namesilo,,,23/09/2026 01:08
-0063a24c-bda6-4980-9d01-2020d154bfb3,onlytoo.clinic,available,11.98,82.98,low,low,8,namecheap,,,13/09/2026 19:01
-301814e1-d765-4712-b549-efd794db6508,manythanks.clinic,available,19.99,,high,low,11,name.com,,,
-dc566d42-bfd9-46be-b6da-b8e1300470b8,normandy.clinic,available,19.99,,medium,low,8,name.com,,,
+dc566d42-bfd9-46be-b6da-b8e1300470b8,normandy.clinic,available,19.99,,high,low,8,name.com,,,
 70055317-b540-46d6-95e0-f28f93564cdd,blackmailing.clinic,available,19.99,,medium,low,12,name.com,,,
-0a32cd2d-fe41-4908-926c-bf2092a0244a,folding.clinic,available,19.99,,high,low,7,name.com,,,
-f42d08ec-d442-4e1c-bfa1-dffc2bd13e84,livid.clinic,available,11.98,82.98,low,low,5,namecheap,,,07/08/2026 02:24
-6b73230b-496f-4877-a5ef-3d46796ae064,adam.clinic,available,,,medium,low,4,,,,
-1c8d7da1-ddb7-4c95-abb3-f7af67c918a6,party.clinic,premium,242,242,medium,low,5,namesilo,,,19/09/2026 09:39
-b0c59b3f-659a-4f41-a49c-a8d5d5f89a17,teeshirt.clinic,available,19.99,,high,low,9,name.com,,,
-7dcbd02b-4505-4990-b9fc-c991a2a26947,takingaway.clinic,available,19.99,,low,low,11,name.com,,,
+f42d08ec-d442-4e1c-bfa1-dffc2bd13e84,livid.clinic,available,11.98,82.98,medium,low,5,namecheap,,,07/08/2026 02:24
+6b73230b-496f-4877-a5ef-3d46796ae064,adam.clinic,available,,,high,low,4,,,,
 07857d11-046d-4c07-9281-609d4359c0cd,whip.clinic,available,19.99,,high,low,4,name.com,,,
-d41b4267-883e-4f65-aee4-ff4de691b00e,cheesefood.clinic,available,19.99,,medium,low,11,name.com,,,
 6e41fed1-9793-4344-9845-37a9d618081e,problem.clinic,available,19.99,,high,low,7,name.com,,,
 7b4647a2-0e2d-4d55-b049-5c12a4a23d94,terrified.clinic,available,19.99,,medium,low,9,name.com,,,
 8ea9a706-7ae5-41b5-b61e-3bdda4246864,bundle.clinic,available,19.99,,high,low,6,name.com,,,
-dbabc97a-f7ae-4acd-a08c-69fe697e97f6,poundcake.clinic,available,19.99,,medium,low,10,name.com,,,
-17e4c28e-210f-48fc-802f-68bb5c45ef85,ascendent.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-0799c3e6-333e-4fd2-9f81-cca481c56d88,conclusion.clinic,available,20.99,64.99,medium,low,10,namesilo,,,23/09/2026 14:51
+17e4c28e-210f-48fc-802f-68bb5c45ef85,ascendent.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
 fd3a378a-1393-417c-8d16-5956429785a2,brighten.clinic,available,19.99,,high,low,8,name.com,,,
-581773aa-a14d-440e-82cd-4402ba493171,press.clinic,premium,118.8,118.8,medium,low,5,namesilo,,,
-136b9198-77f4-474c-be3c-d01a62554f5e,newton.clinic,available,19.99,,medium,low,6,name.com,,,
-2327a06a-8d89-44a5-8fe9-be086cdbd558,takepart.clinic,available,19.99,,medium,low,9,name.com,,,
+581773aa-a14d-440e-82cd-4402ba493171,press.clinic,premium,118.8,118.8,high,low,5,namesilo,,,
+136b9198-77f4-474c-be3c-d01a62554f5e,newton.clinic,available,19.99,,high,low,6,name.com,,,
 e2240a22-cc1e-4c04-a36c-85995c7ca129,premiere.clinic,available,19.99,,high,low,8,name.com,,,
 dd32765d-1013-4689-9f28-5da8cd80e21c,meantime.clinic,available,19.99,,high,low,8,name.com,,,
-8fb3342f-2565-40f4-993a-2c117f49a00b,giveitupfor.clinic,available,19.99,,medium,low,14,name.com,,,
-78fb395b-85d9-498d-b130-52a5f0dbb7f4,oakland.clinic,premium,118.8,118.8,medium,low,7,namesilo,,,
-4357b3e8-300b-4882-b3ae-c299fdb690a5,transportation.clinic,available,20.99,64.99,low,low,14,namesilo,,,19/09/2026 03:16
-8714a830-4958-4bfa-851e-36fd611b2076,affixed.clinic,available,11.98,82.98,low,low,7,namecheap,,,
+78fb395b-85d9-498d-b130-52a5f0dbb7f4,oakland.clinic,premium,118.8,118.8,high,low,7,namesilo,,,
+8714a830-4958-4bfa-851e-36fd611b2076,affixed.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
 48f910f1-d548-4733-ba9a-3de289036f01,managing.clinic,available,19.99,,high,low,8,name.com,,,
-b66bceca-a3b0-45da-8bbb-f5e2f1079fc9,apical.clinic,available,11.98,82.98,low,low,6,namecheap,,,05/08/2026 23:58
-da344251-a98e-41af-ad97-9a8a74386b92,consent.clinic,available,11.98,82.98,medium,low,7,namecheap,,,08/09/2026 13:17
-859c966f-b88f-4b92-a802-51b47cee117b,andorran.clinic,premium,118.8,118.8,low,low,8,namesilo,,,
-623dfaa7-9c1d-48e5-a8ee-d5baf99cd94a,ampullar.clinic,available,11.98,82.98,low,low,8,namecheap,,,
+b66bceca-a3b0-45da-8bbb-f5e2f1079fc9,apical.clinic,available,11.98,82.98,high,low,6,namecheap,,,05/08/2026 23:58
+da344251-a98e-41af-ad97-9a8a74386b92,consent.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/09/2026 13:17
+859c966f-b88f-4b92-a802-51b47cee117b,andorran.clinic,premium,118.8,118.8,high,low,8,namesilo,,,
 0e75f086-cc94-46d8-9903-14a6b3f9fdae,north.clinic,available,19.99,,high,low,5,name.com,,,
-bac43a63-31ac-40bb-9c2f-6ad1b04c04e4,forced.clinic,available,19.99,84.99,low,low,6,name.com,,,23/09/2026 21:10
-b5faf43a-cebe-4a53-aabd-6d1c5eea2e0c,mass.clinic,available,20.99,64.99,medium,low,4,namesilo,,,21/09/2026 22:50
-ddd0969e-6d94-408c-bcaa-ea2b23ec3d75,room.clinic,premium,118.8,118.8,medium,low,4,namesilo,,,23/09/2026 08:08
-c601cb1b-2ad9-4d43-a828-fd4157389b38,atbest.clinic,available,19.99,,medium,low,7,name.com,,,
-3e4bb595-8a02-467c-8ec6-7f52acc667b3,recondite.clinic,available,11.98,82.98,low,low,9,namecheap,,,
+3e4bb595-8a02-467c-8ec6-7f52acc667b3,recondite.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
 ba659489-03db-4519-8c1e-11c039c41347,plentiful.clinic,available,19.99,,high,low,9,name.com,,,
-643161f1-af03-490c-960b-7fd8511cc61e,reliability.clinic,available,19.99,,medium,low,11,name.com,,,
-450ab5c0-8ab7-4262-b71c-9f4f1dbf7756,howaboutthat.clinic,available,19.99,,medium,low,14,name.com,,,
-56813221-e41b-43ef-8be8-db939c44f871,stayloose.clinic,available,19.99,,low,low,10,name.com,,,
-176aac2e-a368-420c-842a-4dfcfec853db,notions.clinic,available,19.99,,low,low,7,name.com,,,
-7f00c78d-32ea-475a-9933-e6a884a16925,naturalperson.clinic,available,19.99,,low,low,14,name.com,,,
-27268d81-b3d4-4abf-9965-ef08be303f0d,mainman.clinic,available,19.99,,high,low,8,name.com,,,
-d1614b29-b8d6-4d8f-9196-1a694c70498b,becoming.clinic,available,11.98,82.98,low,low,8,namecheap,,,09/08/2026 06:08
-12feb94a-bfc0-4862-81e8-8c5ebabc4a0d,quickwitted.clinic,available,19.99,,medium,low,12,name.com,,,
-8761b294-9f1f-45ba-8c25-a6b38f595f1e,goup.clinic,available,11.98,82.98,medium,low,5,namecheap,,,03/09/2026 14:22
-f43434d8-2d79-4258-97c7-d862fa340fb0,sterile.clinic,available,20.99,64.99,low,low,7,namesilo,,,22/09/2026 09:35
-65387b81-2cad-4b7b-8e93-e623a35a81c0,turmeric.clinic,available,20.99,64.99,medium,low,8,namesilo,,,19/09/2026 15:28
-6930b11c-5963-4cf7-808f-3e7724e76950,diskspace.clinic,available,19.99,,high,low,10,name.com,,,
-8c71b49f-58ec-42e9-bdcc-f83d72c06eef,nutritive.clinic,available,11.98,82.98,medium,low,9,namecheap,,,08/09/2026 09:04
+643161f1-af03-490c-960b-7fd8511cc61e,reliability.clinic,available,19.99,,high,low,11,name.com,,,
+176aac2e-a368-420c-842a-4dfcfec853db,notions.clinic,available,19.99,,medium,low,7,name.com,,,
+d1614b29-b8d6-4d8f-9196-1a694c70498b,becoming.clinic,available,11.98,82.98,high,low,8,namecheap,,,09/08/2026 06:08
+8c71b49f-58ec-42e9-bdcc-f83d72c06eef,nutritive.clinic,available,11.98,82.98,high,low,9,namecheap,,,08/09/2026 09:04
 6be5cf21-3bb9-4b8d-b0ab-b584f9d3d04c,pivot.clinic,available,19.99,,high,low,5,name.com,,,
 cfce6ee2-a20f-4381-96cd-2fac76fd17af,excel.clinic,available,19.99,,high,low,5,name.com,,,
-828b9a80-dd12-4a65-9b6d-ef15730df37a,turnabout.clinic,available,19.99,,low,low,10,name.com,,,
-3133ae88-a57d-4208-be6f-1c3ae4f65a96,remotecontrol.clinic,available,19.99,,medium,low,14,name.com,,,
-5414e932-3320-4ee5-bd5b-328cfda7f5ce,selfconfident.clinic,available,19.99,,medium,low,14,name.com,,,
-19bc34b8-f251-4966-8737-0f4c1f6a09d5,leavethechat.clinic,available,19.99,,high,low,14,name.com,,,
-a5e452e8-7b56-4780-af12-f8a766bbc8ed,appareled.clinic,available,11.98,82.98,low,low,9,namecheap,,,06/08/2026 04:41
-279ae0b9-aa05-4094-8cae-fc73191358c7,keepitreal.clinic,available,19.99,,high,low,12,name.com,,,
-6cbb6a20-a81f-4de6-af20-23f47e5ebfff,anaplastic.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-7be48044-1e81-4fc0-9fd2-26d0ae94d8c3,adulterate.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+828b9a80-dd12-4a65-9b6d-ef15730df37a,turnabout.clinic,available,19.99,,high,low,10,name.com,,,
+7be48044-1e81-4fc0-9fd2-26d0ae94d8c3,adulterate.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
 0d855839-10ad-4e38-a3d9-599ee0278ec0,protective.clinic,available,19.99,,high,low,10,name.com,,,
-3e7fe578-4ee8-4f30-9015-c83d3e5ab4bd,aphetic.clinic,available,11.98,82.98,low,low,7,namecheap,,,05/08/2026 23:12
-a3015002-7d7c-478d-bd5f-198aea5d93c7,humanbeing.clinic,available,19.99,,high,low,11,name.com,,,
-a36dd94b-2a0d-434b-b891-36f8af1dbfee,given.clinic,available,19.99,,high,low,5,name.com,,,
-b1d78a1d-f0e9-43c6-8bc6-989189d9bd4d,incidentreport.clinic,available,19.99,,medium,low,15,name.com,,,
-c9dd3cdd-36e1-467b-afcf-c075df33ae4e,turtlenecksweater.clinic,available,19.99,,high,low,18,name.com,,,
 41f21eae-a5db-452a-86e0-3815cc3124be,respectful.clinic,available,19.99,,high,low,10,name.com,,,
-f710c4bc-1c5a-4751-b525-f00f391e28f2,manageable.clinic,available,20.99,64.99,medium,low,10,namesilo,,,21/09/2026 15:48
-540998b0-ddbf-44f5-b919-aaef5b4ca0a4,asopposedto.clinic,available,19.99,,medium,low,13,name.com,,,
 4c0ec81e-4361-4298-99b6-2b3a4ea0692b,psychology.clinic,premium,500,,high,low,10,name.com,,,
-14a96e3b-8f1e-4bee-984d-c5e8410d690c,televisionchannel.clinic,available,19.99,,high,low,18,name.com,,,
-45004663-0fa9-4780-a9c1-76676ca1dfa6,asyouknow.clinic,available,19.99,,medium,low,11,name.com,,,
-79338714-341b-4db0-9604-4258b8cccbde,airtight.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-27e76712-9b55-470f-acd7-cca16c43b1e7,backup.clinic,available,20.99,64.99,medium,low,6,namesilo,,,20/09/2026 03:14
-61273d70-e2df-46cb-8be4-4444fc7229a3,cleared.clinic,available,20.99,64.99,medium,low,7,namesilo,,,21/09/2026 14:48
-64fa3146-22d7-4945-9824-200f2ecce630,commenting.clinic,available,19.99,,medium,low,10,name.com,,,
-b994bc8d-616c-4963-b60c-363d8f683c14,bloodclot.clinic,available,19.99,,medium,low,10,name.com,,,
-87f3522e-d9d9-4b13-9bb8-70ef75d39460,snap.clinic,available,20.99,64.99,medium,low,4,namesilo,,,24/09/2026 01:20
+79338714-341b-4db0-9604-4258b8cccbde,airtight.clinic,available,11.98,82.98,high,low,8,namecheap,,,
+64fa3146-22d7-4945-9824-200f2ecce630,commenting.clinic,available,19.99,,high,low,10,name.com,,,
 3433e29d-def6-42ff-99b5-d3965f3d8bad,country.clinic,premium,118.8,118.8,high,low,7,namesilo,,,
-72ba6b0b-ff04-435d-bd39-7a9d1a93cbd4,bluish.clinic,available,20.99,64.99,low,low,6,namesilo,,,22/09/2026 22:47
 62be7759-b455-4e03-a099-39ea83f120e7,give.clinic,available,19.99,,high,low,4,name.com,,,
-c90136d7-7647-4f0e-b1b8-b6de36c5872b,clustered.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-cc75daa7-cf73-4299-906d-9453eb7e6e3f,teastrainer.clinic,available,19.99,,high,low,12,name.com,,,
-2c189ad2-7286-408e-bed1-d49ed8e689a3,acute.clinic,available,11.98,82.98,medium,low,5,namecheap,,,21/09/2026 16:39
+c90136d7-7647-4f0e-b1b8-b6de36c5872b,clustered.clinic,available,11.98,82.98,high,low,9,namecheap,,,
 42e2740a-0ec0-480d-bfde-42a27347659f,dad.clinic,premium,242,242,high,low,3,namesilo,,,
-17c851cf-668f-4e21-969c-ea3b9b8a5a65,fired.clinic,available,19.99,84.99,medium,low,5,name.com,,,
-de6777ac-5a65-4cca-a21d-7f917e3d8134,crafty.clinic,available,20.99,64.99,low,low,6,namesilo,,,24/09/2026 01:24
-58d3fa2e-ea73-46d6-875a-15b9acc4a2a1,anybudy.clinic,available,19.99,,medium,low,7,name.com,,,
-694dfcd2-5aee-426b-a9f3-8064858fd732,alarmed.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-6053c583-42e7-434c-8d2c-d692378645e2,appetising.clinic,available,11.98,82.98,low,low,10,namecheap,,,06/08/2026 06:50
-e7773eec-ac64-4873-a96b-282a8f061477,standbehind.clinic,available,19.99,,low,low,12,name.com,,,
-1e95fa02-be8e-45b3-93ba-1610c1969a36,worldwideweb.clinic,available,19.99,,low,low,14,name.com,,,
-a7ae2662-c57c-4a6e-88eb-87f09c5a89a4,heel.clinic,available,19.99,,medium,low,4,name.com,,,
-d607e876-1e55-47c5-9e72-c633824fc1d2,tilted.clinic,available,11.98,82.98,low,low,6,namecheap,,,07/08/2026 13:29
-eb194a5b-ffab-4e8c-b02b-a4db24af8d1a,multiplayer.clinic,available,19.99,,medium,low,11,name.com,,,
-b4358f36-e056-4a23-b418-0d01c47b3a7f,thiscoming.clinic,available,,,low,low,11,,,,
-896d47bb-4e06-41b4-9156-5cef83074c53,appendant.clinic,available,11.98,82.98,low,low,9,namecheap,,,06/08/2026 06:34
-a8fc4cd8-5d61-4509-ab25-166e142514bc,bob.clinic,premium,118.8,118.8,medium,low,3,namesilo,,,22/09/2026 23:31
-9a9f6b40-9b41-43bf-9b73-0c8946b85a76,deepdish.clinic,available,19.99,,high,low,9,name.com,,,
-a5899b21-6782-4ff6-bfbb-71d9a8a0f8d5,privileged.clinic,available,19.99,,medium,low,10,name.com,,,
-8afde4f6-1829-4119-b1b0-c09393c1b69d,vii.clinic,available,,,medium,low,3,,,,
-779cfb08-2a95-42df-badb-9800bb6c0fee,xxv.clinic,available,20.99,64.99,low,low,3,namesilo,,,21/09/2026 12:45
-aaed4b04-1395-442b-9d30-def2f3facce8,twodozen.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-7ecde455-403d-410f-b108-c052a721801e,aloof.clinic,available,11.98,82.98,low,low,5,namecheap,,,
+694dfcd2-5aee-426b-a9f3-8064858fd732,alarmed.clinic,available,11.98,82.98,high,low,7,namecheap,,,
+6053c583-42e7-434c-8d2c-d692378645e2,appetising.clinic,available,11.98,82.98,medium,low,10,namecheap,,,06/08/2026 06:50
+a7ae2662-c57c-4a6e-88eb-87f09c5a89a4,heel.clinic,available,19.99,,high,low,4,name.com,,,
+d607e876-1e55-47c5-9e72-c633824fc1d2,tilted.clinic,available,11.98,82.98,high,low,6,namecheap,,,07/08/2026 13:29
+eb194a5b-ffab-4e8c-b02b-a4db24af8d1a,multiplayer.clinic,available,19.99,,high,low,11,name.com,,,
+a5899b21-6782-4ff6-bfbb-71d9a8a0f8d5,privileged.clinic,available,19.99,,high,low,10,name.com,,,
+8afde4f6-1829-4119-b1b0-c09393c1b69d,vii.clinic,available,,,high,low,3,,,,
+7ecde455-403d-410f-b108-c052a721801e,aloof.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
 a7212f44-3314-4fdf-9083-fe4aed385409,reception.clinic,available,19.99,,high,low,9,name.com,,,
-4b23ae53-4083-4283-b140-c3898d57f0cb,lxxxii.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-eb1f19aa-23b0-4b7d-96fb-e4acbc08657b,briefly.clinic,available,19.99,,medium,low,7,name.com,,,
-8ea91690-12ca-4d66-bc71-555f949f1a4e,alaskan.clinic,available,11.98,82.98,low,low,7,namecheap,,,
+4b23ae53-4083-4283-b140-c3898d57f0cb,lxxxii.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
+eb1f19aa-23b0-4b7d-96fb-e4acbc08657b,briefly.clinic,available,19.99,,high,low,7,name.com,,,
+8ea91690-12ca-4d66-bc71-555f949f1a4e,alaskan.clinic,available,11.98,82.98,high,low,7,namecheap,,,
 d1a7aab5-aaca-4af3-93cf-202b1d942beb,recent.clinic,available,19.99,,high,low,6,name.com,,,
-a690ed3b-1904-48a7-b123-85d65179dfe8,aldehydic.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-871aa8d0-5bf3-4b92-8177-4437588bbdbb,rocky.clinic,available,20.99,64.99,low,low,5,namesilo,,,23/09/2026 01:13
-43121575-2446-45da-96b4-5207f2a49761,insteadof.clinic,available,19.99,,medium,low,10,name.com,,,
-c47dfaa6-cc6b-4bfb-8304-19b44dc48931,fasttravel.clinic,available,19.99,,high,low,11,name.com,,,
-7a9025ad-255d-4848-ad2d-add4ec3fd72e,whitestuff.clinic,available,,,low,low,11,,,,
-05f7243b-6898-41d1-9937-aaef0da56c29,newwave.clinic,available,11.98,82.98,medium,low,8,namecheap,,,07/08/2026 21:44
-948e9a24-0391-4e11-ac05-2873f9551dab,makethemostof.clinic,available,19.99,,high,low,16,name.com,,,
-e1121254-88d1-45cc-9580-0d1602d5204f,option.clinic,available,11.98,82.98,medium,low,6,namecheap,,,22/09/2026 02:42
 c24a4958-28ec-4701-9ef3-483c10db234b,philip.clinic,available,19.99,,high,low,6,name.com,,,
-b691c4ae-24ae-49f8-ad6b-186abcbcab10,aboveboard.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+b691c4ae-24ae-49f8-ad6b-186abcbcab10,aboveboard.clinic,available,11.98,82.98,high,low,10,namecheap,,,
 3ad222a3-14a1-4df8-9939-10703bd58ef2,paperback.clinic,available,19.99,,high,low,9,name.com,,,
-993758bb-f55c-4c62-a6ae-31a12c9925f3,scatty.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-d1cdfc3c-244c-475c-9f74-e68363e5d7e6,howwouldiknow.clinic,available,19.99,,medium,low,16,name.com,,,
-2c8e52cf-81e7-4f85-8a23-60e10d39fa26,sift.clinic,available,19.99,,medium,low,4,name.com,,,
+993758bb-f55c-4c62-a6ae-31a12c9925f3,scatty.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
+2c8e52cf-81e7-4f85-8a23-60e10d39fa26,sift.clinic,available,19.99,,high,low,4,name.com,,,
 54273856-854e-4e31-bc6b-9c36dacb3898,conspiracy.clinic,available,19.99,,high,low,10,name.com,,,
 f5085bf0-f6ae-4ef3-9d66-db3f4301663d,unacceptable.clinic,available,19.99,,high,low,12,name.com,,,
-10dd84fc-a93c-48ee-a0f8-18c949840e43,allogeneic.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-a198c3da-5843-4169-863c-4f6f97bceda9,redapple.clinic,available,19.99,,high,low,9,name.com,,,
-6c07a21c-ceb0-4c18-bf5d-7a32209ba25d,selfish.clinic,available,19.99,,medium,low,7,name.com,,,
-f7aac07d-51c4-4983-a75a-f2c294841f32,intheend.clinic,available,19.99,,medium,low,10,name.com,,,
+10dd84fc-a93c-48ee-a0f8-18c949840e43,allogeneic.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+6c07a21c-ceb0-4c18-bf5d-7a32209ba25d,selfish.clinic,available,19.99,,high,low,7,name.com,,,
 65c8695a-e58c-470e-a7e3-91508bb1fa00,usa.clinic,premium,500,,high,medium,3,name.com,,,
-dc432928-813e-4774-9960-b59bd2211069,patrisib.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-0b254978-045f-44a2-ab45-459b3c58690d,concluded.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-afef54eb-8d04-4562-aa1f-b840f8dfe003,apropos.clinic,available,11.98,82.98,medium,low,7,namecheap,,,06/08/2026 10:00
-4b1dd8bc-8da2-465a-9fdc-2f5a57c28cef,cyan.clinic,available,20.99,64.99,medium,low,4,namesilo,,,22/09/2026 22:59
-444fb800-a5ec-4e99-aa4f-ad09ec6bf2a7,nitrous.clinic,available,11.98,82.98,low,low,7,namecheap,,,08/08/2026 03:03
-f81a849d-4205-44d8-921b-1f6e2db6d2fb,notatall.clinic,available,19.99,,high,low,10,name.com,,,
-8025ba5a-cf4d-474f-b550-a07b33414d5b,broad.clinic,available,11.98,82.98,medium,low,5,namecheap,,,19/09/2026 06:03
-86eaeb39-bded-41b7-b730-34950d19047e,thehell.clinic,available,19.99,,high,low,8,name.com,,,
-cfa47209-8f75-4f37-9a56-62443f0d22dd,howto.clinic,available,19.99,,high,low,6,name.com,,,
+0b254978-045f-44a2-ab45-459b3c58690d,concluded.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+afef54eb-8d04-4562-aa1f-b840f8dfe003,apropos.clinic,available,11.98,82.98,high,low,7,namecheap,,,06/08/2026 10:00
+444fb800-a5ec-4e99-aa4f-ad09ec6bf2a7,nitrous.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/08/2026 03:03
 c8f42f89-0eab-44c2-9e08-94dbf12af733,inviting.clinic,available,19.99,,high,low,8,name.com,,,
-a7047561-f324-44e4-a343-06701647d3f1,tall.clinic,available,19.99,,high,low,4,name.com,,,
-0e746e72-447e-4cc6-8290-869cf7a99560,alight.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-de480f74-4533-4674-b28c-d8da06e3f582,outofaction.clinic,available,19.99,,low,low,13,name.com,,,
-6fe24e43-26a1-4679-94f4-30251c0ffe45,placatory.clinic,available,11.98,82.98,low,low,9,namecheap,,,06/08/2026 06:12
-128161ec-ff83-4dcb-8a8b-5223e7d3e027,afebrile.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-8a95ee4b-be40-4272-94af-374736f62465,ackack.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-e621547a-985e-46f0-a392-7d45fc615ba9,cunning.clinic,available,20.99,64.99,low,low,7,namesilo,,,24/09/2026 01:26
-50d0b4f3-fefd-47e7-aace-d61de209d5ec,archosaur.clinic,available,11.98,82.98,low,low,9,namecheap,,,06/08/2026 15:57
-3ca8aba9-cfb9-4f7c-a9ee-6734d87dbb0c,fiftynine.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-3d0a24dc-7c2c-43cd-8cbf-27a58cfb4e58,wheezy.clinic,available,11.98,82.98,low,low,6,namecheap,,,07/08/2026 09:31
-c2b37da2-f19f-4acb-aa25-0b6c0b26a747,toobad.clinic,available,19.99,,low,low,7,name.com,,,
-e72eea43-103e-4362-b77d-d6858efc7c0a,whitesnow.clinic,available,19.99,,medium,low,10,name.com,,,
-401d1d30-ba0d-4e14-bf42-d98cb2ddf211,goodrun.clinic,available,19.99,,high,low,8,name.com,,,
-4d94dc52-413b-4eb6-a1b8-21a18d54b225,vocalcords.clinic,available,19.99,,medium,low,11,name.com,,,
+0e746e72-447e-4cc6-8290-869cf7a99560,alight.clinic,available,11.98,82.98,high,low,6,namecheap,,,
+8a95ee4b-be40-4272-94af-374736f62465,ackack.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+50d0b4f3-fefd-47e7-aace-d61de209d5ec,archosaur.clinic,available,11.98,82.98,medium,low,9,namecheap,,,06/08/2026 15:57
+3d0a24dc-7c2c-43cd-8cbf-27a58cfb4e58,wheezy.clinic,available,11.98,82.98,medium,low,6,namecheap,,,07/08/2026 09:31
 fcd19c64-cbe9-4d47-b595-4aa890071dda,wife.clinic,available,19.99,,high,low,4,name.com,,,
 a1b31ae5-8d29-4619-9f3f-facae537eb17,unlocking.clinic,available,19.99,,high,low,9,name.com,,,
-3f045554-30f8-4cb4-92eb-3d8861e84ee2,whothehell.clinic,available,19.99,,low,low,12,name.com,,,
 14e4651d-fdd8-411b-a638-a4ebccebe905,outdoor.clinic,available,19.99,,high,low,7,name.com,,,
-5d01d3fa-96fe-4cac-a36e-36a020853dc6,pretending.clinic,available,19.99,,medium,low,10,name.com,,,
-a1408b37-6019-4bda-8097-72a4dc2f860e,peremptory.clinic,available,11.98,82.98,low,low,10,namecheap,,,07/08/2026 19:45
+5d01d3fa-96fe-4cac-a36e-36a020853dc6,pretending.clinic,available,19.99,,high,low,10,name.com,,,
 b0d3d904-1844-4213-8ec9-fdcc423b4918,sit.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
 b0fb5097-babb-4cc0-9311-0b6e3254d32d,words.clinic,available,19.99,,high,low,5,name.com,,,
-b4735f70-930b-4814-bfb7-10c68567d84a,aflare.clinic,available,11.98,82.98,low,low,6,namecheap,,,
+b4735f70-930b-4814-bfb7-10c68567d84a,aflare.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
 301ca0e6-66e1-4742-a65f-d17a917cfbf2,siberian.clinic,available,19.99,,high,low,8,name.com,,,
-29be0bc2-40f0-4e6e-9af3-42c70e295ece,plantcommunity.clinic,available,19.99,,high,low,15,name.com,,,
 6a6c4b8e-5492-489a-a291-d9d68456bfc8,figures.clinic,available,19.99,,medium,low,7,name.com,,,
-870f0836-07bd-4824-9f14-f034f627d257,beatenup.clinic,available,11.98,82.98,low,low,9,namecheap,,,22/09/2026 18:22
 ed3c9cf0-9ac7-4f06-87bc-eb142667cdaf,humorous.clinic,available,19.99,,high,low,8,name.com,,,
 3059231d-8718-4334-b917-80d3f04966dd,diva.clinic,available,19.99,,high,low,4,name.com,,,
-4fce8f6c-ffcd-484b-9676-72d491d34801,taxshift.clinic,available,19.99,,medium,low,9,name.com,,,
-d1f8ceda-14e2-4420-b7ac-b1ba0f90b891,fortyone.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-806af13b-e8cd-4632-a958-d8bf1271655d,ifalle.clinic,available,19.99,,medium,low,7,name.com,,,
-ef82bc7e-1870-41d3-8645-bca7e0a06c31,baptized.clinic,available,11.98,82.98,low,low,8,namecheap,,,08/08/2026 14:55
-b14c5279-0d57-4c18-af35-5f57658faa2c,lxxvii.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-ff3af789-0295-43a3-9824-2edcc252bcd8,pointat.clinic,available,19.99,,low,low,8,name.com,,,
-bf76439d-eee6-4979-adc6-984766ff1151,anestric.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-2006a816-77de-4367-82d2-7626a6a6f1c1,beakless.clinic,available,11.98,82.98,low,low,8,namecheap,,,09/08/2026 03:55
+ef82bc7e-1870-41d3-8645-bca7e0a06c31,baptized.clinic,available,11.98,82.98,high,low,8,namecheap,,,08/08/2026 14:55
+b14c5279-0d57-4c18-af35-5f57658faa2c,lxxvii.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
 9cc93620-3392-48fe-aad7-59975d136672,surfboard.clinic,available,19.99,,high,low,9,name.com,,,
-eeecef3e-d952-45a0-ae30-ced11f57433a,incompletesentence.clinic,available,19.99,,medium,low,19,name.com,,,
-cfc96032-8aaa-47e1-93a4-3ef4fff0ec6c,setanexample.clinic,available,19.99,,medium,low,14,name.com,,,
-b0f17eaf-6a24-4d38-acf8-80949d67d878,omniscient.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+b0f17eaf-6a24-4d38-acf8-80949d67d878,omniscient.clinic,available,11.98,82.98,high,low,10,namecheap,,,
 4d0d81f8-59ba-4ac4-824d-a5ece3033116,blockade.clinic,available,19.99,,high,low,8,name.com,,,
 f76e11ea-55b4-46b7-857a-d41a4889a606,sufficient.clinic,available,19.99,,high,low,10,name.com,,,
-1f1a1f1e-b33b-4803-b447-61fb781b4b5c,nightsky.clinic,available,19.99,,high,low,9,name.com,,,
-428b9588-f598-4860-9ea0-a8e274d88bb1,tow.clinic,premium,78.54,78.54,medium,low,3,namesilo,,,
-43dd9fc7-e05d-4110-91c0-0296db1648c8,atilt.clinic,available,11.98,82.98,low,low,5,namecheap,,,07/08/2026 13:13
+428b9588-f598-4860-9ea0-a8e274d88bb1,tow.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
+43dd9fc7-e05d-4110-91c0-0296db1648c8,atilt.clinic,available,11.98,82.98,medium,low,5,namecheap,,,07/08/2026 13:13
 41760c7d-0d8e-44ac-aebe-dc93a9a827ad,legion.clinic,available,19.99,,high,low,6,name.com,,,
-f32ea044-d85f-4e6a-848d-dde95a71192c,alarm.clinic,available,11.98,82.98,low,low,5,namecheap,,,
-0024e69e-d2ee-45f6-b5ec-502bbf29bd39,aflutter.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-6f13075b-b9f5-4011-b550-f1f1763b1630,xii.clinic,premium,118.8,118.8,low,low,3,namesilo,,,21/09/2026 11:25
-df73b580-a692-4736-88ed-ed127a4c420c,spiral.clinic,available,20.99,64.99,medium,low,6,namesilo,,,23/09/2026 14:59
-293f7da5-caff-4068-9f83-4a1a26b8df94,stylish.clinic,available,19.99,,high,low,7,name.com,,,
-a70e7fe6-fe58-458e-90d4-d719f2ed8352,countryoforigin.clinic,available,19.99,,medium,low,17,name.com,,,
-54d47871-3a72-49f7-9008-d4c6330ad62d,trace.clinic,available,19.99,,medium,low,5,name.com,,,
-3288efa5-28e2-404a-a1ce-6870518196eb,amatory.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-b0e2383f-c31f-47de-8407-2083b0ca52f2,putup.clinic,available,19.99,,high,low,6,name.com,,,
-f8931264-59c9-4889-a71b-339be808ecb0,african.clinic,premium,242,242,low,low,7,namesilo,,,
-0eefc313-aeee-4450-854c-86b6ebe753e1,azygous.clinic,available,11.98,82.98,low,low,7,namecheap,,,08/08/2026 03:27
-ce77921a-14b6-4d52-8662-db231ed75dac,spanishrice.clinic,available,19.99,,low,low,12,name.com,,,
+f32ea044-d85f-4e6a-848d-dde95a71192c,alarm.clinic,available,11.98,82.98,high,low,5,namecheap,,,
+0024e69e-d2ee-45f6-b5ec-502bbf29bd39,aflutter.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+54d47871-3a72-49f7-9008-d4c6330ad62d,trace.clinic,available,19.99,,high,low,5,name.com,,,
+3288efa5-28e2-404a-a1ce-6870518196eb,amatory.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+f8931264-59c9-4889-a71b-339be808ecb0,african.clinic,premium,242,242,high,low,7,namesilo,,,
+0eefc313-aeee-4450-854c-86b6ebe753e1,azygous.clinic,available,11.98,82.98,medium,low,7,namecheap,,,08/08/2026 03:27
 560759b1-8567-4c7b-bf8d-fa82f660a67f,james.clinic,available,19.99,,high,medium,5,name.com,,,
 4e673812-4e8c-4968-ad22-0d3e600c3fbd,preference.clinic,available,19.99,,high,low,10,name.com,,,
-a7d4deec-0c60-42e4-99ae-1782514afeb9,gift.clinic,premium,242,242,high,low,4,namesilo,,,
-68a0a55e-a335-41c7-be9a-715ee835aa5d,adenoid.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-b80c9429-3c19-4993-8f45-5ec397577e1d,toll.clinic,available,,,medium,low,4,,,,
+68a0a55e-a335-41c7-be9a-715ee835aa5d,adenoid.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+b80c9429-3c19-4993-8f45-5ec397577e1d,toll.clinic,available,,,high,low,4,,,,
 4aacb447-7610-4f72-b1df-0029168a8b9e,heartburn.clinic,available,19.99,,medium,low,9,name.com,,,
-9be8c402-9521-4953-8002-e39569147005,paunchy.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-2fce4cf7-def2-408d-bed2-4dd105c923f1,closeorder.clinic,available,19.99,,medium,low,11,name.com,,,
-28474b59-fc64-45ec-adfa-5bc69f7d49b4,pissed.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-a1b309cf-8a89-4f39-be9a-7a7a1ce12ff4,sink.clinic,available,19.99,,medium,low,4,name.com,,,
-385062b4-ff02-4698-8356-9ec0a95b4b14,coffeemaker.clinic,available,19.99,,high,low,12,name.com,,,
+9be8c402-9521-4953-8002-e39569147005,paunchy.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+28474b59-fc64-45ec-adfa-5bc69f7d49b4,pissed.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
+a1b309cf-8a89-4f39-be9a-7a7a1ce12ff4,sink.clinic,available,19.99,,high,low,4,name.com,,,
 f67bd52b-3015-4063-9309-0a0e42c5978d,recipient.clinic,available,19.99,,high,low,9,name.com,,,
-130bc57d-bae6-4a81-8a44-2622790e1ff7,wouldlike.clinic,available,19.99,,low,low,10,name.com,,,
 4fdb26a5-27d9-4a51-8d29-448db7069765,marked.clinic,available,19.99,,high,low,6,name.com,,,
 8795181d-6cb1-4928-be96-33e7b3c1c0e2,gently.clinic,available,19.99,,high,low,6,name.com,,,
 4874e4e7-e05a-4c15-80ba-3dacca92a3e2,married.clinic,available,19.99,,high,low,7,name.com,,,
 610a35ef-00d7-4376-9e4e-1af4a23b248e,camo.clinic,available,19.99,,high,low,4,name.com,,,
 f15e77a1-19e1-4a8d-84bc-fba5da9cd343,returning.clinic,available,19.99,,high,low,9,name.com,,,
-88bb6ed4-0686-4115-b094-596216396149,givesomeoneahand.clinic,available,19.99,,high,low,19,name.com,,,
-1d0829dd-c898-4687-bd92-6614f44d9d7d,utterly.clinic,available,19.99,,medium,low,7,name.com,,,
-fbc7992c-a988-43ce-b907-510091eefc88,intruth.clinic,available,11.98,82.98,low,low,8,namecheap,,,19/09/2026 10:53
-72f24272-4f91-46d0-95c3-ff90566707c6,susceptible.clinic,available,19.99,,high,low,11,name.com,,,
-f9557c79-e98f-4ebe-8cda-34fac6204d75,haveworkdone.clinic,available,19.99,,medium,low,14,name.com,,,
-6283fb68-8405-4a56-9576-0b8b63f95afd,stung.clinic,available,11.98,82.98,low,low,5,namecheap,,,
-c253e161-5b1e-44f6-8c08-57897c3c5cb8,mouthy.clinic,available,19.99,,low,low,6,name.com,,,
+1d0829dd-c898-4687-bd92-6614f44d9d7d,utterly.clinic,available,19.99,,high,low,7,name.com,,,
+6283fb68-8405-4a56-9576-0b8b63f95afd,stung.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
+c253e161-5b1e-44f6-8c08-57897c3c5cb8,mouthy.clinic,available,19.99,,medium,low,6,name.com,,,
 59198f83-ea4d-4553-9b20-b4c6dd1e578c,coast.clinic,available,19.99,,high,low,5,name.com,,,
-d1020b5b-1f54-4bc8-b628-a202f2b942ae,beetling.clinic,available,11.98,82.98,low,low,8,namecheap,,,09/08/2026 08:22
-620c0bd9-f267-4e2c-aca5-592f7fe1faab,babylonian.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 03:58
-0b6c8b43-b4a9-4954-9ac2-d41a45608c80,poisoning.clinic,available,19.99,,medium,low,9,name.com,,,
+d1020b5b-1f54-4bc8-b628-a202f2b942ae,beetling.clinic,available,11.98,82.98,medium,low,8,namecheap,,,09/08/2026 08:22
+620c0bd9-f267-4e2c-aca5-592f7fe1faab,babylonian.clinic,available,11.98,82.98,high,low,10,namecheap,,,08/08/2026 03:58
+0b6c8b43-b4a9-4954-9ac2-d41a45608c80,poisoning.clinic,available,19.99,,high,low,9,name.com,,,
 564705b7-e86c-417e-a89c-2ce586526a73,awarding.clinic,available,19.99,,high,low,8,name.com,,,
-40b8060d-712a-4cfb-b763-6c757b6c6f52,infrontof.clinic,available,19.99,,medium,low,11,name.com,,,
 3d87c90c-4460-453d-8895-d45ddbe74aa1,advocate.clinic,available,19.99,,high,low,8,name.com,,,
 1d307f9f-d3b2-4809-9d16-5307c6491093,squall.clinic,available,19.99,,high,low,6,name.com,,,
-8feb321c-10f8-4f4a-ad36-9ed3fe478d8f,mordacious.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 16:52
-4db451b4-0cac-43cb-b5e4-f8f197843bbb,luncheonsausage.clinic,available,19.99,,high,low,16,name.com,,,
-ae2aa65f-d756-4f34-8069-339f74493fec,rodshaped.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 05:07
 28980e10-403e-4bf7-8629-94d1013739c2,massive.clinic,available,19.99,,high,low,7,name.com,,,
 56dad391-116c-4108-9fec-47e9b0935c10,besides.clinic,available,19.99,,high,low,7,name.com,,,
-31dd7a29-26c5-45fc-9b22-c3479f6f7414,arguement.clinic,available,19.99,,medium,low,9,name.com,,,
 65bc9d17-a85e-45bc-a19c-5421deed983a,solve.clinic,available,19.99,,high,low,5,name.com,,,
-4778f1ee-0023-4631-be21-823fa2cee103,modernistcuisine.clinic,available,19.99,,high,low,17,name.com,,,
-33621e29-83a2-4a71-91af-38ad7855fba1,figure.clinic,available,19.99,,high,low,6,name.com,,,
 bb68a3d5-8150-4a44-8010-9ff27bcfd8a0,sound.clinic,available,19.99,,high,low,5,name.com,,,
 fab751d8-0749-42df-a18b-8f4d903d628e,scientist.clinic,available,19.99,,high,low,9,name.com,,,
-012aee1e-6dba-46d2-b662-181b332bd53d,nobody.clinic,available,19.99,,medium,low,6,name.com,,,
-0d6f0c82-1f10-4dc5-b477-7334b0c9141e,popmusic.clinic,available,19.99,,medium,low,9,name.com,,,
+012aee1e-6dba-46d2-b662-181b332bd53d,nobody.clinic,available,19.99,,high,low,6,name.com,,,
 3d8c7337-1348-4fc7-8689-2e9be9958fdf,chorus.clinic,available,19.99,,high,low,6,name.com,,,
 d458aa33-12d9-44a8-8411-a4b4f4e9b063,scrub.clinic,available,19.99,,high,low,5,name.com,,,
 fc9c0a43-65e7-4157-9b83-89291ac96e63,useful.clinic,available,19.99,,high,low,6,name.com,,,
-267b81b4-2995-4c8a-913a-3daa924ef262,powerful.clinic,available,20.99,64.99,medium,low,8,namesilo,,,23/09/2026 09:23
 300a2e27-be61-480c-ac8e-e357d36737a7,courses.clinic,premium,260,260,high,low,7,namecheap,,,
-7584d503-8490-4383-b970-4c762a130048,eastern.clinic,available,19.99,84.99,high,low,7,name.com,,,
-f22f2102-c994-4830-b3c7-ba5a03cfa785,shavingoil.clinic,available,19.99,,medium,low,11,name.com,,,
-bed42355-f43c-4a9b-91a2-c28b43456781,atonal.clinic,available,11.98,82.98,low,low,6,namecheap,,,07/08/2026 13:46
-81d9b5d1-0450-4b97-a1c9-977fba90ba90,closeofbusiness.clinic,available,19.99,,high,low,17,name.com,,,
-5bc51d56-7490-4f81-b47b-dcfce0acee87,actively.clinic,available,19.99,,medium,low,8,name.com,,,
+bed42355-f43c-4a9b-91a2-c28b43456781,atonal.clinic,available,11.98,82.98,medium,low,6,namecheap,,,07/08/2026 13:46
+5bc51d56-7490-4f81-b47b-dcfce0acee87,actively.clinic,available,19.99,,high,low,8,name.com,,,
 c581bf17-0eab-44ce-9081-508107f23d4c,primitive.clinic,available,19.99,,high,low,9,name.com,,,
 77a16504-2271-4502-9fb4-5e7555235785,employer.clinic,available,19.99,,high,low,8,name.com,,,
 72497268-b1c4-4260-a8ca-5a6ba7a4de4c,discomfort.clinic,available,19.99,,high,low,10,name.com,,,
 ea565d7d-b7a3-4467-94a6-09c891f4a5ca,potato.clinic,available,19.99,,high,low,6,name.com,,,
-6d4877cf-2c32-4164-807b-fabd6b0fbedc,astonished.clinic,available,20.99,64.99,low,low,10,namesilo,,,22/09/2026 03:35
 a0612aee-6dd2-4829-aea4-4ca3b35ef2cd,buying.clinic,available,19.99,,high,low,6,name.com,,,
-f27ab89e-fe9b-4a71-b1e0-057ff23b2248,cautionary.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+f27ab89e-fe9b-4a71-b1e0-057ff23b2248,cautionary.clinic,available,11.98,82.98,high,low,10,namecheap,,,
 9a452ea7-9830-48c0-98e0-702f1e5103ae,lindsay.clinic,available,19.99,,high,low,7,name.com,,,
-7ee8111d-976d-4e53-8317-05a313e93888,inundated.clinic,available,11.98,82.98,low,low,9,namecheap,,,08/08/2026 00:29
-3841fe9a-e72f-4a14-93e9-1251bd0ac971,abasic.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-5ca510da-2f6d-420b-8cf3-402469ed9ee5,polonecksweater.clinic,available,19.99,,high,low,17,name.com,,,
+7ee8111d-976d-4e53-8317-05a313e93888,inundated.clinic,available,11.98,82.98,medium,low,9,namecheap,,,08/08/2026 00:29
+3841fe9a-e72f-4a14-93e9-1251bd0ac971,abasic.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
 ea1cc069-2122-40d0-9658-a7d5bb85540b,slope.clinic,available,19.99,,high,low,5,name.com,,,
 021ab91c-3cf6-4735-b22f-9a0aa624c983,fridge.clinic,available,19.99,,high,low,6,name.com,,,
 3406d127-682b-4a5d-9cbd-04914d28ab69,table.clinic,available,19.99,,high,low,5,name.com,,,
-68ee1c0b-fe42-495a-8c53-ecc9434f5b01,generalstudies.clinic,available,19.99,,high,low,15,name.com,,,
-8b1ea945-9043-45ba-9911-b830bee7b56f,aggressive.clinic,available,19.99,84.99,medium,low,10,name.com,,,21/09/2026 22:59
-1442c4fc-8061-42e2-888a-d2c178bb63b8,toiletpaper.clinic,available,19.99,,high,low,12,name.com,,,
-0ae950c7-bf8d-4c40-b47d-207eb782c163,policeofficer.clinic,available,19.99,,high,low,14,name.com,,,
 b586b2a7-c2ae-456f-a2b4-5b9a7b136d89,washington.clinic,premium,854,854,high,low,10,namesilo,,,
 a6c2453f-deac-4b2e-af12-7bd8f8aba35f,priceless.clinic,available,,,high,low,9,,,,
-74efc124-204e-4c26-a4de-3abbeb9b26e4,inaway.clinic,available,19.99,,medium,low,8,name.com,,,
 421e1aba-250d-4e54-a88b-b35f453941a3,supermarket.clinic,available,19.99,,high,low,11,name.com,,,
-2283132b-c847-46d5-bf55-7b53c7317e46,fierce.clinic,available,20.99,64.99,low,low,6,namesilo,,,23/09/2026 01:48
 2bfc6379-577a-48c7-83a5-b9af5a910fb5,iso.clinic,available,,,high,low,3,,,,
-b373820b-daa5-4997-8248-1a156f1fd31b,pop.clinic,available,19.99,84.99,high,medium,3,name.com,,,
 c85308d8-c283-421a-8f1d-952e9ba952e2,chanukkah.clinic,available,19.99,,medium,low,9,name.com,,,
-15974293-73e1-422d-b8cc-c3cb072e7c1f,atworst.clinic,available,19.99,,medium,low,8,name.com,,,
-bdbbf69e-1412-40a2-b4ff-951bcd1631af,bareassed.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 18:05
-e51e5c38-ca15-47ac-9c40-f5d9a60e7651,particles.clinic,available,19.99,,low,low,9,name.com,,,
+e51e5c38-ca15-47ac-9c40-f5d9a60e7651,particles.clinic,available,19.99,,medium,low,9,name.com,,,
 9b8019cf-49a0-4ae7-9e73-e1252f00f705,granting.clinic,available,19.99,,high,low,8,name.com,,,
-1dec6986-00b0-4c19-9b3a-1fc605bbce64,passon.clinic,available,11.98,82.98,low,low,7,namecheap,,,21/09/2026 20:29
-828849e8-1185-47af-85a5-0fadadbfc2d4,oilterminal.clinic,available,19.99,,medium,low,12,name.com,,,
 2dad8699-fdd1-4ccf-8300-66c26196102c,engage.clinic,available,19.99,,high,low,6,name.com,,,
-8e5b4c53-486d-49c3-b52e-05302ac305b2,bringit.clinic,available,19.99,,high,low,8,name.com,,,
 0265bbea-39da-48f7-b88d-9dfe2581e0e0,organ.clinic,available,19.99,,high,low,5,name.com,,,
-b2edf36f-b9e9-4655-838d-5334adc70c6f,airfreshener.clinic,available,19.99,,high,low,13,name.com,,,
-d224905f-4b2b-4e5a-80db-2894850dc94a,markets.clinic,premium,128.7,128.7,low,low,7,namecheap,,,23/09/2026 06:42
-80d1f473-a6ec-44f1-81a5-86ea128a89ad,lookinto.clinic,available,19.99,,high,low,9,name.com,,,
-7e3be15b-f2ff-4ba6-af65-01992cdd4569,late.clinic,available,11.98,82.98,medium,low,4,namecheap,,,22/09/2026 19:16
 3a88d872-889e-40c7-bc95-5b76e459c1cc,grandma.clinic,available,19.99,,high,low,7,name.com,,,
-8357c3cc-b22f-4b1e-808e-7c99f27afda2,clowning.clinic,available,19.99,,medium,low,8,name.com,,,
-626cbffb-9e9d-4c14-a747-1b24f24742db,raisehell.clinic,available,19.99,,low,low,10,name.com,,,
-3a046834-1128-4f63-a562-7c48ec09f5a6,auditory.clinic,available,19.99,84.99,medium,low,8,name.com,,,22/09/2026 12:39
+8357c3cc-b22f-4b1e-808e-7c99f27afda2,clowning.clinic,available,19.99,,high,low,8,name.com,,,
 4afd24a4-7815-4f22-9e58-45a66df52ca2,descend.clinic,available,19.99,,high,low,7,name.com,,,
-4e2c9df2-fb5a-4373-bb8c-33d2b517d3f6,afflicted.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-a9647332-7502-4e2b-ad25-a873ae023800,mopeabout.clinic,available,19.99,,low,low,10,name.com,,,
-c83fae10-7b20-4f58-af49-4a81b1229f4c,dankmeme.clinic,available,19.99,,high,low,9,name.com,,,
-79140aa3-c9cf-4b59-8b1b-34be74c75a30,rubbingoil.clinic,available,19.99,,low,low,11,name.com,,,
+4e2c9df2-fb5a-4373-bb8c-33d2b517d3f6,afflicted.clinic,available,11.98,82.98,high,low,9,namecheap,,,
 2ecf2df9-e694-4435-b476-69c61d75400f,motivation.clinic,available,19.99,,high,low,10,name.com,,,
-55e3075d-8c41-48d1-929e-f9a2e4162a50,awkward.clinic,available,20.99,64.99,low,low,7,namesilo,,,22/09/2026 15:31
 34d46f0f-dd34-4077-a791-c4af4e043fba,android.clinic,available,,,high,medium,7,,,,
-0c13d5a8-5e8e-410b-8ac3-c3b0d89e3680,neat.clinic,available,20.99,64.99,low,low,4,namesilo,,,22/09/2026 16:59
-5d7b979a-8d7e-499f-9469-664c32edd137,xiii.clinic,available,20.99,64.99,low,low,4,namesilo,,,21/09/2026 11:34
-3a18667d-5e52-4c2b-8504-e96b20a8dcfa,yoursever.clinic,available,19.99,,low,low,10,name.com,,,
-2b81746c-1f71-42a7-9e4e-88ed0263347c,preserved.clinic,available,19.99,,medium,low,9,name.com,,,
+2b81746c-1f71-42a7-9e4e-88ed0263347c,preserved.clinic,available,19.99,,high,low,9,name.com,,,
 c60a9c82-7565-40bf-ad2a-02f11152edb2,struggle.clinic,available,19.99,,high,low,8,name.com,,,
-49b4f9df-9c3d-4e39-a265-1c4542478720,terzetto.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-914d6652-1db3-4839-b577-c475740d9074,allelic.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-080ad070-29a4-46af-8d95-58943a240bdd,arranged.clinic,available,11.98,82.98,medium,low,8,namecheap,,,22/09/2026 08:25
-98ee55ee-4947-4849-a918-5b04bca260c3,letloose.clinic,available,19.99,,high,low,9,name.com,,,
-98624b18-f421-44be-bd22-20afb01196f1,antiknock.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-e1e415e4-1c9a-4bad-b469-3673b6156d83,duplicate.clinic,available,19.99,84.99,high,low,9,name.com,,,
+49b4f9df-9c3d-4e39-a265-1c4542478720,terzetto.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+914d6652-1db3-4839-b577-c475740d9074,allelic.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
 c07f1a34-69ba-4165-b290-b321d3f6ab87,occasion.clinic,available,19.99,,high,low,8,name.com,,,
-4fd9f6fc-bbbd-496d-92db-ccc1b449c352,iwantmymoneyback.clinic,available,19.99,,medium,low,20,name.com,,,
 5ea5ec36-411e-409b-a90d-b2ee7fa608a6,arriving.clinic,available,19.99,,medium,low,8,name.com,,,
 bdbc1e6e-61eb-425f-8a1b-1cc3f63f5642,gandhi.clinic,available,19.99,,high,low,6,name.com,,,
-591591e0-c52a-41f0-9088-c1633d1eb27e,agonising.clinic,available,11.98,82.98,low,low,9,namecheap,,,
+591591e0-c52a-41f0-9088-c1633d1eb27e,agonising.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
 f79edd86-f566-43b0-893a-dd0da64839b4,lookup.clinic,premium,242,242,high,low,7,namesilo,,,
 2e95d424-2e9b-462f-960c-def215e9db5f,obvious.clinic,available,19.99,,high,low,7,name.com,,,
 7f72ef08-3106-4908-bced-f70b5a3065bd,btw.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
-487f5565-8c43-410c-8031-0146d0ef07d8,desktopcomputer.clinic,available,19.99,,high,low,16,name.com,,,
 b6d8ae3a-6717-4ee3-b67f-704865764eef,oldest.clinic,available,19.99,,high,low,6,name.com,,,
 6e779402-e041-4536-889c-e642a4b39d0b,supposedly.clinic,available,19.99,,medium,low,10,name.com,,,
-fabbb774-f4f7-40eb-be54-c4481bcc8b42,longisland.clinic,available,19.99,,medium,low,11,name.com,,,
-2e40cd9b-337a-49fd-8125-2999230b4d8f,similar.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+2e40cd9b-337a-49fd-8125-2999230b4d8f,similar.clinic,available,11.98,82.98,high,low,7,namecheap,,,
 9174462e-60b6-4acb-83ee-a5b6e171253c,among.clinic,available,19.99,,medium,low,5,name.com,,,
-a5b82aea-b39c-4ac6-a253-3f0857b13e8c,askance.clinic,available,11.98,82.98,low,low,7,namecheap,,,07/08/2026 02:56
-f9a35f08-5d01-4c28-b172-09f7e680cf7c,illustrated.clinic,available,19.99,,medium,low,11,name.com,,,
-039cd06f-1e9e-455e-adba-9a795b86a917,eachyear.clinic,available,19.99,,medium,low,9,name.com,,,
-8bbd5e02-8fd1-4770-b3ab-59ea11fb7a35,sextet.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-e846846b-17b5-4cdf-8115-d7f63c99d70d,boxcoat.clinic,available,19.99,,medium,low,8,name.com,,,
-6e702ec3-c26f-48ba-aada-0f61e73a67e3,montreal.clinic,premium,123.75,,medium,low,8,name.com,,,
-95e98a96-cc97-4380-b60f-c2d425fc1244,literally.clinic,available,19.99,,medium,low,9,name.com,,,
+a5b82aea-b39c-4ac6-a253-3f0857b13e8c,askance.clinic,available,11.98,82.98,medium,low,7,namecheap,,,07/08/2026 02:56
+f9a35f08-5d01-4c28-b172-09f7e680cf7c,illustrated.clinic,available,19.99,,high,low,11,name.com,,,
+8bbd5e02-8fd1-4770-b3ab-59ea11fb7a35,sextet.clinic,available,11.98,82.98,high,low,6,namecheap,,,
+6e702ec3-c26f-48ba-aada-0f61e73a67e3,montreal.clinic,premium,123.75,,high,low,8,name.com,,,
+95e98a96-cc97-4380-b60f-c2d425fc1244,literally.clinic,available,19.99,,high,low,9,name.com,,,
 6f28ebbe-3dfd-4690-bbed-e26fedb99a92,pub.clinic,premium,82.5,,high,low,3,name.com,,,
-e9a9d58a-2e35-44cc-aa30-0472ec1fd39f,whitesauce.clinic,available,19.99,,low,low,11,name.com,,,
-3f83eeb4-326f-4732-b9e4-f0e50d720161,localtime.clinic,available,19.99,,medium,low,10,name.com,,,
-f8585e0f-744c-4b02-8b0f-0f44fe885371,americas.clinic,available,19.99,,medium,low,8,name.com,,,
-796a5c90-b4f7-4533-8a9d-646a920713f8,brute.clinic,available,11.98,82.98,low,low,5,namecheap,,,
-5c0061ff-0739-4781-abea-9cbff50ec294,windmill.clinic,available,20.99,64.99,low,low,9,namesilo,,,17/09/2026 13:01
-74113915-3ace-4cbe-823d-dd6487370831,advisory.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
-20df8e18-468d-488b-85b6-5a4f94bb370f,thereagain.clinic,available,19.99,,low,low,11,name.com,,,
-b4eee3d9-ee3d-4c6d-b4f8-936d43cdcc7c,taxation.clinic,available,19.99,,medium,low,8,name.com,,,
-df6a8c19-3b6c-4ac3-9608-06786e50f8bb,childbenefit.clinic,available,19.99,,medium,low,13,name.com,,,
+f8585e0f-744c-4b02-8b0f-0f44fe885371,americas.clinic,available,19.99,,high,low,8,name.com,,,
+796a5c90-b4f7-4533-8a9d-646a920713f8,brute.clinic,available,11.98,82.98,high,low,5,namecheap,,,
+74113915-3ace-4cbe-823d-dd6487370831,advisory.clinic,available,11.98,82.98,high,low,8,namecheap,,,
+b4eee3d9-ee3d-4c6d-b4f8-936d43cdcc7c,taxation.clinic,available,19.99,,high,low,8,name.com,,,
 c5fd68c8-1132-4604-a57f-bb05743b3dba,wording.clinic,available,19.99,,high,low,7,name.com,,,
-e4975070-64ea-4b89-9a98-b7c85a6af12c,frenchonionsoup.clinic,available,19.99,,high,low,17,name.com,,,
 9eaa4631-1bdd-421f-b459-609a79e8f125,mission.clinic,available,19.99,,high,medium,7,name.com,,,
-cb6d3ceb-8009-4cb0-8851-53727a9c47c2,motley.clinic,available,11.98,82.98,low,low,6,namecheap,,,07/08/2026 07:29
-3cc01d01-bc55-41d0-9c65-fe1ded02d2d8,achievable.clinic,available,11.98,82.98,medium,low,10,namecheap,,,21/09/2026 15:42
-5d0ec772-c496-44b7-a1d3-f287ff3054ce,atwill.clinic,available,19.99,,medium,low,7,name.com,,,
-313a8a0b-00a5-46bb-a1d3-0c09f24bd490,animistic.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-c14c781c-65ee-4a13-aa92-ac29f7102ff3,confirming.clinic,available,20.99,64.99,medium,low,10,namesilo,,,23/09/2026 19:45
-8d1022bb-b0f1-4e5c-9858-98e24d758e39,barbadian.clinic,available,11.98,82.98,low,low,9,namecheap,,,08/08/2026 15:21
-30b1eef6-4c52-4d0a-b9a5-d4119089dd7a,anticlinal.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-01127857-936f-4468-a53c-e6db4aeecaff,prick.clinic,available,11.98,82.98,low,low,5,namecheap,,,08/08/2026 23:38
-cd43527b-7674-4220-927b-35ec89562822,tongue.clinic,available,19.99,,medium,low,6,name.com,,,
-3b9c106e-92b1-493d-8537-6366246809de,allegiant.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
-5ce092fd-fc58-4bd0-86b6-5816079efc4a,astragalar.clinic,available,11.98,82.98,low,low,10,namecheap,,,07/08/2026 09:54
-3de1edc7-a979-4006-9676-6671bd7b90a0,abactinal.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-b8e4f264-549b-4a08-b1f5-01f4106ca164,acropetal.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-a7ea6c7e-14b5-429b-8cb1-de6939ec3b50,searchbox.clinic,available,19.99,,high,low,10,name.com,,,
+cb6d3ceb-8009-4cb0-8851-53727a9c47c2,motley.clinic,available,11.98,82.98,medium,low,6,namecheap,,,07/08/2026 07:29
+313a8a0b-00a5-46bb-a1d3-0c09f24bd490,animistic.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
+01127857-936f-4468-a53c-e6db4aeecaff,prick.clinic,available,11.98,82.98,high,low,5,namecheap,,,08/08/2026 23:38
+cd43527b-7674-4220-927b-35ec89562822,tongue.clinic,available,19.99,,high,low,6,name.com,,,
+3b9c106e-92b1-493d-8537-6366246809de,allegiant.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+3de1edc7-a979-4006-9676-6671bd7b90a0,abactinal.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
+b8e4f264-549b-4a08-b1f5-01f4106ca164,acropetal.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
 45ea7ddd-9154-4a7b-a6e4-f56c03513084,height.clinic,available,19.99,,high,low,6,name.com,,,
 4afa4b2a-78b8-42d3-886e-2450d600dfb1,trillionaire.clinic,available,19.99,,high,low,12,name.com,,,
-4f7147be-351e-41a7-8ed3-21885a15e270,thanksto.clinic,available,19.99,,medium,low,9,name.com,,,
-db8c7f43-c088-4d06-94b9-0ecf91490b07,mist.clinic,available,19.99,,medium,low,4,name.com,,,
-d717d728-dc54-4c86-96a1-ea1c518836b1,masterful.clinic,available,11.98,82.98,medium,low,9,namecheap,,,23/09/2026 21:35
-a8abbdb7-7a66-4081-ba96-31821f4a110b,abscessed.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-b712de7c-386b-4357-a239-863d72b7eb68,oddmanwins.clinic,available,19.99,,low,low,12,name.com,,,
-e94767d8-bca6-47d2-b6b8-798b277011bb,chip.clinic,available,20.99,64.99,medium,low,4,namesilo,,,24/09/2026 01:56
-b5b0844f-311d-4ac3-b6fc-2e3904a06685,socialliberal.clinic,available,19.99,,low,low,14,name.com,,,
+db8c7f43-c088-4d06-94b9-0ecf91490b07,mist.clinic,available,19.99,,high,low,4,name.com,,,
+a8abbdb7-7a66-4081-ba96-31821f4a110b,abscessed.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
 f12569b8-2e20-49b0-ae5f-fb89ac2dd723,parenting.clinic,available,19.99,,high,low,9,name.com,,,
 b0e997bc-b00d-4da5-9838-a1284c9a797b,refreshed.clinic,available,19.99,,high,low,9,name.com,,,
 0ee60771-1d79-4d18-b867-c3c160c760e5,unplug.clinic,available,19.99,,high,low,6,name.com,,,
-be6d57f4-a5da-4f18-a6fe-b5ed57f0b955,flush.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
-d8cccf6b-78e6-4b67-b1e5-e8439db2f47c,rescheduling.clinic,available,19.99,,medium,low,12,name.com,,,
-32ffac37-e014-4eaa-999d-1d7e467a7497,stockmarket.clinic,available,19.99,,high,low,12,name.com,,,
-366d935f-47a3-4157-a142-244aeca8e758,assaultive.clinic,available,11.98,82.98,low,low,10,namecheap,,,07/08/2026 05:43
-cb0edccb-358d-4a44-a671-2c72d0c23fd5,healthy.clinic,resell,,,high,low,7,"GoDaddy.com, LLC",21/04/2019 23:01,21/04/2027 23:01,
-09fc7644-68ad-4b2b-9a10-4c46876208ec,calculation.clinic,available,19.99,,medium,low,11,name.com,,,
-f181e66a-7764-461d-9e94-d355188eae2c,thoseones.clinic,available,19.99,,low,low,10,name.com,,,
-0682c5fa-1d1f-46ee-9c4b-b4da557bba1c,afflictive.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+be6d57f4-a5da-4f18-a6fe-b5ed57f0b955,flush.clinic,available,11.98,82.98,high,low,5,namecheap,,,
+09fc7644-68ad-4b2b-9a10-4c46876208ec,calculation.clinic,available,19.99,,high,low,11,name.com,,,
 565e93fb-453d-48ed-b18e-7ecc516824b0,enjoy.clinic,available,,,high,low,5,,,,
-e3e4c7cd-0c5c-46ec-835f-8d13757b69c0,exclamation.clinic,available,19.99,,medium,low,11,name.com,,,
+e3e4c7cd-0c5c-46ec-835f-8d13757b69c0,exclamation.clinic,available,19.99,,high,low,11,name.com,,,
 a71f7d5c-2c01-4490-890f-6bbf2939c8ac,may.clinic,premium,82.5,,high,low,3,name.com,,,
-942edc53-4a88-463c-b63f-f2ecf8cb5693,archaic.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-6827fd57-2586-4fc9-8ece-cd65058e3981,areolate.clinic,available,11.98,82.98,low,low,8,namecheap,,,06/08/2026 17:47
-1e748d97-b0a8-4be1-89e9-3aac1a28a6db,dogshot.clinic,available,19.99,,high,low,8,name.com,,,
-68d4b148-8cc8-4b61-8ee4-1c31737b0820,asyetunknown.clinic,available,19.99,,medium,low,14,name.com,,,
-87b50006-3f6a-4aa7-85b5-e27b10000924,trick.clinic,available,11.98,82.98,medium,low,5,namecheap,,,22/09/2026 06:28
+942edc53-4a88-463c-b63f-f2ecf8cb5693,archaic.clinic,available,11.98,82.98,high,low,7,namecheap,,,
 306f5e78-b32f-45e8-b564-380900b1a58d,specific.clinic,available,19.99,,high,low,8,name.com,,,
-35fa4df9-cbdd-449f-a23c-49585d3e7faa,comeupwith.clinic,available,19.99,,high,low,12,name.com,,,
-3a1b22c0-d7e8-44ff-afb8-34df4e44c8cb,ambitiously.clinic,available,19.99,,medium,low,11,name.com,,,
-c3fa50d1-96c4-4e50-bed7-e458ed6fe6b8,sandlike.clinic,available,11.98,82.98,low,low,8,namecheap,,,06/08/2026 17:36
-9661574c-5e09-453b-b951-91d6c7f956f6,disparity.clinic,available,19.99,,medium,low,9,name.com,,,
+9661574c-5e09-453b-b951-91d6c7f956f6,disparity.clinic,available,19.99,,high,low,9,name.com,,,
 26e25ca8-c1cf-4aa7-89e9-23309a4f8625,eid.clinic,available,19.99,,high,low,3,name.com,,,
-e30086a3-ccee-4278-89f1-5aca1176390f,faxmachine.clinic,available,19.99,,medium,low,11,name.com,,,
 ad4e160c-62c7-4c27-84e1-3855fc2cbeaa,unveil.clinic,available,19.99,,high,low,6,name.com,,,
-3d1eebcb-b6a5-49c3-89f9-1572d651abdb,holdfirm.clinic,available,19.99,,high,low,9,name.com,,,
-ceb43ed9-3889-4fae-9fc5-eb1fc2dfae65,dingy.clinic,available,11.98,82.98,low,low,5,namecheap,,,09/08/2026 09:20
+ceb43ed9-3889-4fae-9fc5-eb1fc2dfae65,dingy.clinic,available,11.98,82.98,medium,low,5,namecheap,,,09/08/2026 09:20
 42cd91e4-9e6c-4476-8351-d853170deafe,pig.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
-5f1f7319-3f3b-47fa-892a-35cff5297814,inthehotseat.clinic,available,19.99,,medium,low,15,name.com,,,
-1d6cc7d9-d509-41ec-82d8-8da8fbd4b0d0,whisking.clinic,available,19.99,,medium,low,8,name.com,,,
-c328b64f-0d66-4030-aa1f-9e0a633b2419,shoppingcentre.clinic,available,19.99,,high,low,15,name.com,,,
+1d6cc7d9-d509-41ec-82d8-8da8fbd4b0d0,whisking.clinic,available,19.99,,high,low,8,name.com,,,
 d53a187f-c335-4dd4-8b45-0f563080c016,feeling.clinic,available,19.99,,high,low,7,name.com,,,
-f788d7fb-e147-4512-be06-f2ce7c78f8f2,backtosquareone.clinic,available,19.99,,high,low,18,name.com,,,
 2401bf83-761b-4cc1-b6d7-5357ffecb3a1,monday.clinic,available,19.99,,high,low,6,name.com,,,
-119c3897-cc5e-49ea-8b68-93eab30baecc,comforted.clinic,available,20.99,64.99,medium,low,9,namesilo,,,23/09/2026 15:14
-4eb87d81-76dc-4915-bf23-47732272811a,stillborn.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-c74cdd2b-f62b-4012-9cd7-e83efee29de2,airmarshal.clinic,available,19.99,,high,low,11,name.com,,,
-8fc8480b-2cc2-4db7-a0de-0aedacbaad49,signin.clinic,available,11.98,82.98,medium,low,7,namecheap,,,17/09/2026 03:42
-15130a4e-623e-43dd-9e5f-d9c0e89d7358,usage.clinic,available,20.99,64.99,medium,low,5,namesilo,,,24/09/2026 04:06
-baa6a1ea-d657-4316-b006-9ca3f0bde662,demoniac.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-2fb491de-e6d2-4c97-916d-c0d9b9e80b7b,onthepointof.clinic,available,19.99,,medium,low,15,name.com,,,
-3c94ce4c-eaf2-4fb0-872c-2732fe5acda4,builtin.clinic,available,20.99,64.99,medium,low,8,namesilo,,,23/09/2026 10:27
-75327c00-520d-46f6-9311-6495c22953b8,expand.clinic,available,19.99,84.99,high,low,6,name.com,,,
+4eb87d81-76dc-4915-bf23-47732272811a,stillborn.clinic,available,11.98,82.98,high,low,9,namecheap,,,
 ab214461-452d-41e8-99ca-fcfbae126b5e,complement.clinic,available,19.99,,high,low,10,name.com,,,
-f5641397-6568-44d5-825e-adb052e7383a,agraphic.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-dfabe827-3bb8-4259-9d45-875a4ab2d94f,endall.clinic,available,19.99,,high,low,7,name.com,,,
-c02cacab-ff96-4508-bcf8-eee6860af44f,amoebous.clinic,available,11.98,82.98,low,low,8,namecheap,,,
 3ca16dd5-be30-4021-94a9-fcfa764698ba,bridget.clinic,available,19.99,,high,low,7,name.com,,,
-d1d66e9c-c78f-4f33-8c78-87e55352bf90,ametabolic.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-c09e5c07-b02c-489d-af8f-75ee14f64e2d,adorable.clinic,available,11.98,82.98,medium,low,8,namecheap,,,21/09/2026 19:18
-f7db149f-7983-40bc-b0bd-5c4d6fbf802f,pardon.clinic,available,19.99,,high,low,6,name.com,,,
-9cd47324-54b3-48dd-b1f2-8a802ea674ce,marktwain.clinic,available,19.99,,high,low,10,name.com,,,
-7c8cc6c6-df78-4a7b-bf26-9accc25f739a,tonguetwister.clinic,available,19.99,,low,low,14,name.com,,,
-f1266835-f9bc-408d-8866-b8af93f60377,serialkiller.clinic,available,19.99,,medium,low,13,name.com,,,
+f7db149f-7983-40bc-b0bd-5c4d6fbf802f,pardon.clinic,available,11.98,82.98,high,low,6,namecheap,,,24/09/2026 20:57
 c8eddb7d-8a8f-4d1f-ba94-e682706b50df,increasing.clinic,available,19.99,,high,low,10,name.com,,,
 196ae73a-6d8a-4671-b491-593f679dad3a,sniff.clinic,available,19.99,,high,low,5,name.com,,,
 2a3d4e59-9438-4301-a9d1-7e2631741489,successful.clinic,premium,118.8,118.8,high,low,10,namesilo,,,
-af2783c0-36c7-4af0-b5aa-c11ccbc4683b,generalgoods.clinic,available,19.99,,medium,low,13,name.com,,,
-b99c4395-6777-4fde-9314-c3f89a7b6025,aligning.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-4c2f9572-8da9-4dee-b217-ce0d72c4e42f,defend.clinic,available,20.99,64.99,medium,low,6,namesilo,,,23/09/2026 13:40
-98481d2d-c045-4208-8da3-e921bb1503e0,aufait.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-8bf22b9f-c5ff-423a-a29a-bd2ae22f5266,blueraspberry.clinic,available,19.99,,high,low,14,name.com,,,
+b99c4395-6777-4fde-9314-c3f89a7b6025,aligning.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
 a3a631c4-5971-4419-94a6-cb1d373ae2ba,plug.clinic,available,19.99,,high,low,4,name.com,,,
 0a1b6806-4a2d-4c3d-9bd5-88869f0bddc7,walmart.clinic,available,,,high,medium,7,,,,
-81845deb-141f-4f8e-8f4a-a35f3504120b,breakinto.clinic,available,19.99,,medium,low,10,name.com,,,
-2c7f831f-7a40-401a-9f24-74d3881e14ae,wordis.clinic,available,19.99,,low,low,7,name.com,,,
-27261a15-1a51-49fc-ba79-a62cd4236401,kookie.clinic,available,11.98,82.98,low,low,6,namecheap,,,06/08/2026 21:09
-17023f5c-d27b-4862-95fd-148eb76aed07,authorised.clinic,available,20.99,64.99,medium,low,10,namesilo,,,22/09/2026 13:51
+27261a15-1a51-49fc-ba79-a62cd4236401,kookie.clinic,available,11.98,82.98,high,low,6,namecheap,,,06/08/2026 21:09
 0861f66f-44e0-4648-a844-57cb02c3b411,had.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
 1a80fec5-66ef-4282-a49b-64fab74a212d,want.clinic,available,19.99,,high,low,4,name.com,,,
-8f7ff1f6-a2b3-419f-92ee-a1a4f2be8a80,ammoniac.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-7c29477e-2e3a-4f51-a225-9ae2e0bb8c4e,axonal.clinic,available,11.98,82.98,low,low,6,namecheap,,,08/08/2026 02:01
+8f7ff1f6-a2b3-419f-92ee-a1a4f2be8a80,ammoniac.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+7c29477e-2e3a-4f51-a225-9ae2e0bb8c4e,axonal.clinic,available,11.98,82.98,medium,low,6,namecheap,,,08/08/2026 02:01
 e93b89ac-2feb-49b2-ba6d-dcfe2a3305fe,cap.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
 16e65e02-44d5-40b0-9482-021ca41f9aaf,condense.clinic,available,19.99,,high,low,8,name.com,,,
-f7743fa4-1f26-4852-981e-22e11204a48c,prepacked.clinic,available,19.99,,medium,low,9,name.com,,,
-60939edc-77b3-4d91-9efa-dbce087bf5c0,troublemaker.clinic,available,19.99,,medium,low,13,name.com,,,
 9e3188ee-c502-46cb-8a17-d16c929cd3bd,supported.clinic,available,19.99,,high,low,9,name.com,,,
 77bad0d9-185b-4c02-b8e8-f9195656c6a0,loop.clinic,available,,,high,low,4,,,,
-c815eaa7-015a-47c9-b03b-53b3b2537d77,gone.clinic,available,20.99,64.99,low,low,4,namesilo,,,22/09/2026 10:48
-a17dfe95-dbc0-4a14-b8ad-af8ad0d1aa14,patrician.clinic,available,11.98,82.98,low,low,9,namecheap,,,06/08/2026 19:34
-5139a8ff-26d5-43ff-a12d-7520f680b046,shoulderblade.clinic,available,19.99,,medium,low,14,name.com,,,
-e6b323d4-cc62-4504-9aff-8657b16624e7,deadly.clinic,available,20.99,64.99,low,low,6,namesilo,,,22/09/2026 16:43
-dcaae979-7fc7-43aa-8448-23c80c0b5f57,maddened.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-e6168902-7f2c-4bf3-b458-0dbc63db6357,superb.clinic,available,11.98,82.98,medium,low,6,namecheap,,,23/09/2026 09:28
-34a6be29-737f-4bba-a927-16af7b69d549,generalizeddisease.clinic,available,19.99,,low,low,19,name.com,,,
-864e0e9c-73be-42b3-bf68-efcc8c687155,amusing.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-1a04bc5c-e50b-4aa4-b0bd-4ae6ecfb973b,photo.clinic,premium,260,260,medium,low,5,namecheap,,,23/09/2026 06:22
-b73e5e8c-a578-4d01-b1c6-7a584eb13a1b,aweless.clinic,available,11.98,82.98,low,low,7,namecheap,,,08/08/2026 00:50
-a0ee3a7b-bceb-4dfc-b880-b6892cc92e0c,hindend.clinic,available,11.98,82.98,low,low,8,namecheap,,,09/08/2026 11:03
+a17dfe95-dbc0-4a14-b8ad-af8ad0d1aa14,patrician.clinic,available,11.98,82.98,medium,low,9,namecheap,,,06/08/2026 19:34
+dcaae979-7fc7-43aa-8448-23c80c0b5f57,maddened.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+864e0e9c-73be-42b3-bf68-efcc8c687155,amusing.clinic,available,11.98,82.98,high,low,7,namecheap,,,
 f0593853-d8ea-4c18-b10b-af16e8370a24,huge.clinic,available,19.99,,high,low,4,name.com,,,
 6f9e08af-3790-4f2c-8c4d-ee18b5bca3fe,singapore.clinic,available,,,high,low,9,,,,
 67b9582c-59cc-43af-ba4f-4b03383074ca,chips.clinic,available,19.99,,high,low,5,name.com,,,
-3c335685-503e-4deb-a1d4-ff1157c7fea8,bread.clinic,available,11.98,82.98,medium,low,5,namecheap,,,08/09/2026 03:15
-7cb16e90-3435-4468-80d9-9a4997eef253,documentation.clinic,available,19.99,,medium,low,13,name.com,,,
+3c335685-503e-4deb-a1d4-ff1157c7fea8,bread.clinic,available,11.98,82.98,high,low,5,namecheap,,,08/09/2026 03:15
+7cb16e90-3435-4468-80d9-9a4997eef253,documentation.clinic,available,19.99,,high,low,13,name.com,,,
 68dda66f-5b7d-4e0f-a91b-0cc5e7c96177,chimney.clinic,available,19.99,,high,low,7,name.com,,,
-8c599a83-2f6d-4873-9244-298a7fc2dbdd,required.clinic,available,11.98,82.98,low,low,8,namecheap,,,23/09/2026 18:27
-6a005b96-b085-43b9-bd6f-a210685fc891,damascus.clinic,premium,118.8,118.8,medium,low,8,namesilo,,,
+6a005b96-b085-43b9-bd6f-a210685fc891,damascus.clinic,premium,118.8,118.8,high,low,8,namesilo,,,
 1f5b7c75-58bb-4d3d-bc2c-81d3eeb09e79,critique.clinic,available,19.99,,high,low,8,name.com,,,
 d0fa8fb4-b225-4643-939f-1210c85f677d,pocket.clinic,resell,,,high,medium,6,"GoDaddy.com, LLC",07/11/2022 13:15,07/11/2026 13:15,
-e412736b-2b58-4bae-86b7-44cddcd76ca4,covert.clinic,available,20.99,64.99,low,low,6,namesilo,,,24/09/2026 00:53
-3fe079d9-6a51-4e98-bf3c-47776c25dfea,television.clinic,available,20.99,64.99,medium,low,10,namesilo,,,23/09/2026 06:07
 c5110523-4f18-4ee8-90b0-7b17c5119d51,beating.clinic,available,19.99,,high,low,7,name.com,,,
-d1cfd753-6cf9-417f-842a-ee33ba1ac431,haveseenthisfilm.clinic,available,19.99,,medium,low,19,name.com,,,
-209ddf23-c9cf-4b21-80ed-31fc8d793a76,australiaday.clinic,available,19.99,,high,low,13,name.com,,,
 3a65012f-d1fd-4c26-8476-86a9820a5c34,understandable.clinic,available,19.99,,high,low,14,name.com,,,
-350e2d59-ad09-4bdd-a85b-e145104e6b37,motherfukka.clinic,available,19.99,,medium,low,11,name.com,,,
-e56d643f-61eb-4e6d-b484-b075b66230eb,grabby.clinic,available,11.98,82.98,low,low,6,namecheap,,,07/08/2026 21:58
-2dee6498-9047-4315-903d-f500244aeb91,misbegot.clinic,available,11.98,82.98,low,low,8,namecheap,,,08/08/2026 23:59
-64c261ae-8781-4196-83f7-a6e73f673c92,makepeace.clinic,available,19.99,,high,low,10,name.com,,,
+e56d643f-61eb-4e6d-b484-b075b66230eb,grabby.clinic,available,11.98,82.98,medium,low,6,namecheap,,,07/08/2026 21:58
 8d05ed5b-85f3-4a16-8d06-ffc6916c2f66,since.clinic,available,19.99,,high,low,5,name.com,,,
-ba0c8edb-683d-4a50-a53e-20f498bedff1,wordofallah.clinic,available,19.99,,low,low,13,name.com,,,
 53a1e2b0-c76b-4385-afbf-36f906c2c305,already.clinic,available,19.99,,high,low,7,name.com,,,
-1e762441-58b0-4444-9f30-6e1868be3b51,deadofnight.clinic,available,19.99,,medium,low,13,name.com,,,
-d46f540f-cc10-49f9-9ec1-5ed2d0472656,quintuplet.clinic,available,11.98,82.98,low,low,10,namecheap,,,
-bd5dfc79-8c54-4ec4-b0ea-0afa9a2554f0,covering.clinic,available,19.99,,medium,low,8,name.com,,,
+bd5dfc79-8c54-4ec4-b0ea-0afa9a2554f0,covering.clinic,available,19.99,,high,low,8,name.com,,,
 e6286cd9-f917-4ce9-b4d0-fb393b811d60,wrongful.clinic,available,19.99,,medium,low,8,name.com,,,
 9c23c55f-7cc4-4aa0-a8cc-aeec99057d06,categorical.clinic,available,19.99,,high,low,11,name.com,,,
-b28c002d-51d0-4a20-8e10-f35263818f61,baggagecheck.clinic,available,19.99,,high,low,13,name.com,,,
-2fde5662-7a6f-4d3b-a481-b81a84ea11d9,alacritous.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+2fde5662-7a6f-4d3b-a481-b81a84ea11d9,alacritous.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
 3e4b4bde-a49a-420f-a503-3fa00b0982ba,most.clinic,available,19.99,,high,low,4,name.com,,,
-98c3327e-593c-4642-afa7-e4d2105212fa,rockmusic.clinic,available,19.99,,medium,low,10,name.com,,,
 e80f9c0d-e439-47d2-be62-f4d6953b4104,sugar.clinic,available,19.99,,high,low,5,name.com,,,
-6ce75775-616b-4a69-bfe5-bda62ac92d90,agitative.clinic,available,11.98,82.98,low,low,9,namecheap,,,
 d790e441-802d-48b5-b822-cfe3cd253de0,disc.clinic,available,19.99,,high,low,4,name.com,,,
 013f3ed9-e45a-4bfc-8a5f-1ec8aebb371b,exhibit.clinic,available,19.99,,high,low,7,name.com,,,
-b1ecad0f-99f6-4f0b-858f-4bec0522d509,confuse.clinic,available,19.99,,medium,low,7,name.com,,,
-0680f34f-7d2d-4b77-b21e-21f093413045,missionaccomplished.clinic,available,19.99,,medium,low,20,name.com,,,
-5189704d-a9bd-4870-84e9-70a6bef5ecec,substitution.clinic,available,19.99,,low,low,12,name.com,,,
+b1ecad0f-99f6-4f0b-858f-4bec0522d509,confuse.clinic,available,19.99,,high,low,7,name.com,,,
+5189704d-a9bd-4870-84e9-70a6bef5ecec,substitution.clinic,available,19.99,,high,low,12,name.com,,,
 f3e14603-9217-4f0f-95c2-3cee5596a6c2,unbeatable.clinic,available,19.99,,high,low,10,name.com,,,
-d40f8826-04bf-483d-ba2f-c50a2c42e34f,breakroom.clinic,available,19.99,,medium,low,10,name.com,,,
-1ae6f739-42b5-4af6-a58f-6f8a159003ae,amebic.clinic,available,11.98,82.98,low,low,6,namecheap,,,
 996b568d-1a33-4a21-8cce-95a4437a3276,requirement.clinic,available,19.99,,high,low,11,name.com,,,
 2eb80643-d851-4a1e-bf5c-e6c15bfb72db,snippet.clinic,available,19.99,,high,low,7,name.com,,,
 3f307557-2fcb-4dd6-97d2-bb492d6d932d,examine.clinic,available,19.99,,high,low,7,name.com,,,
-a7f47200-cf67-42e8-a235-ebe5293ec2e0,moral.clinic,available,19.99,,medium,low,5,name.com,,,
-4e491940-d69a-449c-80b2-aca3cb67b00f,fixed.clinic,available,19.99,,medium,low,5,name.com,,,
-c9fdb3b9-80c2-4499-bf36-9d54048e06b6,smith.clinic,resell,,,medium,medium,5,Porkbun LLC,13/08/2014 16:29,13/08/2027 16:29,20/09/2026 20:26
-a43b3d5f-85c5-41fa-a4d2-69089593a18c,rearmost.clinic,available,11.98,82.98,low,low,8,namecheap,,,08/08/2026 06:09
-ae2ec9c3-18be-4afe-8774-137e1f9c15ad,genuinely.clinic,available,19.99,,medium,low,9,name.com,,,
+a7f47200-cf67-42e8-a235-ebe5293ec2e0,moral.clinic,available,19.99,,high,low,5,name.com,,,
+c9fdb3b9-80c2-4499-bf36-9d54048e06b6,smith.clinic,resell,,,high,medium,5,Porkbun LLC,13/08/2014 16:29,13/08/2027 16:29,20/09/2026 20:26
+ae2ec9c3-18be-4afe-8774-137e1f9c15ad,genuinely.clinic,available,19.99,,high,low,9,name.com,,,
 8a15779a-37d0-4400-afdb-5c3a2519fe41,vague.clinic,available,19.99,,high,low,5,name.com,,,
-ab59d77e-ba07-4146-9cf1-5ca487c731d0,anguillan.clinic,available,11.98,82.98,low,low,9,namecheap,,,
 4b1a7a87-07e0-405d-b8f6-27e9f94788b9,impractical.clinic,available,19.99,,medium,low,11,name.com,,,
-7ed72bbb-4c9d-4f08-be51-b5ee089dc88e,trap.clinic,available,19.99,,medium,low,4,name.com,,,
+7ed72bbb-4c9d-4f08-be51-b5ee089dc88e,trap.clinic,available,19.99,,high,low,4,name.com,,,
 8df26ac3-c246-4035-8286-3e3c583b8864,enrich.clinic,available,19.99,,high,low,6,name.com,,,
 38a1fd65-6b91-403b-ad2b-1944ddbe737b,yield.clinic,available,19.99,,high,low,5,name.com,,,
-2c16d260-e64d-4bd8-88b5-121c93e44876,cinque.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-aea94951-e53c-413a-ba82-ca0036cda0cf,aphyllous.clinic,available,11.98,82.98,low,low,9,namecheap,,,05/08/2026 23:42
+2c16d260-e64d-4bd8-88b5-121c93e44876,cinque.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
 30d6439a-af58-4c72-aaa1-87f96880b4b2,calf.clinic,available,19.99,,high,low,4,name.com,,,
 2c937112-d2ab-4baf-86ad-7844b9e5ace0,granddad.clinic,available,19.99,,high,low,8,name.com,,,
-0fa9f40c-9b0a-4d6e-ad4d-3082b49a7345,ripening.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-f8699dc4-72ff-4ba2-ba25-de9d8d5daad8,ontheplusside.clinic,available,19.99,,high,low,16,name.com,,,
-906c177c-3d31-4dfc-8b69-72a35b53f115,longest.clinic,available,19.99,,medium,low,7,name.com,,,
-a4ed1947-2fbc-4d1f-92b9-374a0cd75112,arithmetic.clinic,available,20.99,64.99,low,low,10,namesilo,,,22/09/2026 07:53
+0fa9f40c-9b0a-4d6e-ad4d-3082b49a7345,ripening.clinic,available,11.98,82.98,high,low,8,namecheap,,,
+906c177c-3d31-4dfc-8b69-72a35b53f115,longest.clinic,available,19.99,,high,low,7,name.com,,,
 a81733e0-ff67-495c-854b-fe5946edc873,glory.clinic,available,19.99,,high,low,5,name.com,,,
 e94d80aa-51e4-4a19-b518-9f2d955ccffd,seized.clinic,available,19.99,,medium,low,6,name.com,,,
 99768fe7-3a8b-4727-a012-0432ee36b2ef,volume.clinic,available,19.99,,high,low,6,name.com,,,
-30a895f8-9971-4603-99cd-068a346c00f0,offhanded.clinic,available,11.98,82.98,low,low,9,namecheap,,,
-f1be5515-d5d1-461e-8d00-3314115cfe21,flack.clinic,available,11.98,82.98,low,low,5,namecheap,,,
+f1be5515-d5d1-461e-8d00-3314115cfe21,flack.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
 972c32aa-6e4c-4803-8f68-1c895d9c591e,mild.clinic,available,19.99,,high,low,4,name.com,,,
-9b19048f-32cc-45a1-98d9-eb9b248ae54e,finished.clinic,available,19.99,,medium,low,8,name.com,,,
-477f02b9-0ad5-48f4-87c0-e46ea86f6a18,verbs.clinic,available,19.99,,low,low,5,name.com,,,
-4ae0f2a8-0bc0-4aff-a74c-da947b384ca9,peel.clinic,available,19.99,,medium,low,4,name.com,,,
+477f02b9-0ad5-48f4-87c0-e46ea86f6a18,verbs.clinic,available,19.99,,medium,low,5,name.com,,,
+4ae0f2a8-0bc0-4aff-a74c-da947b384ca9,peel.clinic,available,19.99,,high,low,4,name.com,,,
 b5e1b294-b577-4cdb-ae53-e99bdfe60677,candidacy.clinic,available,19.99,,high,low,9,name.com,,,
-706ac820-484c-45f8-8907-3f9f1ffe642e,bearsized.clinic,available,11.98,82.98,low,low,10,namecheap,,,09/08/2026 04:23
-ad51696c-7453-4091-a97a-2b453fe50280,objects.clinic,available,19.99,,low,low,7,name.com,,,
+ad51696c-7453-4091-a97a-2b453fe50280,objects.clinic,available,19.99,,medium,low,7,name.com,,,
 deb24685-10c1-47a5-9fe0-73df048b2341,carrie.clinic,available,19.99,,high,low,6,name.com,,,
-aaf8b2a6-db20-4749-aac5-643b2fa12b26,changing.clinic,available,11.98,82.98,low,low,8,namecheap,,,23/09/2026 13:46
-ecac4676-a32f-4068-866b-e4499013e4bd,compact.clinic,available,11.98,82.98,medium,low,7,namecheap,,,23/09/2026 16:18
-89132b27-b3d1-450d-bd49-09783bfad1bb,decent.clinic,available,11.98,82.98,low,low,6,namecheap,,,09/08/2026 06:17
+89132b27-b3d1-450d-bd49-09783bfad1bb,decent.clinic,available,11.98,82.98,high,low,6,namecheap,,,09/08/2026 06:17
 3c194987-17dc-4b5b-9f78-656cac07459e,kingdom.clinic,available,,,high,low,7,,,,
-03ef0de3-85c9-4f9e-97a8-067799600ab8,plaguy.clinic,available,11.98,82.98,low,low,6,namecheap,,,
-7a25f992-5814-4f1a-8583-55abf593af91,naturewriting.clinic,available,19.99,,low,low,14,name.com,,,
+03ef0de3-85c9-4f9e-97a8-067799600ab8,plaguy.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
 abde582f-ab71-4a41-b31d-55332315d463,irrational.clinic,available,19.99,,high,low,10,name.com,,,
-35023758-b2f6-492c-919b-c26a79a7702d,ice.clinic,premium,242,242,low,low,3,namesilo,,,19/09/2026 17:13
 2d4f471d-bd69-4850-a41c-08617898ddd2,top.clinic,premium,250,,high,medium,3,name.com,,,
-c546aa5d-6ea3-463f-96a9-df9cb67aba3b,abbatial.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-9bcf0887-934f-4bc4-bd37-8f04ea579bdf,nostrilhair.clinic,available,19.99,,low,low,12,name.com,,,
+c546aa5d-6ea3-463f-96a9-df9cb67aba3b,abbatial.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
 90113488-d000-4adc-87b3-96708e698e04,substantial.clinic,available,19.99,,high,low,11,name.com,,,
-7768a2e8-4e14-46ec-8ea0-20fe2ee162f7,antipodean.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+7768a2e8-4e14-46ec-8ea0-20fe2ee162f7,antipodean.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
 522a1b40-55fa-424e-abb8-f37da68e5085,midday.clinic,available,19.99,,high,low,6,name.com,,,
 ca50ff2d-e6d1-4bf6-97e9-119c73df53e9,harold.clinic,available,19.99,,high,low,6,name.com,,,
-8063434d-b81d-4d6d-9a93-aa4fe2b41be6,financialcrisis.clinic,available,19.99,,medium,low,16,name.com,,,
-3fb1540b-2307-4e97-bc1a-07b517b44bb0,maze.clinic,available,19.99,,medium,low,4,name.com,,,
-8676c7d5-3ca8-4b43-8d95-7b67d2ad6165,getthebetterof.clinic,available,19.99,,high,low,17,name.com,,,
-36689fcf-4ac5-4548-9149-0ef9ad132cd0,fond.clinic,available,20.99,64.99,medium,low,4,namesilo,,,21/09/2026 21:45
-bd9fc2f0-acbb-4193-bb0d-89d9ba2902ea,younggirl.clinic,available,19.99,,low,low,10,name.com,,,
-875015ab-362f-47d4-a0e3-c4fa2e79e1b1,pretoria.clinic,available,19.99,,medium,low,8,name.com,,,
-1cc78861-710f-4c4e-8acc-5b2b02e0f9de,backstage.clinic,available,11.98,82.98,medium,low,9,namecheap,,,08/08/2026 06:18
-79d6cc0a-432f-4f25-9377-138aaabd4f5f,oarblade.clinic,available,19.99,,medium,low,9,name.com,,,
-5b3f61cc-d81f-4d43-8862-bd60dac299f7,abenaki.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-5259e6ff-9754-4bc3-adad-aae98fdeaa04,black.clinic,premium,128.7,128.7,medium,low,5,namecheap,,,22/09/2026 21:16
-44ad2414-3a9a-4339-af5a-c986d04a677d,alcoholabuse.clinic,available,19.99,,medium,low,13,name.com,,,
+3fb1540b-2307-4e97-bc1a-07b517b44bb0,maze.clinic,available,19.99,,high,low,4,name.com,,,
+875015ab-362f-47d4-a0e3-c4fa2e79e1b1,pretoria.clinic,available,19.99,,high,low,8,name.com,,,
+1cc78861-710f-4c4e-8acc-5b2b02e0f9de,backstage.clinic,available,11.98,82.98,high,low,9,namecheap,,,08/08/2026 06:18
+5b3f61cc-d81f-4d43-8862-bd60dac299f7,abenaki.clinic,available,11.98,82.98,high,low,7,namecheap,,,
 2f19fa16-4bb7-4b07-bc13-cbd8de8ebd6f,suspense.clinic,available,19.99,,high,low,8,name.com,,,
-14acd558-d24b-4b26-9bb7-64f9fd0c39c0,aquiline.clinic,available,11.98,82.98,low,low,8,namecheap,,,06/08/2026 11:01
+14acd558-d24b-4b26-9bb7-64f9fd0c39c0,aquiline.clinic,available,11.98,82.98,medium,low,8,namecheap,,,06/08/2026 11:01
 3361299c-d7de-48a1-a062-81e468353db6,pleasant.clinic,available,19.99,,high,low,8,name.com,,,
-25578318-308e-4f8e-b5b6-181bb80c860f,climbable.clinic,available,11.98,82.98,low,low,9,namecheap,,,07/08/2026 00:10
-701b6057-ca1e-4631-8705-47a47545ff47,xxx.clinic,premium,500,500,low,medium,3,name.com,,,
-c8e40a5c-8d73-4468-b34a-aad17997b41a,continued.clinic,available,20.99,64.99,medium,low,9,namesilo,,,23/09/2026 22:14
-98e93d57-2f4d-4b54-b2ff-b2e0872b5785,amnic.clinic,available,11.98,82.98,low,low,5,namecheap,,,
+25578318-308e-4f8e-b5b6-181bb80c860f,climbable.clinic,available,11.98,82.98,medium,low,9,namecheap,,,07/08/2026 00:10
+701b6057-ca1e-4631-8705-47a47545ff47,xxx.clinic,premium,500,500,high,medium,3,name.com,,,
+98e93d57-2f4d-4b54-b2ff-b2e0872b5785,amnic.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
 72ba15ae-1718-4635-b19c-34b39d50f4eb,sunroof.clinic,available,19.99,,high,low,7,name.com,,,
-9b4af36c-1adb-4e3c-b74d-b38855093e39,boundary.clinic,available,11.98,82.98,low,low,8,namecheap,,,23/09/2026 01:32
-d07b7ac3-3ae6-4a9b-89ce-5829941a0e64,scornful.clinic,available,20.99,64.99,low,low,8,namesilo,,,23/09/2026 21:53
-40c2540b-e5a5-4334-bbd6-87c99eb587b7,aboutship.clinic,available,19.99,,medium,low,10,name.com,,,
-2ecd3ff0-0f06-4734-8d63-7ccca6bb8603,sixtysix.clinic,available,11.98,82.98,low,low,9,namecheap,,,
 09cb72be-4966-496a-a56d-9aee47b768f7,invalid.clinic,available,,,high,low,7,,,,
-78156041-6570-4549-8046-38bfd5df47ae,oldgeezer.clinic,available,11.98,82.98,low,low,10,namecheap,,,05/08/2026 19:25
 65882b9a-d7e1-4e86-9d5e-68bd64385ff6,experimental.clinic,premium,854,854,high,low,12,namesilo,,,
 325ab8ea-5483-4b5e-8aff-57bfdc3d41ac,verse.clinic,available,19.99,,high,low,5,name.com,,,
 dee5c192-f6cc-4662-a5aa-6dd3c8a22b1a,prominent.clinic,available,19.99,,high,low,9,name.com,,,
-0b4a350e-8447-4eaf-b690-5998ab383844,parody.clinic,available,20.99,64.99,medium,low,6,namesilo,,,23/09/2026 11:34
-5b5c4426-c5cc-4ecf-8d5d-f04dcd3c2d43,revelatory.clinic,available,11.98,82.98,low,low,10,namecheap,,,06/08/2026 00:55
-de51d964-71f7-4cfe-b65e-9bfecfa6dd56,flipthebird.clinic,available,19.99,,medium,low,13,name.com,,,
-2c67be13-2911-4966-8856-f95bc7738163,payfor.clinic,available,19.99,,high,low,7,name.com,,,
-a56c1b16-9b33-4d9a-b30b-8286b814f05f,howyousay.clinic,available,19.99,,medium,low,11,name.com,,,
-06ba0dcf-e7e1-489a-b0fa-092e634866bf,bedridden.clinic,available,11.98,82.98,low,low,9,namecheap,,,09/08/2026 07:02
-099e2a26-7be0-4750-a28e-6c44ee3b3f9a,orangenotice.clinic,available,19.99,,medium,low,13,name.com,,,
-0140b4f3-399c-48d8-8097-3c23c376ab7b,flooded.clinic,available,11.98,82.98,low,low,7,namecheap,,,08/08/2026 00:23
-e46f6c5e-5689-4244-a9de-b87f37a998f9,whatittakes.clinic,available,19.99,,low,low,13,name.com,,,
-55d8534b-9ddf-4f05-b715-f15f05c5c683,nyse.clinic,available,19.99,,medium,low,4,name.com,,,
-a3943159-7cc2-4844-a57e-635f33c7a844,bakinghot.clinic,available,11.98,82.98,low,low,10,namecheap,,,08/08/2026 08:52
-f651dff2-234c-4d45-ab97-3b39363a3174,queenelizabeth.clinic,available,19.99,,high,low,15,name.com,,,
-f33fb1aa-e2ba-4843-b910-4b2fc0f29ef0,nineteenth.clinic,available,11.98,82.98,low,low,10,namecheap,,,
+5b5c4426-c5cc-4ecf-8d5d-f04dcd3c2d43,revelatory.clinic,available,11.98,82.98,high,low,10,namecheap,,,06/08/2026 00:55
+0140b4f3-399c-48d8-8097-3c23c376ab7b,flooded.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/08/2026 00:23
+55d8534b-9ddf-4f05-b715-f15f05c5c683,nyse.clinic,available,19.99,,high,low,4,name.com,,,
+f33fb1aa-e2ba-4843-b910-4b2fc0f29ef0,nineteenth.clinic,available,11.98,82.98,high,low,10,namecheap,,,
 e9ddcfc8-fa18-4fb6-87d2-1330d87891a2,feels.clinic,available,19.99,,high,low,5,name.com,,,
 fff987e7-2086-445c-b8d2-e6475fff946f,deposits.clinic,available,19.99,,medium,low,8,name.com,,,
-97fd4e94-1040-4f37-8ce0-75c5f983c450,takeawife.clinic,available,19.99,,low,low,11,name.com,,,
 9cc39723-25f0-4fe7-8481-1d8c9283f83e,instead.clinic,available,19.99,,high,low,7,name.com,,,
-4bcb8694-f836-424a-ad3c-d780499586eb,alopecic.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-069047e2-2034-4215-ad42-a07a20b0ca3a,medicalreport.clinic,available,19.99,,medium,low,14,name.com,,,
-7e5b3688-980e-47a7-9443-bd0b3b3e2832,actable.clinic,available,11.98,82.98,low,low,7,namecheap,,,
-ad0a2645-b4d0-42fe-9aa6-80af54de57b2,nowornever.clinic,available,19.99,,low,low,12,name.com,,,
+7e5b3688-980e-47a7-9443-bd0b3b3e2832,actable.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
 6522472d-b1c4-4be3-b2c7-eae559fa6e39,discussion.clinic,available,19.99,,high,low,10,name.com,,,
-b1c3b2cb-5dc7-4485-a867-6674e5558c9a,alterable.clinic,available,20.99,64.99,low,low,9,namesilo,,,22/09/2026 02:18
-dcfde7c5-84a8-433e-83fc-89de2819673b,hydroponic.clinic,available,11.98,82.98,low,low,10,namecheap,,,06/08/2026 10:34
-63f3abd5-5c7a-495e-b2be-1aafd0992225,affected.clinic,available,11.98,82.98,low,low,8,namecheap,,,
-582fd52c-5baa-4f9d-8423-45a52df19723,carriage.clinic,available,19.99,,medium,low,8,name.com,,,
+dcfde7c5-84a8-433e-83fc-89de2819673b,hydroponic.clinic,available,11.98,82.98,medium,low,10,namecheap,,,06/08/2026 10:34
+63f3abd5-5c7a-495e-b2be-1aafd0992225,affected.clinic,available,11.98,82.98,high,low,8,namecheap,,,
+582fd52c-5baa-4f9d-8423-45a52df19723,carriage.clinic,available,19.99,,high,low,8,name.com,,,
+b3bf4464-781b-4253-84c8-773f41391ff9,phoney.clinic,available,11.98,82.98,medium,low,6,namecheap,,,08/08/2026 23:14
+1a5ef292-4f43-45f5-be92-53ef13292521,disclosure.clinic,available,19.99,,high,low,10,name.com,,,
+c8ce99a7-1d7c-48b0-a042-cd03cac11c73,stability.clinic,available,19.99,,high,low,9,name.com,,,
+d8feee7b-71c2-4348-b0e6-9539453f9350,quaternion.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+c2e24d73-ef28-48fb-b431-3257027c9434,beefy.clinic,available,11.98,82.98,medium,low,5,namecheap,,,09/08/2026 07:49
+8e38a034-df5f-4a18-8ff5-27d7ce163508,spacious.clinic,available,19.99,,high,low,8,name.com,,,
+a6883855-a38d-4382-b0ec-70a4f145f179,annulated.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+f02e2292-1e26-46dd-8f6d-c340da7173d7,greatly.clinic,available,19.99,,high,low,7,name.com,,,
+6343833b-7d56-48df-88ba-6b7e960d9eb6,disregarded.clinic,available,19.99,,medium,low,11,name.com,,,
+15ff4c68-5113-4a24-929d-1e77ad8bb68e,hard.clinic,available,11.98,82.98,high,low,4,namecheap,,,06/08/2026 16:55
+c43f06bf-962b-4470-a947-6f59a1b0a5ca,this.clinic,premium,118.8,118.8,high,medium,4,namesilo,,,
+5af59a04-51de-49b4-9140-55a3f4f0e205,acetous.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+70ada2d0-70bc-4b44-a484-165e2295e351,deviant.clinic,available,11.98,82.98,high,low,7,namecheap,,,
+30d3a92a-2e27-4876-b60d-57d36ab5d7f0,annoy.clinic,available,19.99,,high,low,5,name.com,,,
+79289f48-024b-49cc-a4ef-53d0d7333aeb,abnaki.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
+073300fe-64e6-4a1c-8df9-805191c68c68,layer.clinic,available,19.99,,high,low,5,name.com,,,
+9fbc9552-b8b4-49aa-8363-834e1198d624,acarpelous.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+9df60064-06a5-43cc-934a-c08eca9cc240,however.clinic,available,19.99,,high,low,7,name.com,,,
+931bca6e-4fd5-4c24-8b7f-a7b5a9ae291a,tub.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
+f4843788-84a0-4507-ac96-8c6cb17a77ac,then.clinic,available,19.99,,high,low,4,name.com,,,
+80364874-f94d-42c3-b8dd-9eabc0a3eab2,gramme.clinic,available,19.99,,high,low,6,name.com,,,
+3733bb42-eac8-4542-beb6-6fee1e1bbee3,relate.clinic,available,11.98,82.98,high,low,6,namecheap,,,07/08/2026 07:03
+d6f92dd9-8fb2-4431-93ba-fb6086841247,curry.clinic,available,19.99,,high,low,5,name.com,,,
+e3125ecd-b645-4fa0-a36d-49c6c584d15d,cows.clinic,available,19.99,,high,low,4,name.com,,,
+7c274bc8-0ac5-47f6-af7c-d0377cfb55af,bridges.clinic,available,19.99,,high,low,7,name.com,,,
+72f5b543-a5d6-4267-b45c-2a8ec3e71f4d,propose.clinic,available,19.99,,high,low,7,name.com,,,
+0b610b27-dd61-4192-a910-05498e94d180,customize.clinic,available,19.99,,high,low,9,name.com,,,
+88192887-8354-43f6-b26b-7eafdb2d0b27,totaled.clinic,available,19.99,,high,low,7,name.com,,,
+5c06895e-4a22-440c-b7d2-cc26b08f3acc,earmark.clinic,available,11.98,82.98,high,low,7,namecheap,,,06/08/2026 09:08
+48f2ac9e-b244-44f5-a22d-757e79c69c2b,inspirational.clinic,available,19.99,,high,low,13,name.com,,,
+216a924f-7e09-48e3-bf85-15533f54cf9f,cons.clinic,available,19.99,,high,low,4,name.com,,,
+3cef25fc-10f7-4f22-89d4-46787f804661,influential.clinic,available,11.98,82.98,high,low,11,namecheap,,,08/09/2026 05:20
+0ab23376-6901-4a0b-8f71-fb2e2f96e3de,adipose.clinic,available,11.98,82.98,high,low,7,namecheap,,,
+ea8241ed-5fb5-4d5f-aa2b-ed760eae0e9c,fish.clinic,premium,242,242,high,low,4,namesilo,,,
+73b02123-ba42-4376-afd4-636d807e4a7f,assess.clinic,available,19.99,,high,low,6,name.com,,,
+b962a4ff-e95d-42cc-ae74-c08fcb3749e7,secured.clinic,available,19.99,,high,low,7,name.com,,,
+8eddf768-f734-44ba-9857-5e8042bdbdb0,upper.clinic,available,19.99,,high,low,5,name.com,,,
+a0d8d595-6743-4621-a363-a2f492a77c3e,estado.clinic,available,19.99,,high,low,6,name.com,,,
+9ea67b5e-534c-4df2-a531-2321bc0635fd,pillowcase.clinic,available,19.99,,high,low,11,name.com,,,
+7aaafb99-f89c-4226-b827-bf4460673556,wharf.clinic,available,19.99,,high,low,5,name.com,,,
+2650ae8f-70fa-4938-b469-cb897df319db,went.clinic,available,19.99,,high,low,4,name.com,,,
+6c4dcad4-6302-4c43-a7ab-9b6c77992600,progression.clinic,available,19.99,,high,low,11,name.com,,,
+829fac96-6480-4398-8cfb-0d7e1dbae63d,gave.clinic,available,19.99,,medium,low,4,name.com,,,
+43d4a31c-17e3-4ce6-895b-9903ca1614ec,suspect.clinic,available,19.99,,high,low,7,name.com,,,
+6deb983c-6fa2-4f58-84f3-d73ad592bb56,agelong.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+e514764c-26fb-4808-9ef5-123e98541f03,theory.clinic,available,19.99,,high,low,6,name.com,,,
+bf57609d-5498-44df-a89b-88e95024bc1a,attender.clinic,available,11.98,82.98,medium,low,8,namecheap,,,07/08/2026 15:17
+bc44e250-ebef-4cb5-8587-8af282466ee4,brook.clinic,available,19.99,,high,low,5,name.com,,,
+5d8ebbc6-dee7-4573-b85e-5a748bd72f01,lego.clinic,available,,,high,low,4,,,,
+3b0eb053-5040-4d16-ba84-2a9391100241,taken.clinic,available,19.99,,high,low,5,name.com,,,
+ecc05b9c-8e6b-4eca-a159-31505c6290ab,acronymous.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+7063d7c6-ecf5-40d0-8d47-0ffb426f8201,aleut.clinic,available,11.98,82.98,high,low,5,namecheap,,,
+3a460bfd-4ced-46df-a7fb-1dc0c1b098b1,points.clinic,available,19.99,,high,low,6,name.com,,,
+36798476-5140-4b60-895b-56b57b240715,original.clinic,available,19.99,,high,low,8,name.com,,,
+b1b593b4-34e9-4386-bf28-af0f40c20f06,bashful.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/08/2026 22:01
+e5d84810-b7f0-4ef1-99b0-de72350ff0be,courtroom.clinic,available,19.99,,high,low,9,name.com,,,
+bcbfdb10-f373-4408-b6a2-22005038daa3,gaming.clinic,resell,,,high,low,6,"GoDaddy.com, LLC",08/10/2014 17:22,08/10/2026 17:22,
+140ce935-9b1e-4bb1-8b8f-d1f18d5c6957,alchemical.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+b8729cc8-4c9f-4dd3-955b-921a8585f6e8,solely.clinic,available,11.98,82.98,high,low,6,namecheap,,,
+9439ca9a-c98f-49dd-bda1-a1740af7b7bf,theyre.clinic,available,19.99,,medium,low,6,name.com,,,
+f7be975c-082e-4229-8d32-4fb7aebb3ff0,really.clinic,available,19.99,,high,low,6,name.com,,,
+e6036050-4fbc-4e95-9e61-01b5e7d129f7,prudent.clinic,available,19.99,,high,low,7,name.com,,,
+ed2ee5d2-18b4-43e5-b641-b1b87b6b2d12,together.clinic,available,,,high,low,8,,,,
+fbbf9e32-d877-4aee-8f84-0c6286875edc,askew.clinic,available,11.98,82.98,medium,low,5,namecheap,,,07/08/2026 03:31
+b53f9462-ce06-4648-95cf-2226f1e165c7,surfer.clinic,available,19.99,,high,low,6,name.com,,,
+0db03567-f166-49fb-aa61-edaae0e2172c,creatively.clinic,available,19.99,,high,low,10,name.com,,,
+6e4c9118-b067-4bbd-a554-f4f28ad1325c,actuated.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+b17be5e4-fcc2-4179-898a-bf83e7c7cca7,instagrammable.clinic,available,19.99,,medium,low,14,name.com,,,
+5bc4ea88-df0c-40bf-8723-506163c447e9,batman.clinic,available,19.99,,high,low,6,name.com,,,
+d388dc89-46e5-4b57-9b47-f6bf22a0e29a,mum.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
+bae8db96-f83e-47eb-a403-6f36ef6c1700,streetfighter.clinic,available,19.99,,medium,low,14,name.com,,,
+99387714-4e71-4f09-8825-75fead719981,sailor.clinic,available,19.99,,high,low,6,name.com,,,
+af7fec74-539e-4743-82fa-6d0462dd834f,nicole.clinic,available,19.99,,high,low,6,name.com,,,
+dd8ead9c-3678-43fc-8a3c-5b836c6c48ee,egg.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+2e5534d1-fef6-4e56-8abd-2e253b3668eb,although.clinic,available,19.99,,medium,low,8,name.com,,,
+e8368e3d-013e-431d-bdfb-6287cae7e3aa,bachelor.clinic,available,19.99,,high,low,8,name.com,,,
+86246e70-ae26-4156-99a9-72f9209b8eb0,activity.clinic,available,19.99,,high,low,8,name.com,,,
+32d8a0cc-cd60-4198-8aac-b6f14f841eb4,obsessive.clinic,available,19.99,,high,low,9,name.com,,,
+bc48795a-2d4f-4e6f-bb7d-6a317e60b699,analyst.clinic,available,19.99,,high,low,7,name.com,,,
+160d2b79-fda4-4c4b-b419-51709698c6df,bathroom.clinic,available,19.99,,high,low,8,name.com,,,
+2706c708-4071-41db-bb83-70d41488c290,xcv.clinic,available,11.98,82.98,medium,low,3,namecheap,,,
+de811fa1-cc1c-4e07-85b1-eb882ceaf3ef,worm.clinic,available,19.99,,high,low,4,name.com,,,
+5da7872b-0fab-4b03-83a4-04616a50c961,cerulean.clinic,available,11.98,82.98,high,low,8,namecheap,,,08/08/2026 03:10
+6892e5a7-19c0-4042-8da6-b3414e0e6959,backstairs.clinic,available,11.98,82.98,medium,low,10,namecheap,,,08/08/2026 06:26
+f00e2d6f-f431-4a71-a4e1-507013e78fc5,accurately.clinic,available,19.99,,high,low,10,name.com,,,
+f2eec965-de9c-4cf7-ac9d-faec0fd80d71,warranty.clinic,available,19.99,,high,low,8,name.com,,,
+f869934b-cf78-42cc-89c3-ffae059d8ed8,stripling.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
+9d9d777c-ff69-47bc-be9a-134e2698e566,dji.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
+acdb197d-847a-4a4f-8e95-5a809ff8252d,achromic.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+6e6525a6-f7c3-42f9-8645-c84e44219f09,becalmed.clinic,available,11.98,82.98,medium,low,8,namecheap,,,09/08/2026 06:03
+9350d992-b7e3-4c6f-b0a4-b1b0c36bbe0a,pita.clinic,available,19.99,,high,low,4,name.com,,,
+c28b9816-2bba-4dfb-b794-7704d2638e2d,equivocal.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+87b0ac97-046d-41e6-b4f8-9024e88613d1,movement.clinic,resell,,,high,low,8,"Sav.com, LLC - 4",02/09/2025 15:15,02/09/2027 15:15,23/09/2026 23:40
+f9096434-2693-48a9-9865-da10ae5591ea,stepmother.clinic,available,19.99,,high,low,10,name.com,,,
+e07f532c-0e2b-4a0c-9bbe-a2cde12b7be3,lxv.clinic,available,11.98,82.98,medium,low,3,namecheap,,,
+270d59a6-a6f6-4424-8627-8b2224ed48e6,depress.clinic,available,19.99,,high,low,7,name.com,,,
+a46b4202-a0e6-4254-94d0-6ecff7e527af,clv.clinic,available,11.98,82.98,high,low,3,namecheap,,,
+af752f16-0f89-4ae2-8773-a356bc17c1e4,tone.clinic,available,19.99,,high,low,4,name.com,,,
+9ae55e31-5efc-44d6-84e4-da4335870fe9,agronomic.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
+9bb86fc8-49e3-4a14-bb48-0d213f6522a8,longer.clinic,available,19.99,,high,low,6,name.com,,,
+eae417eb-f218-4d2c-9c9e-21794f3d1d15,knowing.clinic,available,19.99,,high,low,7,name.com,,,
+15e3fbdf-233a-4a20-90d2-71e8c3df1a84,sentence.clinic,available,19.99,,high,low,8,name.com,,,
+ed68d174-0604-4ec9-80c7-66f981a3da6b,cord.clinic,available,19.99,,high,low,4,name.com,,,
+44d20815-02e2-44c9-bc8a-4159d5aea565,baguette.clinic,available,19.99,,high,low,8,name.com,,,
+cbc28f9f-2d87-48f7-8511-c697a793fff7,situated.clinic,available,19.99,,high,low,8,name.com,,,
+7e3965f5-0cc3-4d7d-9ce7-c8b24e1f072d,streetcleaner.clinic,available,19.99,,low,low,14,name.com,,,
+aa355e0e-c0cd-4824-9ca6-0b0635b2bba0,alamo.clinic,available,,,high,low,5,,,,
+cc8d559c-c78b-4ca2-8e28-52eed26fe796,established.clinic,available,19.99,,high,low,11,name.com,,,
+1784c8da-9474-4e68-aef3-6bb9a3ce9070,octad.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
+938feb97-dabc-4793-9b7d-f3d76b63841f,tobacco.clinic,available,19.99,,medium,low,7,name.com,,,
+fbbe0c84-00cc-492f-900b-9e3ac9764005,astylar.clinic,available,11.98,82.98,medium,low,7,namecheap,,,07/08/2026 10:15
+6a7b5c0f-db10-4f01-831c-23c691e3aaa8,macbook.clinic,available,,,high,low,7,,,,
+96cd91ad-4c1a-4a3d-8fd7-c872e33632ba,took.clinic,available,19.99,,medium,low,4,name.com,,,
+dce66217-24f3-4c73-9bd9-b40c95d166d5,curtain.clinic,available,19.99,,high,low,7,name.com,,,
+14dc52c2-9d27-4edb-9374-477464bb859d,arrayed.clinic,available,11.98,82.98,medium,low,7,namecheap,,,06/08/2026 21:37
+e8b7ec1a-12ba-4dd7-9640-3ffa4c586820,strange.clinic,available,19.99,,high,low,7,name.com,,,
+7bb454a6-41d1-41ba-b7d7-5827d674a9a2,forgive.clinic,available,19.99,,high,low,7,name.com,,,
+72021cde-98ba-476d-84f2-c590fb886a86,bloodless.clinic,available,11.98,82.98,medium,low,9,namecheap,,,07/08/2026 02:19
+4c18efc4-bf98-4d62-be05-a97f26fde353,mushy.clinic,available,11.98,82.98,medium,low,5,namecheap,,,09/08/2026 00:58
+c10b76a7-7784-401f-81ed-a7ccf1f2627f,page.clinic,available,19.99,,high,low,4,name.com,,,
+33f68b9e-927d-46bd-82e3-8862a09ce60f,armoured.clinic,available,11.98,82.98,high,low,8,namecheap,,,06/08/2026 20:10
+cc314189-d3e8-4e65-b06d-fc0907447200,ilx.clinic,available,11.98,82.98,medium,low,3,namecheap,,,
+362659a7-db71-4883-b569-3ac8117feb1d,coffeeman.clinic,available,19.99,,high,low,9,name.com,,,
+50655bf3-0b88-4bb9-b5eb-0d13901eecea,buttocks.clinic,available,11.98,82.98,medium,low,8,namecheap,,,09/08/2026 10:25
+887c2084-3beb-4ab3-9f47-08d668cf53d0,fictive.clinic,available,11.98,82.98,medium,low,7,namecheap,,,07/08/2026 07:55
+cf2f3c37-ffb7-48c9-a9c9-9a93811cfbb2,shortfall.clinic,available,19.99,,high,low,9,name.com,,,
+4abe4481-258d-457f-8e76-c67959ec1313,completion.clinic,available,19.99,,high,low,10,name.com,,,
+ee5f2589-0c0e-4551-8f96-3438cde00919,adventive.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
+ead62562-4994-4a76-b41f-1536991944b7,widen.clinic,available,19.99,,high,low,5,name.com,,,
+a8f237f0-9e3a-4909-9b6a-9ba8b438507d,sundress.clinic,available,19.99,,high,low,8,name.com,,,
+dbd81ad7-7793-4730-8da1-5fc4cb636339,barbecue.clinic,available,19.99,,high,low,8,name.com,,,
+3781ccf7-675f-4181-8e07-1ad6e0efa788,asia.clinic,premium,854,854,high,low,4,namesilo,,,
+dbc4a40d-47c6-4165-99e1-1eea6c08744d,dilute.clinic,available,11.98,82.98,high,low,6,namecheap,,,
+435d7fbb-3d90-4003-b126-49f8155b1eee,adviser.clinic,available,19.99,,high,low,7,name.com,,,
+55cc890f-2016-4287-8423-cc751f835440,session.clinic,available,19.99,,high,low,7,name.com,,,
+d35019f7-da1d-4c63-8f17-c53b30b66d04,printable.clinic,available,19.99,,high,low,9,name.com,,,
+110ad8d7-6aa0-406d-8bee-1ead33d82019,speeding.clinic,available,19.99,,high,low,8,name.com,,,
+1f9a85db-c8d2-42d0-a46e-fd9fc150660a,abkhazian.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+691bbc16-72a9-48eb-8c8e-13066a9dfb5e,fin.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+7527ce2f-5b57-44a8-bdbc-5bb68bdec44d,shapeless.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
+f70c08fd-4385-42dc-9e87-192d080e935f,llp.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
+45a7e56f-5200-4dd5-a6e1-8bc45dbe166b,shock.clinic,available,19.99,,high,low,5,name.com,,,
+cc8a5407-f13c-42a8-bf14-8661e718d412,gregorio.clinic,available,19.99,,high,low,8,name.com,,,
+1ee82211-2048-46e3-8794-4e85808d1480,aching.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
+aa4c4aba-e725-4ce1-ab99-9c236df26d66,kindred.clinic,available,11.98,82.98,high,low,7,namecheap,,,
+bc555a2a-1e19-4a47-b1cf-25a25735fe74,disco.clinic,available,19.99,,high,low,5,name.com,,,
+44b55e7a-e41b-4d75-8586-d39b9e6afed2,allegoric.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+e23fe827-f458-4f78-a259-5a49f1778858,lorry.clinic,available,19.99,,high,low,5,name.com,,,
+692abe24-1f0d-48d7-af31-62f7b2791229,midwinter.clinic,available,19.99,,medium,low,10,name.com,,,
+61007bd7-b056-406f-8279-17dad0e7234d,pad.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+ebd1a6a0-2dfd-4963-abd8-a2e6e5954763,colours.clinic,available,19.99,,high,low,7,name.com,,,
+d8e4b4e3-f8eb-42fa-96e3-15df82b907ab,discount.clinic,premium,118.8,118.8,high,low,8,namesilo,,,
+260332f7-a548-47af-820e-db2567d737ec,cockpit.clinic,available,19.99,,high,low,7,name.com,,,
+e585ff4c-733f-4220-8c3c-6b76efb5915a,criticise.clinic,available,19.99,,high,low,9,name.com,,,
+3475c07c-7f1d-4468-be19-9ff9cf23b438,circus.clinic,available,19.99,,high,low,6,name.com,,,
+2f0dba68-3c85-4060-84a5-9aa98be21d76,wishing.clinic,available,19.99,,high,low,7,name.com,,,
+34794ae1-d020-40b2-8539-149f926de2c1,become.clinic,available,19.99,,high,low,6,name.com,,,
+edccd260-eb59-44a9-ad0a-d7adb5530829,grouping.clinic,available,19.99,,high,low,8,name.com,,,
+d2fcedc2-dca7-4ab3-817f-29636df1c5c7,campaigning.clinic,available,19.99,,high,low,11,name.com,,,
+90bdec17-9106-44f1-9741-8d1d7cbc8494,rookie.clinic,available,19.99,,high,low,6,name.com,,,
+e3f551bd-70ac-4a64-a5d4-683f48ecf4c4,laura.clinic,available,19.99,,high,low,5,name.com,,,
+bd26332a-05af-4c7a-b1cf-cc65e395a639,quaternary.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+489e2380-1788-40a5-b486-34ee7556c1ad,unpaid.clinic,available,11.98,82.98,high,low,6,namecheap,,,
+6a19282f-f2eb-41c5-a890-53f16bcc03e3,kilogramme.clinic,available,19.99,,high,low,10,name.com,,,
+f0df3b43-ad90-483d-a91d-612fc3360dd8,prison.clinic,available,19.99,,high,low,6,name.com,,,
+f80d7137-5e39-4169-8b35-7042c0e9c108,nighttime.clinic,available,19.99,,high,low,9,name.com,,,
+d8638a44-d3d6-438c-ac22-f9eb4dd5c538,speaker.clinic,available,19.99,,high,low,7,name.com,,,
+0c91cab7-2eee-4753-bf06-366e8178d9ef,eolotropic.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+ba902bdb-6a3d-4000-bd6d-10c07e7d9c67,mosquito.clinic,available,19.99,,medium,low,8,name.com,,,
+9bf9ebe6-6022-4e87-8624-ffa7425bc101,lawyer.clinic,resell,,,high,low,6,"NameCheap, Inc.",08/06/2023 09:51,08/06/2026 09:51,
+ef9840bf-43b6-4191-96b8-84291296be94,commission.clinic,available,19.99,,high,low,10,name.com,,,
+c26f5135-d09f-4bda-b65d-9c6ea637bab6,trend.clinic,available,19.99,,high,low,5,name.com,,,
+3aa16058-2700-497c-9fc0-4a2036bac619,nickelodeon.clinic,available,19.99,,high,low,11,name.com,,,
+e6dac406-0ec7-45ec-8dc6-ac5d61346676,eighty.clinic,available,11.98,82.98,high,low,6,namecheap,,,
+b74b51a2-7062-49fe-96ae-a767778c2ced,adhesive.clinic,available,11.98,82.98,high,low,8,namecheap,,,
+1ae2c657-194a-476c-9639-5897fbc65226,punter.clinic,available,19.99,,high,low,6,name.com,,,
+6b9bb2b6-bf55-41ec-b6df-118eac5b391b,coffee.clinic,premium,82.5,,high,medium,6,name.com,,,
+72a0055e-894c-48bf-ba0e-0429511b1368,alligator.clinic,available,19.99,,high,low,9,name.com,,,
+767bed27-4ba9-4d6b-95d0-a8f312fc489e,grassroots.clinic,available,11.98,82.98,high,low,11,namecheap,,,20/08/2026 18:16
+9e539b22-446f-4434-a200-58a929a984d1,decide.clinic,available,19.99,,high,low,6,name.com,,,
+6858b58c-2d7f-4c70-bc7b-ef4aee60cc05,amnesiac.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+3f0a481d-78bb-4bb1-866c-2215a2c7a035,appoint.clinic,available,19.99,,high,low,7,name.com,,,
+0d15479e-0070-4c31-9aab-cacaa6ed345c,freaking.clinic,available,19.99,,high,low,8,name.com,,,
+0ff82279-be0c-441d-b048-496dd5c273df,economy.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/09/2026 12:29
+cc8ad9f6-e893-4be3-8759-a65dfd44ee34,moment.clinic,available,19.99,,high,low,6,name.com,,,
+037640c6-02d5-42a2-a210-ff2e6b753e47,referable.clinic,available,11.98,82.98,medium,low,9,namecheap,,,07/08/2026 01:28
+9f71cb56-df9a-4d16-ada4-674fc9f13f7f,lager.clinic,available,19.99,,high,low,5,name.com,,,
+a92d4032-c1cb-47c5-aba1-7a7b1de58ca8,director.clinic,available,19.99,,high,low,8,name.com,,,
+42f3f358-1498-4702-ba1d-0025f3ae2feb,hedge.clinic,available,19.99,,high,low,5,name.com,,,
+ad24e2b2-8c5f-49e9-8090-5a4b8ab92517,tahoe.clinic,available,,,high,low,5,,,,
+48d62767-f2c9-4d2d-9b95-fe4f408c9fa7,mechanic.clinic,available,19.99,,high,low,8,name.com,,,
+1ed8f340-3858-4c6a-91fc-a87f9119f0e6,halo.clinic,resell,,,high,medium,4,"Spaceship, Inc.",22/10/2025 19:03,22/10/2026 19:03,
+f9579308-4266-4660-ab49-9bf248b1630b,anagram.clinic,available,19.99,,high,low,7,name.com,,,
+cbf74eb0-84ec-46aa-b917-ba0869d070e1,garlic.clinic,available,19.99,,high,low,6,name.com,,,
+187f6a76-4849-4d86-a2cd-6e9c34b362c4,macedonia.clinic,available,19.99,,high,medium,9,name.com,,,
+b42b1df3-c033-497d-b7c0-678d2a92b256,activation.clinic,available,11.98,82.98,high,low,10,namecheap,,,
+9e30549f-3a76-41ac-9391-82fa01215691,xxiii.clinic,available,11.98,82.98,high,low,5,namecheap,,,
+72fb4802-7d18-49cd-b507-42eb1de29530,affined.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+c0c8e824-f332-440d-a9a6-bdb244c9ab71,aspirin.clinic,available,,,high,low,7,,,,
+46bb1ac8-863a-440b-98ae-0288dc88cc20,mom.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+9098cb0b-768b-4da5-b7e2-37dc05a2ca07,des.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
+88127a78-42fc-408a-8ae2-62eb1d5a4320,jack.clinic,available,19.99,,high,medium,4,name.com,,,
+dbb785e8-ed76-4644-8b9f-071eee0e358e,acids.clinic,available,19.99,,medium,low,5,name.com,,,
+2fced8a3-70d2-461d-a14d-e2ebe98f7e64,rigid.clinic,available,19.99,,high,low,5,name.com,,,
+32f577f0-9045-4a8d-a73a-0b2229d1e373,noon.clinic,available,19.99,,high,low,4,name.com,,,
+4d6fb652-67e8-44fa-b316-b7a107fbe5d6,pertinent.clinic,available,11.98,82.98,high,low,9,namecheap,,,06/08/2026 07:59
+18517b43-0447-4c2d-b32b-5fc1c0e6f33c,insignificant.clinic,available,19.99,,medium,low,13,name.com,,,
+de8cf43c-2ece-4af2-bc18-bcddb6e75ccd,way.clinic,premium,250,,high,low,3,name.com,,,
+a2e673ee-8183-44ab-8ef7-744ad04f3ec8,response.clinic,available,19.99,,high,low,8,name.com,,,
+e6d08fa7-5f86-4db4-8c34-1c54272a48ff,inhibit.clinic,available,19.99,,high,low,7,name.com,,,
+65436dce-7b6f-4b92-afbc-0fe0dafe1946,tbd.clinic,available,19.99,,high,low,3,name.com,,,
+87f4548a-c7bc-4a9a-86a5-ac9888f4d10e,affecting.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+2cbc275f-987b-426f-ba14-6c408232d665,axe.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+802ed83c-2352-4bf4-a78f-4ff5a47f5490,procrastinate.clinic,available,19.99,,medium,low,13,name.com,,,
+cdb23260-5c12-458e-9a03-275da3633c9d,browser.clinic,available,19.99,,high,low,7,name.com,,,
+0eac9c14-fd32-4217-b536-4d7c2456779d,corresponding.clinic,available,19.99,,high,low,13,name.com,,,
+90f0a89a-b588-4cc3-8b30-cc881c3ce3f2,critic.clinic,available,19.99,,high,low,6,name.com,,,
+c1ce341d-bed3-4390-b64c-40b7d519c596,misses.clinic,available,19.99,,high,low,6,name.com,,,
+c173ecb8-ffba-4d22-aff2-876145850ac2,pesky.clinic,available,11.98,82.98,high,low,5,namecheap,,,
+12c97d0c-41cd-4842-ba16-b4f7684cb181,appointive.clinic,available,11.98,82.98,medium,low,10,namecheap,,,06/08/2026 07:16
+cf5b6948-6983-4921-98d5-2eec99497423,acrobatic.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+c076b80a-8c64-4792-afa7-b3f300429749,alcohol.clinic,premium,118.8,118.8,high,low,7,namesilo,,,
+30f89f49-0e3b-4035-bb7d-ae0b053127d0,impressed.clinic,available,19.99,,high,low,9,name.com,,,
+f221a9aa-a200-489a-890b-ca491ed199ea,race.clinic,available,19.99,,high,low,4,name.com,,,
+8ea00174-dc3d-4456-9469-5cbad7f16d9e,lamp.clinic,available,19.99,,high,low,4,name.com,,,
+42d591f9-4624-4fa3-afa6-161c114cc6fa,plate.clinic,available,19.99,,high,low,5,name.com,,,
+3e598078-096a-40e3-8c40-5f0b6290e0c0,appealing.clinic,available,11.98,82.98,high,low,9,namecheap,,,06/08/2026 05:51
+5bc1e5f7-017a-4eda-a35c-95192b07be66,left.clinic,available,19.99,,high,low,4,name.com,,,
+2c262a7f-2176-4d34-a8f6-c15becab0a5a,twoscore.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+17e2ac42-cb49-43d1-aa9c-c837525b6aea,must.clinic,available,19.99,,high,low,4,name.com,,,
+89b71215-f704-4478-bc1c-b6cd70bd3cdd,ttyl.clinic,available,19.99,,medium,low,4,name.com,,,
+a3df0ede-865a-475c-9bb4-66824dac06bf,challenging.clinic,available,19.99,,high,low,11,name.com,,,
+27475756-346a-4d3d-bbb2-c4dd3c73c079,deserter.clinic,available,11.98,82.98,medium,low,8,namecheap,,,06/08/2026 03:40
+82f591b2-e49b-4500-afc5-f9df1de2f7ca,definitively.clinic,available,19.99,,medium,low,12,name.com,,,
+6be929fe-7d77-4392-97da-b6a3bc1ba923,booklist.clinic,available,19.99,,high,low,8,name.com,,,
+2ef156b4-47c4-484a-af8d-7593e73ca52f,unquestionable.clinic,available,19.99,,medium,low,14,name.com,,,
+6a694011-ee26-4d7f-ba43-e3df9216ddaf,court.clinic,available,19.99,,high,low,5,name.com,,,
+0a08c788-5622-47c1-ab3f-b88eb23d417f,trapped.clinic,available,11.98,82.98,medium,low,7,namecheap,,,07/08/2026 11:08
+19db7db3-5be0-4adf-abbf-17bbedd3df46,antitoxic.clinic,available,11.98,82.98,medium,low,9,namecheap,,,05/08/2026 19:55
+e6e88e24-de04-4ae9-8b21-aa324231fac6,diving.clinic,available,19.99,,high,low,6,name.com,,,
+5fa90640-2866-4dca-9df0-97033c6edcc2,tues.clinic,available,19.99,,high,low,4,name.com,,,
+3d3a9b53-9020-4999-9fbb-c245b6db70f9,anger.clinic,available,19.99,,high,low,5,name.com,,,
+9fb4c0e4-5497-44a6-8b9c-39fb33921d4d,experienced.clinic,available,19.99,,high,low,11,name.com,,,
+d3b713c3-26d3-4644-a32c-66e912563ae2,lxiii.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
+8e0b6488-0eb8-45e9-bafb-b9b29b5a1458,sport.clinic,premium,500,,high,low,5,name.com,,,
+789403f2-c291-4261-a06e-9624f8bc2d2d,admiration.clinic,available,19.99,,high,low,10,name.com,,,
+0378b798-f6dc-4609-a667-16c30ec52a75,stormy.clinic,available,19.99,,high,low,6,name.com,,,
+2fe8d0ae-96e7-448d-b596-1ec0a382eb06,allowance.clinic,available,19.99,,high,low,9,name.com,,,
+c14586a3-ecea-444d-b935-94e612a6b6fe,terms.clinic,available,19.99,,high,low,5,name.com,,,
+5dd94418-9312-46c7-b600-fe037f67f88d,saved.clinic,available,19.99,,high,low,5,name.com,,,
+c8490cf1-aeb3-4c8b-8d24-09e9d2c2091d,lane.clinic,available,19.99,,high,low,4,name.com,,,
+05a57978-acca-4243-93f2-53acaa4fd688,amongst.clinic,available,19.99,,medium,low,7,name.com,,,
+905fcc07-44c9-473a-bf69-f4ece44714fc,bucket.clinic,available,19.99,,high,low,6,name.com,,,
+663cf28c-b486-4330-b3ee-8b73553f91b6,irregular.clinic,available,19.99,,high,low,9,name.com,,,
+4d7c29cd-9f4a-4e8c-9986-2caac8947fd8,lisboa.clinic,premium,118.8,118.8,high,low,6,namesilo,,,
+1adeea02-a75b-4400-9cae-12d5dd8b71e5,pup.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+d7d17fc6-c575-4d16-897c-3597eebbf2e1,improve.clinic,available,19.99,,high,low,7,name.com,,,
+29859b77-0227-46cf-a006-209c5f3706a0,indefinite.clinic,available,19.99,,high,low,10,name.com,,,
+61627709-2d51-451a-9bc7-ee0ff6ac5770,industrial.clinic,available,19.99,,high,low,10,name.com,,,
+a7d17fc4-a8ee-4a95-80e4-cf5e1464b814,disgrace.clinic,available,19.99,,high,low,8,name.com,,,
+17dec925-9123-4dbc-92ae-21d6ec92cba4,conjunction.clinic,available,19.99,,high,low,11,name.com,,,
+25acaea0-aa54-4e54-988a-80d47fb020be,ahorseback.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+26da2d1d-63c9-4f81-be10-be1b23d8003d,succeed.clinic,available,19.99,,high,low,7,name.com,,,
+87c0fbbf-10f9-466a-a1b5-1456d2ff2ba1,jumping.clinic,available,11.98,82.98,high,low,7,namecheap,,,08/09/2026 06:49
+4195b4f3-65f2-491f-8658-6f12dcc2a90e,autarchic.clinic,available,11.98,82.98,medium,low,9,namecheap,,,07/08/2026 18:36
+f092010f-eeeb-4826-86af-7ef74342f85c,maxim.clinic,available,19.99,,high,low,5,name.com,,,
+ed945411-23ad-4f79-b8d9-043f7399d4d6,bardic.clinic,available,11.98,82.98,medium,low,6,namecheap,,,08/08/2026 18:00
+702723bd-203c-4f99-8ef1-88f4c2fc2129,area.clinic,available,19.99,,high,low,4,name.com,,,
+ecfd41dd-676a-4c20-9ebb-f42eced68665,shoplift.clinic,available,19.99,,medium,low,8,name.com,,,
+fe0a7258-ce0b-4a52-8fb2-fbddbe7abd26,nike.clinic,available,,,high,low,4,,,,
+a5ed867d-138c-49a7-af12-76d27e7a538c,freeway.clinic,available,19.99,,high,low,7,name.com,,,
+39c98d7c-788d-47d3-86b1-04565e88c9ef,truffle.clinic,available,19.99,,high,low,7,name.com,,,
+94c7ac01-dca5-46a2-a1fc-68a13c9049ca,congratulations.clinic,available,19.99,,high,low,15,name.com,,,
+f7735879-c7a8-4f20-aff4-4edc5182551d,beside.clinic,available,19.99,,high,low,6,name.com,,,
+f3b1f0c3-07ab-411d-a31f-c8d1615598cd,sunburst.clinic,available,19.99,,high,low,8,name.com,,,
+74ac9d66-992c-45f0-a9c1-1845cfeea4f9,archetypal.clinic,available,11.98,82.98,high,low,10,namecheap,,,06/08/2026 15:32
+59f0d8dc-2246-495f-9eb7-cb52084caa97,ixl.clinic,available,11.98,82.98,medium,low,3,namecheap,,,
+a94e7755-edda-45b9-bc09-51f309a066b9,thorpe.clinic,available,19.99,,high,low,6,name.com,,,
+6ceb8160-2283-4278-bf64-e1fef478f485,erase.clinic,available,19.99,,high,low,5,name.com,,,
+b612b7e4-608c-4d32-a773-1959b51f6dff,addresses.clinic,available,19.99,,medium,low,9,name.com,,,
+f1b4e941-15f0-4f1b-b457-2ffca747d99a,amoeboid.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+d0ccebb8-fe92-466c-bfe4-9f4bf1935777,arabian.clinic,available,11.98,82.98,high,low,7,namecheap,,,06/08/2026 11:05
+e4b802b6-6d3d-4b30-8b4c-8f7e1f7aae1d,rural.clinic,premium,500,500,high,low,5,name.com,,,08/09/2026 07:52
+8a19b965-df92-4b30-a578-7ce92d26ffbc,campaigner.clinic,available,19.99,,high,low,10,name.com,,,
+4cd2920f-de16-45c5-afa1-696abfb86851,creating.clinic,available,19.99,,high,low,8,name.com,,,
+3e0c07b1-4bf2-42f1-b7d9-ff8930fb3b04,intercultural.clinic,available,19.99,,high,low,13,name.com,,,
+72ef551e-0ebb-45a6-98cf-1bb2065b19cf,exclusively.clinic,available,19.99,,high,low,11,name.com,,,
+5ea8a520-d9a3-4c13-a797-6afc2c564870,principal.clinic,available,19.99,,high,low,9,name.com,,,
+c164cd64-3e22-4bf0-a966-61ae4c47b712,whenever.clinic,available,19.99,,medium,low,8,name.com,,,
+d64231d8-33b9-48e7-850e-30bdea202ef9,supplied.clinic,available,19.99,,medium,low,8,name.com,,,
+4cbaa618-c460-481d-8455-8391088e4b5b,knotty.clinic,available,11.98,82.98,medium,low,6,namecheap,,,08/08/2026 08:12
+0dbc7846-f075-4e73-ac46-cddf1edfb999,worsening.clinic,available,19.99,,medium,low,9,name.com,,,
+1d4a0f3c-5bf5-4e21-a03a-fe424db054e2,sciences.clinic,available,19.99,,medium,low,8,name.com,,,
+c14edfdf-4f21-4e30-92bd-7eac5909db8b,against.clinic,available,19.99,,medium,low,7,name.com,,,
+66816e15-2df4-4638-b24d-89d20b79a46e,starting.clinic,available,19.99,,high,low,8,name.com,,,
+b3e0e922-2ed0-4626-8e70-8c8e96924184,condone.clinic,available,19.99,,high,low,7,name.com,,,
+580fcc65-9598-4e62-8b30-efc7c702c535,algid.clinic,available,11.98,82.98,medium,low,5,namecheap,,,
+25da943f-684d-4bcf-bc42-4a843997f5f0,dubstep.clinic,available,19.99,,high,low,7,name.com,,,
+a2329270-878a-4cac-8cc7-8a58d9564940,fort.clinic,available,19.99,,high,low,4,name.com,,,
+e1e152a1-3941-451d-9382-8d2c3696e752,noise.clinic,available,19.99,,high,low,5,name.com,,,
+5a3da33e-a529-408e-aebe-698b69dbc6e3,departed.clinic,available,11.98,82.98,medium,low,8,namecheap,,,07/08/2026 11:31
+00811a5d-21b8-4083-917f-2bf4c361b432,eased.clinic,available,11.98,82.98,high,low,5,namecheap,,,
+212ec6d7-fa6f-4534-9911-76a401349130,checklist.clinic,available,19.99,,high,low,9,name.com,,,
+ae9ea87c-dbd3-46d2-a6ba-7988f8ce4447,amount.clinic,available,19.99,,high,low,6,name.com,,,
+cdb6793e-8b2c-4a9b-9811-8fef2b09913f,azygos.clinic,available,11.98,82.98,medium,low,6,namecheap,,,08/08/2026 03:32
+d7e2cda8-15b7-4918-bf1a-afc9db308d77,mash.clinic,available,19.99,,high,low,4,name.com,,,
+9c796f7a-3b4d-43b8-a7d9-e91ae95ea9eb,genesis.clinic,resell,,,high,low,7,"NameCheap, Inc.",20/10/2024 17:00,20/10/2026 17:00,
+8e04ec61-0675-403e-953d-674fefe96b9f,how.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+829f542c-a7e9-41a9-a6da-1fda0f35c4a3,script.clinic,available,11.98,82.98,high,low,6,namecheap,,,08/09/2026 13:57
+a1b95487-577b-4bc2-876a-9b868241ab91,nutrient.clinic,available,11.98,82.98,high,low,8,namecheap,,,08/09/2026 11:42
+9c1aea12-cf50-4ab9-97f7-24fc950c04bf,avaricious.clinic,available,11.98,82.98,medium,low,10,namecheap,,,07/08/2026 21:48
+f14817e5-8374-47cf-9968-fbd29a61cd66,memorize.clinic,available,19.99,,high,low,8,name.com,,,
+8dae4eb9-e805-4fbe-87fe-d709a31a9121,inc.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+d1c4b8f8-91be-49c3-825c-2e08696ee1b6,auld.clinic,available,11.98,82.98,medium,low,4,namecheap,,,07/08/2026 17:21
+2d69acbf-f1e1-4f4a-ac53-6c6556171838,cosmos.clinic,resell,,,high,low,6,Porkbun LLC,05/01/2025 21:09,05/01/2027 21:09,
+9621613f-7731-4ce6-9025-0ef5c19a120f,overall.clinic,available,19.99,,high,low,7,name.com,,,
+bfd1b22f-9b2e-4836-85de-e1073cc74bce,fibre.clinic,available,19.99,,high,low,5,name.com,,,
+264c1bbd-1720-454c-8897-8e3dded68d2a,planning.clinic,available,19.99,,high,low,8,name.com,,,
+19139227-e3a7-4416-be05-2a7bc1b9aa8f,prat.clinic,available,11.98,82.98,medium,low,4,namecheap,,,09/08/2026 11:18
+e21d077e-5d02-4422-9962-2d0a1eaba589,wikimedia.clinic,available,,,medium,low,9,,,,
+debc358f-3751-45be-8127-bec360d1f686,sourcecode.clinic,available,11.98,82.98,high,low,11,namecheap,,,08/09/2026 07:26
+b61961d2-60dd-4410-827b-89e619938034,involved.clinic,available,19.99,,high,low,8,name.com,,,
+d7ba3264-9c10-4548-8e92-021ef7a15dd7,god.clinic,premium,500,,high,medium,3,name.com,,,
+e6137755-091f-4d64-8040-472c1b3230d9,acuate.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
+e7a1fe9e-341d-40b9-be5b-8901172a2b7f,proved.clinic,available,19.99,,high,low,6,name.com,,,
+b39b0c99-5cd0-45ea-82af-f8772e046e3d,watt.clinic,available,19.99,,high,low,4,name.com,,,
+fa4bfaf4-9b3c-41f1-86c6-4d90c9bb954f,activating.clinic,available,11.98,82.98,high,low,10,namecheap,,,
+d2f6b5ce-aeb8-42eb-9f6b-d15b4f0d6ec1,toe.clinic,premium,123.75,,high,low,3,name.com,,,
+d7ceddcb-92e2-4705-b342-4af8caf12f47,airless.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+dd75488a-7a05-48c6-84e0-8f36d92a4df3,jerky.clinic,available,11.98,82.98,high,low,5,namecheap,,,06/08/2026 22:03
+fa77e4dc-4250-4bee-8193-61702041cf75,enthusiasm.clinic,available,19.99,,high,low,10,name.com,,,
+a1547794-e48f-466b-aa6f-730789c8e607,same.clinic,available,19.99,,high,low,4,name.com,,,
+8d381b8d-d2fd-4619-b61d-0c704335f9cf,prompting.clinic,available,19.99,,high,low,9,name.com,,,
+10bb8012-268e-46ca-b760-d0d6afad71f3,hearts.clinic,available,19.99,,high,low,6,name.com,,,
+24ab6785-b8de-4cee-84c4-862bd1cd4523,proceed.clinic,available,19.99,,high,low,7,name.com,,,
+1ac00207-7e78-4ff4-8361-3ce3c80dcc78,thirtieth.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+c219ef4c-766f-4e73-9ba5-fd6efa86a252,adviseable.clinic,available,19.99,,high,low,10,name.com,,,
+431ab716-aa3e-4182-bb4d-47a6a90b4ba4,laptop.clinic,premium,242,242,high,low,6,namesilo,,,
+f4176165-7081-4048-b86e-10ce611e2238,sequel.clinic,available,19.99,,high,low,6,name.com,,,
+ffbaf80e-3511-4d33-9212-a3a994c0cc0b,halloween.clinic,available,19.99,,high,low,9,name.com,,,
+bc0ed43d-5e22-4d1f-a43f-c3ab540f8c04,polo.clinic,available,,,high,low,4,,,,
+e4d67cf9-75d3-4a07-89e3-0328f9090caf,systematically.clinic,available,19.99,,medium,low,14,name.com,,,
+1de63ba3-0abf-42ba-bcd3-9a30b26f5931,arduous.clinic,available,11.98,82.98,high,low,7,namecheap,,,06/08/2026 16:40
+bb2cc5f1-dbb8-445d-9e77-ae432b504004,tradition.clinic,available,19.99,,high,low,9,name.com,,,
+da372894-f674-4b5b-bc99-061d4addcba2,mcmuffin.clinic,available,19.99,,high,low,8,name.com,,,
+2dd2e820-c80f-4f86-93a8-0e5687c1faf3,say.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+89ab6227-35e2-4dde-9706-9c06991efe82,capitol.clinic,available,19.99,,high,low,7,name.com,,,
+5d42f130-68ab-4b5a-9863-0ac358cc292b,zestful.clinic,available,11.98,82.98,medium,low,7,namecheap,,,08/08/2026 19:51
+472590d6-bf05-46b9-913c-b39b2e46a0f2,creaky.clinic,available,11.98,82.98,medium,low,6,namecheap,,,06/08/2026 22:59
+c1d3a940-0fad-43eb-9839-cef27e8395ac,verb.clinic,available,19.99,,high,low,4,name.com,,,
+f1f349be-c40a-448f-8611-8f2a971e8480,oslo.clinic,available,19.99,,high,low,4,name.com,,,
+101b5d58-52b8-43d4-816c-bb0df6dc5fb3,boy.clinic,premium,123.75,,high,low,3,name.com,,,
+f4054f27-e3c7-4fe0-941a-06a2dd860ea8,deflation.clinic,available,19.99,,high,low,9,name.com,,,
+9f74ede7-1f6b-42ae-a293-a3c53e34e7be,chart.clinic,available,19.99,,high,low,5,name.com,,,
+20cec511-6f4f-4d1c-a447-cb9821d80616,charmed.clinic,available,,,high,low,7,,,,
+59ee7fae-a964-43de-afde-cc4da71f65e4,haircut.clinic,available,19.99,,high,low,7,name.com,,,
+27308d29-930d-4d60-ae25-73aac1a2d645,attired.clinic,available,11.98,82.98,medium,low,7,namecheap,,,06/08/2026 04:47
+f889aaaa-56fc-4211-8858-b7a48050217a,spice.clinic,available,19.99,,high,low,5,name.com,,,
+129f6fd6-ce68-43aa-b7c0-7106d58c73cc,abeyant.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+92f1c817-6ca9-4f47-8a8b-90857b48d11c,florid.clinic,available,11.98,82.98,medium,low,6,namecheap,,,07/08/2026 17:26
+d2e1718e-5b62-4137-bf99-fe43d5a96b90,twitter.clinic,available,19.99,,high,low,7,name.com,,,
+aca663ce-e7d4-44d9-8fdb-e8494f593754,afterwards.clinic,available,11.98,82.98,medium,low,10,namecheap,,,
+41dec437-094d-459a-9f5d-a506fbe1ed51,nonplussed.clinic,available,11.98,82.98,medium,low,10,namecheap,,,07/08/2026 10:48
+8f585448-07ce-45e1-98e0-bffe60a3fde4,families.clinic,available,19.99,,high,low,8,name.com,,,
+d52744b3-23c2-48cc-8059-ede0c6b87c90,could.clinic,available,19.99,,high,low,5,name.com,,,
+e5cdfe26-0674-4578-8d55-ad5e4283631f,upcoming.clinic,available,11.98,82.98,high,low,8,namecheap,,,06/08/2026 08:39
+fa8f9bd4-61bd-4318-a663-dbeea46fea7c,shirt.clinic,available,19.99,,high,low,5,name.com,,,
+598df97f-9f2c-482a-95ac-528c6e2a62d5,avenged.clinic,available,11.98,82.98,high,low,7,namecheap,,,07/08/2026 22:35
+303f090f-b114-47d9-b5b8-0a7c185f7e06,provide.clinic,available,19.99,,high,low,7,name.com,,,
+626971f2-a643-4f34-8364-6c23d5695482,who.clinic,available,,,medium,low,3,,,,
+d26acc6a-401c-4401-9e45-74c07c64a96b,capitalize.clinic,available,19.99,,high,low,10,name.com,,,
+c6f38b07-933a-402a-9ff3-81d7f2b1976e,gate.clinic,available,19.99,,high,low,4,name.com,,,
+ede01dfa-6d16-4971-9507-162c1f08bd20,lcd.clinic,available,19.99,,high,low,3,name.com,,,
+662c80aa-210a-4b95-b0ff-2be537a2ca92,satisfy.clinic,available,19.99,,high,low,7,name.com,,,
+7dee565b-c3bf-4b57-a7b7-ad5d88f585b6,shortly.clinic,available,19.99,,high,low,7,name.com,,,
+7cfe16e5-f75b-4240-842f-db50b771297c,breakfast.clinic,available,11.98,82.98,high,low,9,namecheap,,,04/09/2026 13:27
+d0ac72d3-3156-4fdb-ad18-741975e44153,initially.clinic,available,19.99,,high,low,9,name.com,,,
+e17134c1-7533-4d25-8cdc-21ab6b53ab92,install.clinic,available,19.99,,high,low,7,name.com,,,
+76af0cf1-8c60-4cc8-acf5-935b6acae33d,ballistic.clinic,available,11.98,82.98,high,low,9,namecheap,,,08/08/2026 10:31
+ec560ab4-c66e-470d-8b86-3b51991f8d19,attraction.clinic,available,19.99,,high,low,10,name.com,,,
+3504f7fc-6545-4f6e-a264-8172f542fd6e,otherwise.clinic,available,19.99,,high,low,9,name.com,,,
+48f031cd-707c-4fe9-a90a-e60d04c4fded,relevance.clinic,available,19.99,,high,low,9,name.com,,,
+120d5272-2e7b-4928-b39d-18bda35b4daf,plague.clinic,available,19.99,,high,low,6,name.com,,,
+ebd07c4c-dc0b-469d-8f05-bea54f7c722e,aestival.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+b19b29f2-6b40-4363-844e-05a2cdfe5ad5,adaxial.clinic,available,11.98,82.98,medium,low,7,namecheap,,,
+11dd8328-55b6-461a-ad15-c42cb90666f5,mainly.clinic,available,19.99,,high,low,6,name.com,,,
+6a253ae8-dbcd-46d1-bdd9-ecdc2564811f,except.clinic,available,19.99,,high,low,6,name.com,,,
+b7145e9d-505f-4405-8e5a-46ee98d7e2b0,gallon.clinic,available,19.99,,high,low,6,name.com,,,
+f23541a1-361b-42dc-bc35-2193e5746304,identified.clinic,available,19.99,,high,low,10,name.com,,,
+62f7f4a0-eea3-4d29-9dab-a75746a8667a,altruism.clinic,available,19.99,,high,low,8,name.com,,,
+bf11b0dd-5325-40af-9fe9-5187ae514dab,shush.clinic,available,19.99,,high,low,5,name.com,,,
+38d1b80b-c20a-4753-8ff9-3f84d3cac078,daughter.clinic,available,19.99,,high,low,8,name.com,,,
+3be28760-c11a-4aa1-95a3-aec7b6c6528d,import.clinic,available,19.99,,high,low,6,name.com,,,
+fd786fed-00f5-48fa-b7c5-00e041da3be9,grasping.clinic,available,11.98,82.98,high,low,8,namecheap,,,07/08/2026 22:04
+069f32f9-4b5f-4292-aa5f-0140b6ee2829,yum.clinic,premium,78.54,78.54,high,low,3,namesilo,,,
+fda6b9ba-bc68-49ef-8185-1babc5c03030,affiliated.clinic,available,11.98,82.98,high,low,10,namecheap,,,
+27a0673b-74c2-444c-a58c-8c3b0c437fca,bossy.clinic,available,11.98,82.98,high,low,5,namecheap,,,07/08/2026 19:35
+ed478851-4ce0-4e9e-9749-8f68de499c84,atypical.clinic,available,11.98,82.98,high,low,8,namecheap,,,07/08/2026 16:06
+72a4a8ff-8ef6-43ec-bf1f-064d9b611d27,devise.clinic,available,19.99,,high,low,6,name.com,,,
+4f59a28b-4731-4e3a-a8c0-ef046e06b4b5,aside.clinic,available,19.99,,high,low,5,name.com,,,
+7c07c440-5f8e-442c-8836-c4d3a2eeb446,wasnt.clinic,available,19.99,,low,low,5,name.com,,,
+40563c54-414b-4fae-8a5f-f603d2d5d219,towards.clinic,available,19.99,,high,low,7,name.com,,,
+739aefe7-ba47-469e-890c-9bff7b73fde8,should.clinic,available,19.99,,high,low,6,name.com,,,
+e94959cb-d7a3-46e3-b742-e34b3cee931e,modish.clinic,available,11.98,82.98,high,low,6,namecheap,,,
+8660167a-8b8a-4cc6-8046-a6e2e6471586,desolate.clinic,available,11.98,82.98,medium,low,8,namecheap,,,08/08/2026 21:07
+54b50acb-dc9f-4a83-a1a5-f88e019f54d1,auric.clinic,available,11.98,82.98,medium,low,5,namecheap,,,07/08/2026 17:36
+a3f3e17f-a4f0-40ac-8a00-e8569061371b,affirm.clinic,available,,,high,low,6,,,,
+ea97a1b2-2d9e-486d-851a-77d28424d73a,trial.clinic,available,19.99,,high,low,5,name.com,,,
+28a1d2e5-7a07-4c8a-8ecd-eafe01ad747f,bake.clinic,available,19.99,,high,low,4,name.com,,,
+e6ca1cd5-1cba-4c89-9f70-07e8b973e285,rest.clinic,premium,242,242,high,low,4,namesilo,,,
+c76842cb-0f13-426c-841b-22a4243a3626,grandmother.clinic,available,19.99,,high,low,11,name.com,,,
+7381fb87-38f8-4500-a36b-719f144bbfdd,disorganized.clinic,available,19.99,,medium,low,12,name.com,,,
+5c5361da-bf8b-43dd-9839-ca48cf5f15d1,clerk.clinic,available,19.99,,high,low,5,name.com,,,
+01d6353c-9928-46da-a36b-f8705630952d,scurvy.clinic,available,11.98,82.98,medium,low,6,namecheap,,,
+37843195-a61e-4a2a-92ad-4502b9d152c6,acervate.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+3844a8d2-54e0-4b2d-99a9-b47182c9949e,publicized.clinic,available,19.99,,high,low,10,name.com,,,
+c54a27da-4cdd-4800-aa39-4b171d8e4f6f,lights.clinic,available,19.99,,high,low,6,name.com,,,
+6688fe20-705f-4c84-b1fe-81a73fc0ae2a,verbal.clinic,available,19.99,,high,low,6,name.com,,,
+428c04b4-1971-43b3-850c-e9b963f9a519,septenary.clinic,available,11.98,82.98,medium,low,9,namecheap,,,
+bc344076-bb9f-4269-a51c-63ae0844fcc4,woops.clinic,available,19.99,,high,low,5,name.com,,,
+f1e146ff-2e70-4883-b22c-6756acfc2e15,shh.clinic,available,19.99,,high,low,3,name.com,,,
+d77b007c-18f8-4988-8b76-d1b802f002d9,kilometre.clinic,available,19.99,,high,low,9,name.com,,,
+810755cb-cec5-44d1-a280-6e5fc6330106,hokey.clinic,available,11.98,82.98,medium,low,5,namecheap,,,09/08/2026 00:37
+f759ef47-ebc7-437a-a659-900d94045b7e,modal.clinic,available,19.99,,high,low,5,name.com,,,
+5a40c548-3eef-4b57-beb4-e0e1f7f667b3,boarded.clinic,available,19.99,,high,low,7,name.com,,,
+f408fbbf-fa01-4312-862c-63cc637cc550,godzilla.clinic,available,,,high,low,8,,,,
+e98f815f-ffe9-4e0d-86f0-7438205d56af,nyc.clinic,premium,854,854,high,medium,3,namesilo,,,
+e0f4c8a1-4402-46e4-bbfe-6adfa6a03924,might.clinic,available,19.99,,high,low,5,name.com,,,
+7d3291ea-e92c-46fb-b24d-fb925e486556,toad.clinic,available,11.98,82.98,high,low,4,namecheap,,,05/08/2026 21:06
+854931c6-8717-4001-b60f-d18f981c919b,property.clinic,premium,520,520,high,low,8,namecheap,,,
+a6d89d29-4794-4689-b717-f2c43cfe4d3b,advisable.clinic,available,11.98,82.98,high,low,9,namecheap,,,
+54f151af-bf53-466b-b0d6-5db20868c051,teenage.clinic,available,11.98,82.98,high,low,8,namecheap,,,11/09/2026 10:07
+886aad6a-c647-41ae-a212-7fa4a192376f,songbird.clinic,available,19.99,,high,low,8,name.com,,,
+dd94e468-b986-4528-88d5-83587e0c2ce4,rice.clinic,available,19.99,,high,low,4,name.com,,,
+db179ad3-ac98-479f-8550-ee324583b833,pastoral.clinic,available,11.98,82.98,high,low,8,namecheap,,,06/08/2026 14:20
+afb832c7-ffaf-4f8a-aec1-213a7dafd760,ohmygosh.clinic,available,19.99,,high,low,8,name.com,,,
+7c12bffe-3cf1-4847-8510-a0cb3061689a,fold.clinic,available,19.99,,high,low,4,name.com,,,
+5b69718a-e0c1-4c8d-83c5-6573114dfc61,baseless.clinic,available,11.98,82.98,medium,low,8,namecheap,,,08/08/2026 21:44
+fa1f42e6-b6c2-4a0d-8755-5e1255d7ec7b,initial.clinic,available,19.99,,high,low,7,name.com,,,
+4872f0d0-2041-4648-af78-f1091a06fe34,mention.clinic,available,19.99,,high,low,7,name.com,,,
+4da0db41-5f3f-40f8-b8c8-a7340861c160,phantasmal.clinic,available,11.98,82.98,medium,low,10,namecheap,,,06/08/2026 05:33
+4a867d0f-e9df-4ac9-befb-6ad9e88cac81,evident.clinic,available,11.98,82.98,high,low,7,namecheap,,,06/08/2026 05:13
+0f60a6e5-0c9e-4765-9d79-204d91480333,hairbrush.clinic,available,19.99,,high,low,10,name.com,,,
+a318c081-6861-4dbc-90fc-8682bb856ec6,surrounding.clinic,available,19.99,,high,low,11,name.com,,,
+96adf9e9-68ec-4c1b-933b-e7695d535b4a,jewel.clinic,available,19.99,,high,low,5,name.com,,,
+13b2ae83-25ac-4279-a309-07953e187ba7,seeds.clinic,available,19.99,,high,low,5,name.com,,,
+38c98d2d-e187-4f3e-973c-1a9a536dd0d2,ambulant.clinic,available,11.98,82.98,high,low,8,namecheap,,,
+16564a52-15cd-4d1b-b545-883d42a7fd47,writing.clinic,premium,118.8,118.8,high,low,7,namesilo,,,
+a73535dd-d5d4-4ce3-8357-2b26911eb5ef,inspired.clinic,available,19.99,,high,low,8,name.com,,,
+71f00f0c-44e4-43e4-aeb0-ebf96367f5cb,gal.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+7e5ebbd2-7eab-41b9-8939-6ef6ba468e7f,acentric.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+a76a9ef2-ee61-4c19-8192-4231b4e2fdb8,autonomic.clinic,available,,,high,low,9,,,,
+0cabee49-def0-4083-b117-57a64176eb08,shifting.clinic,available,19.99,,high,low,8,name.com,,,
+1bd57309-4f45-45fb-a0a7-91d7eeddfd0d,boxing.clinic,available,19.99,,high,low,6,name.com,,,
+1454adb8-d4d2-438e-b3e2-16c0c7a30ddc,bellicose.clinic,available,11.98,82.98,low,low,9,namecheap,,,09/08/2026 01:44
+4251e264-85f1-4657-a70c-46e6c920f544,cement.clinic,available,19.99,,high,low,6,name.com,,,
+aed657d0-6ea9-454f-9af8-a72da3085a77,lxx.clinic,available,11.98,82.98,medium,low,3,namecheap,,,
+58894a13-7a9a-4f92-a982-ebedd31ff871,seeming.clinic,available,19.99,,high,low,7,name.com,,,
+8b1db23b-ff67-4bcd-8de9-6bd4451513e0,retreat.clinic,available,19.99,,high,low,7,name.com,,,
+9796eb34-c15f-4188-b447-ad4e728a8576,antonymous.clinic,available,11.98,82.98,medium,low,10,namecheap,,,05/08/2026 20:16
+4ead0b9f-0b06-45bf-af0a-3c3d9e1f03dc,guard.clinic,available,19.99,,high,low,5,name.com,,,
+67f74e9f-fba1-4ee7-9c67-8ceb6c6da14a,clx.clinic,available,11.98,82.98,high,low,3,namecheap,,,
+0ab4446d-1031-4037-af43-22eee1d197df,need.clinic,available,19.99,,high,low,4,name.com,,,
+b8f85f4c-988b-4c20-b346-5840b6a502f7,autumnal.clinic,available,11.98,82.98,medium,low,8,namecheap,,,07/08/2026 21:23
+08bafd9d-729a-4f86-ab08-8bc8f1af8741,legs.clinic,available,19.99,,high,low,4,name.com,,,
+92b4a396-dd02-4f8d-adbc-8e74d973463b,reunion.clinic,available,19.99,,high,medium,7,name.com,,,
+b4d82769-90e2-4c42-a7c0-7bf87ae14744,taxes.clinic,available,19.99,,medium,low,5,name.com,,,
+e5b26638-f6fc-4929-aeed-0df729c7dffc,les.clinic,premium,118.8,118.8,high,low,3,namesilo,,,
+826b7f58-9cb4-40ff-9e9d-9ea81f06e539,softly.clinic,available,19.99,,high,low,6,name.com,,,
+3b9d6a7c-9eee-4cc2-b685-34e9054b5972,rheumatoid.clinic,available,11.98,82.98,high,low,10,namecheap,,,06/08/2026 23:10
+1bc48d98-b6e1-457a-8890-64fb71e0014b,guide.clinic,premium,500,,high,low,5,name.com,,,
+42361ab8-0528-4cf6-a40a-2f54dd15ad4f,paddle.clinic,available,,,high,low,6,,,,
+92903b05-c95f-4297-8331-da2e6b69dcb2,appalled.clinic,available,11.98,82.98,medium,low,8,namecheap,,,
+deb79adc-317f-4221-b868-dc4e27e7ff09,achiever.clinic,available,19.99,,high,low,8,name.com,,,
