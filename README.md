@@ -1,10 +1,10 @@
-# Available .CLINIC One-Word Domains (31,859)
+# Available .CLINIC One-Word Domains (22,078)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C859%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C078%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .clinic one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,859 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,078 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,859 domains · **Median ask:** $19.85 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,078 domains · **Median ask:** $22.44 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/clinic`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| clv.clinic    | available | $11.98    | $82.98        | high           | low    | 3      | namecheap        |
-| bali.clinic   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| axe.clinic    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| clx.clinic    | available | $11.98    | $82.98        | high           | low    | 3      | namecheap        |
-| halo.clinic   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
-| boy.clinic    | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
-| eid.clinic    | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| block.clinic  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| btw.clinic    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| ilx.clinic    | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap        |
-| smith.clinic  | resell    | —         | —             | high           | medium | 5      | Porkbun LLC      |
-| cap.clinic    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| ixl.clinic    | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap        |
-| cosmos.clinic | resell    | —         | —             | high           | low    | 6      | Porkbun LLC      |
-| dad.clinic    | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| lcd.clinic    | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| gaming.clinic | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| des.clinic    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| lxv.clinic    | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap        |
-| lawyer.clinic | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| aku.clinic     | available | $11.98    | $82.98        | high           | low    | 3      | namecheap         |
+| calm.clinic    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 13 |
+| bob.clinic     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| bja.clinic     | available | $20.99    | $64.99        | medium         | low    | 3      | namesilo          |
+| halo.clinic    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| bow.clinic     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| ccp.clinic     | available | $20.99    | $64.99        | high           | low    | 3      | namesilo          |
+| bloom.clinic   | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 33 |
+| con.clinic     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| fey.clinic     | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap         |
+| smith.clinic   | resell    | —         | —             | high           | medium | 5      | Porkbun LLC       |
+| dew.clinic     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| het.clinic     | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap         |
+| cosmos.clinic  | resell    | —         | —             | high           | low    | 6      | Porkbun LLC       |
+| eve.clinic     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| ixl.clinic     | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap         |
+| genesis.clinic | resell    | —         | —             | high           | low    | 7      | NameCheap, Inc.   |
+| feb.clinic     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| lao.clinic     | available | $11.98    | $82.98        | high           | low    | 3      | namecheap         |
+| healthy.clinic | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,859 live domains                        |
+| 1,000-row public sample | 22,078 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLINIC One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
