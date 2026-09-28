@@ -1,10 +1,10 @@
-# Available .CLINIC One-Word Domains (22,855)
+# Available .CLINIC One-Word Domains (23,336)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C855%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C336%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .clinic one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,855 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,336 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,855 domains · **Median ask:** $22.58 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 23,336 domains · **Median ask:** $22.66 · **High-demand under $2,500:** 3
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/clinic`
@@ -74,16 +74,16 @@ print(df.head())
 | smith.clinic      | resell    | —         | —             | high           | medium | 5      | Porkbun LLC          |
 | con.clinic        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
 | fey.clinic        | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap            |
-| cosmos.clinic     | resell    | —         | —             | high           | low    | 6      | Porkbun LLC          |
+| genesis.clinic    | resell    | —         | —             | high           | low    | 7      | NameCheap, Inc.      |
+| cpa.clinic        | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship            |
+| fis.clinic        | available | $11.98    | $82.98        | high           | low    | 3      | namecheap            |
+| healthy.clinic    | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC     |
 | dew.clinic        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
 | het.clinic        | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap            |
-| genesis.clinic    | resell    | —         | —             | high           | low    | 7      | NameCheap, Inc.      |
+| wellington.clinic | resell    | —         | —             | high           | low    | 10     | Mesh Digital Limited |
 | eve.clinic        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo             |
 | ixl.clinic        | available | $11.98    | $82.98        | medium         | low    | 3      | namecheap            |
-| healthy.clinic    | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC     |
 | feb.clinic        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
-| lao.clinic        | available | $11.98    | $82.98        | high           | low    | 3      | namecheap            |
-| wellington.clinic | resell    | —         | —             | high           | low    | 10     | Mesh Digital Limited |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,855 live domains                        |
+| 1,000-row public sample | 23,336 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
